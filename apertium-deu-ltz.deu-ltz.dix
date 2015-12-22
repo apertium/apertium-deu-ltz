@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <!-- Define the alphabet below. -->
+  <alphabet>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüß</alphabet>
+
+  <sdefs>
+    <!-- Define symbol definitions within <sdef> here. -->
+    <sdef n="n"     c="Noun"/>
+    <sdef n="sg"    c="Singular"/>
+    <sdef n="pl"    c="Plural"/>
+    <sdef n="prn"   c="Pronoun"/>
+    <sdef n="vblex" c="Lexical verb"/> 
+    <sdef n="vbser" c="The verb 'to be'"/> 
+    <sdef n="vbhaver" c="The verb 'to have'"/> 
+    <sdef n="vbmod" c="Modal verb"/> 
+    <sdef n="vaux"  c="Auxilliary verb"/> 
+    <sdef n="det"   c="Determiner"/> 
+    <sdef n="pr"    c="Preposition"/> 
+  </sdefs>
+
+  <section id="main" type="standard">
+
+    <e><p><l>der<s n="det"/></l><r>den<s n="det"/></r></p></e>
+    <e><p><l>ein<s n="det"/></l><r>en<s n="det"/></r></p></e>
+
+    <e><p><l>ich<s n="prn"/></l><r>ech<s n="prn"/></r></p></e>
+    <e><p><l>du<s n="prn"/></l><r>du<s n="prn"/></r></p></e>
+    <e><p><l>er<s n="prn"/></l><r>hien<s n="prn"/></r></p></e>
+    <e><p><l>sie<s n="prn"/></l><r>si<s n="prn"/></r></p></e>
+    <e><p><l>es<s n="prn"/></l><r>hatt<s n="prn"/></r></p></e>
+    <e><p><l>wir<s n="prn"/></l><r>mir<s n="prn"/></r></p></e>
+    <e><p><l>ihr<s n="prn"/></l><r>dir<s n="prn"/></r></p></e>
+    <e><p><l>sie<s n="prn"/></l><r>si<s n="prn"/></r></p></e>
+
+    <e><p><l>werden<s n="vaux"/></l><r>ginn<s n="vaux"/></r></p></e>
+    <e><p><l>sein<s n="vbser"/></l><r>sinn<s n="vbser"/></r></p></e>
+    <e><p><l>haben<s n="vbhaver"/></l><r>hunn<s n="vbhaver"/></r></p></e>
+    <e><p><l>sollen<s n="vbmod"/></l><r>sollen<s n="vbmod"/></r></p></e>
+
+    <e><p><l>an<s n="pr"/></l><r>un<s n="pr"/></r></p></e>
+    <e><p><l>auf<s n="pr"/></l><r>op<s n="pr"/></r></p></e>
+    <e><p><l>aus<s n="pr"/></l><r>aus<s n="pr"/></r></p></e>
+    <e><p><l>außerhalb<s n="pr"/></l><r>baussen<s n="pr"/></r></p></e>
+    <e><p><l>durch<s n="pr"/></l><r>duerch<s n="pr"/></r></p></e>
+    <e><p><l>für<s n="pr"/></l><r>fir<s n="pr"/></r></p></e>
+    <e><p><l>gegen<s n="pr"/></l><r>widder<s n="pr"/></r></p></e>
+    <e><p><l>hinter<s n="pr"/></l><r>hanner<s n="pr"/></r></p></e>
+    <e><p><l>in<s n="pr"/></l><r>an<s n="pr"/></r></p></e>
+    <e><p><l>mit<s n="pr"/></l><r>mat<s n="pr"/></r></p></e>
+    <e><p><l>neben<s n="pr"/></l><r>niewen<s n="pr"/></r></p></e>
+    <e><p><l>seit<s n="pr"/></l><r>zënter<s n="pr"/></r></p></e>
+    <e><p><l>über<s n="pr"/></l><r>iwwer<s n="pr"/></r></p></e>
+    <e><p><l>um<s n="pr"/></l><r>ëm<s n="pr"/></r></p></e>
+    <e><p><l>unter<s n="pr"/></l><r>ënner<s n="pr"/></r></p></e>
+    <e><p><l>von<s n="pr"/></l><r>vun<s n="pr"/></r></p></e>
+    <e><p><l>vor<s n="pr"/></l><r>virun<s n="pr"/></r></p></e>
+    <e><p><l>zu<s n="pr"/></l><r>ze<s n="pr"/></r></p></e>
+    <e><p><l>zwischen<s n="pr"/></l><r>tëschen<s n="pr"/></r></p></e>
+
+  </section>
+</dictionary>
