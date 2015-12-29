@@ -6,6 +6,9 @@
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
     <sdef n="n"     c="Noun"/>
+    <sdef n="m" 	c="Masculine"/> 
+    <sdef n="f" 	c="Feminine"/> 
+    <sdef n="nt" 	c="Neuter"/> 
     <sdef n="sg"    c="Singular"/>
     <sdef n="pl"    c="Plural"/>
     <sdef n="prn"   c="Pronoun"/>
@@ -16,6 +19,14 @@
     <sdef n="vaux"  c="Auxilliary verb"/> 
     <sdef n="det"   c="Determiner"/> 
     <sdef n="pr"    c="Preposition"/> 
+    <sdef n="adj" 	c="Adjective"/> 
+    <sdef n="attr" 	c="Attributive"/> 
+    <sdef n="pred" 	c="Predicative"/> 
+    <sdef n="adv" 	c="Adverb"/> 
+    <sdef n="sint" 	c="Synthetic adjective"/> 
+    <sdef n="cnjadv" 	c="Adverbial conjunction"/> 
+    <sdef n="cnjsub" 	c="Subordinating conjunction"/> 
+    <sdef n="cnjcoo" 	c="Co-ordinating conjunction"/> 
   </sdefs>
 
   <section id="main" type="standard">
@@ -43,19 +54,55 @@
     <e><p><l>außerhalb<s n="pr"/></l><r>baussen<s n="pr"/></r></p></e>
     <e><p><l>durch<s n="pr"/></l><r>duerch<s n="pr"/></r></p></e>
     <e><p><l>für<s n="pr"/></l><r>fir<s n="pr"/></r></p></e>
+    <e><p><l>gegen<s n="pr"/></l><r>géint<s n="pr"/></r></p></e>
     <e><p><l>gegen<s n="pr"/></l><r>widder<s n="pr"/></r></p></e>
+    <e><p><l>gegenüber<s n="pr"/></l><r>géintiwwer<s n="pr"/></r></p></e>
     <e><p><l>hinter<s n="pr"/></l><r>hanner<s n="pr"/></r></p></e>
     <e><p><l>in<s n="pr"/></l><r>an<s n="pr"/></r></p></e>
     <e><p><l>mit<s n="pr"/></l><r>mat<s n="pr"/></r></p></e>
+    <e><p><l>nach<s n="pr"/></l><r>no<s n="pr"/></r></p></e>
     <e><p><l>neben<s n="pr"/></l><r>niewen<s n="pr"/></r></p></e>
+    <e><p><l>ohne<s n="pr"/></l><r>ouni<s n="pr"/></r></p></e>
+    <e><p><l>pro<s n="pr"/></l><r>pro<s n="pr"/></r></p></e>
+    <e><p><l>seit<s n="pr"/></l><r>zanter<s n="pr"/></r></p></e>
     <e><p><l>seit<s n="pr"/></l><r>zënter<s n="pr"/></r></p></e>
+    <e><p><l>statt<s n="pr"/></l><r>amplaz<s n="pr"/></r></p></e>
     <e><p><l>über<s n="pr"/></l><r>iwwer<s n="pr"/></r></p></e>
     <e><p><l>um<s n="pr"/></l><r>ëm<s n="pr"/></r></p></e>
     <e><p><l>unter<s n="pr"/></l><r>ënner<s n="pr"/></r></p></e>
     <e><p><l>von<s n="pr"/></l><r>vun<s n="pr"/></r></p></e>
     <e><p><l>vor<s n="pr"/></l><r>virun<s n="pr"/></r></p></e>
+    <e><p><l>wegen<s n="pr"/></l><r>wéint<s n="pr"/></r></p></e>
     <e><p><l>zu<s n="pr"/></l><r>ze<s n="pr"/></r></p></e>
     <e><p><l>zwischen<s n="pr"/></l><r>tëschen<s n="pr"/></r></p></e>
+    <e><p><l>zwischen<s n="pr"/></l><r>tëschent<s n="pr"/></r></p></e>
+    <e><p><l>zwischen<s n="pr"/></l><r>tëscht<s n="pr"/></r></p></e>
+  
+    <e><p><l>aber<s n="cnjcoo"/></l><r>mä<s n="cnjcoo"/></r></p></e>
+    <e><p><l>und<s n="cnjcoo"/></l><r>an<s n="cnjcoo"/></r></p></e>
+    <e><p><l>oder<s n="cnjcoo"/></l><r>oder<s n="cnjcoo"/></r></p></e>
+    <e><p><l>sondern<s n="cnjcoo"/></l><r>mä<s n="cnjcoo"/></r></p></e>
 
+    <e><p><l>dass<s n="cnjsub"/></l><r>datt<s n="cnjsub"/></r></p></e>
+    <e><p><l>weil<s n="cnjsub"/></l><r>well<s n="cnjsub"/></r></p></e>
+    <e><p><l>wenn<s n="cnjsub"/></l><r>wann<s n="cnjsub"/></r></p></e>
+    <e><p><l>wo<s n="cnjsub"/></l><r>wou<s n="cnjsub"/></r></p></e>
+
+    <e><p><l>aber<s n="adv"/></l><r>awer<s n="adv"/></r></p></e>
+    <e><p><l>auch<s n="adv"/></l><r>och<s n="adv"/></r></p></e>
+    <e><p><l>immer<s n="adv"/></l><r>ëmmer<s n="adv"/></r></p></e>
+    <e><p><l>nicht<s n="adv"/></l><r>net<s n="adv"/></r></p></e>
+    <e><p><l>noch<s n="adv"/></l><r>nach<s n="adv"/></r></p></e>
+    <e><p><l>sogar<s n="adv"/></l><r>souguer<s n="adv"/></r></p></e>
+
+    <e><p><l>groß<s n="adj"/><s n="sint"/></l><r>grouss<s n="adj"/></r></p></e>
+
+    <e><p><l>bleiben<s n="vblex"/></l><r>bleiwen<s n="vblex"/></r></p></e>
+    <e><p><l>gehen<s n="vblex"/></l><r>goen<s n="vblex"/></r></p></e>
+    <e><p><l>kommen<s n="vblex"/></l><r>kommen<s n="vblex"/></r></p></e>
+    <e><p><l>machen<s n="vblex"/></l><r>maachen<s n="vblex"/></r></p></e>
+
+    <e><p><l>Mann<s n="n"/><s n="m"/></l><r>Mann<s n="n"/><s n="m"/></r></p></e>
+  
   </section>
 </dictionary>
