@@ -5,16 +5,16 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/apertium-deu-ltz.deu-ltz.dix -text svneol=unset#application/xml
+/apertium-deu-ltz.deu-ltz.dix -text
 /apertium-deu-ltz.deu-ltz.lrx -text
-/apertium-deu-ltz.deu-ltz.t1x -text svneol=unset#application/xml
-/apertium-deu-ltz.deu-ltz.t2x -text svneol=unset#application/xml
-/apertium-deu-ltz.deu-ltz.t3x -text svneol=unset#application/xml
+/apertium-deu-ltz.deu-ltz.t1x -text
+/apertium-deu-ltz.deu-ltz.t2x -text
+/apertium-deu-ltz.deu-ltz.t3x -text
 /apertium-deu-ltz.ltz-deu.lrx -text
-/apertium-deu-ltz.ltz-deu.t1x -text svneol=unset#application/xml
-/apertium-deu-ltz.ltz-deu.t2x -text svneol=unset#application/xml
-/apertium-deu-ltz.ltz-deu.t3x -text svneol=unset#application/xml
+/apertium-deu-ltz.ltz-deu.t1x -text
+/apertium-deu-ltz.ltz-deu.t2x -text
+/apertium-deu-ltz.ltz-deu.t3x -text
 /autogen.sh -text
 /configure.ac -text
 dev/ltz-deu.txt -text
-/modes.xml -text svneol=unset#application/xml
+/modes.xml -text

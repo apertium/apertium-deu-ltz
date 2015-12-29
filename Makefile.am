@@ -44,8 +44,11 @@ TARGETS_COMMON =		\
 # German analysis:
 # -------------------
 
-$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
-	lt-trim $^ $@
+# (no trimming for now)
+# $(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
+# 	lt-trim $^ $@
+$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin
+	cp $^ $@
 
 # -------------------
 # German generation:
@@ -59,8 +62,11 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 # Luxembourgish analysis:
 # -------------------
 
-$(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
-	lt-trim $^ $@
+# (no trimming for now)
+# $(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
+# 	lt-trim $^ $@
+$(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin
+	cp $^ $@
 
 # -------------------
 # Luxembourgish generation:
