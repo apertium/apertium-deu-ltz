@@ -99,12 +99,113 @@
     <e><p><l>wenn<s n="cnjsub"/></l><r>wann<s n="cnjsub"/></r></p></e>
     <e><p><l>wo<s n="cnjsub"/></l><r>wou<s n="cnjsub"/></r></p></e>
 
+    <e><p><l>abends<s n="adv"/></l><r>owes<s n="adv"/></r></p></e>
     <e><p><l>aber<s n="adv"/></l><r>awer<s n="adv"/></r></p></e>
+    <e><p><l>abgerundet<s n="adv"/></l><r>ronn<s n="adv"/></r></p></e>
+    <e><p><l>allein<s n="adv"/></l><r>eleng<s n="adv"/></r></p></e>
+    <e><p><l>allgemein<s n="adv"/></l><r>allgemeng<s n="adv"/></r></p></e>
+    <e><p><l>also<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+    <e><p><l>anders<s n="adv"/></l><r>anescht<s n="adv"/></r></p></e>
+    <e><p><l>anderswo<s n="adv"/></l><r>soss<s n="adv"/></r></p></e>
+    <e><p><l>anfangs<s n="adv"/></l><r>ufanks<s n="adv"/></r></p></e>
+    <e><p><l>anschließend<s n="adv"/></l><r>duerno<s n="adv"/></r></p></e>
+    <e><p><l>arg<s n="adv"/></l><r>uerg<s n="adv"/></r></p></e>
     <e><p><l>auch<s n="adv"/></l><r>och<s n="adv"/></r></p></e>
+    <e><p><l>außen<s n="adv"/></l><r>baussen<s n="adv"/></r></p></e>
+    <e><p><l>aus<s n="adv"/></l><r>aus<s n="adv"/></r></p></e>
+    <e><p><l>beieinander<s n="adv"/></l><r>beieneen<s n="adv"/></r></p></e>
+    <e><p><l>besonders<s n="adv"/></l><r>besonnesch<s n="adv"/></r></p></e>
+    <e><p><l>charakteristisch<s n="adv"/></l><r>charakteristesch<s n="adv"/></r></p></e>
+    <e><p><l>daheim<s n="adv"/></l><r>doheem<s n="adv"/></r></p></e>
+    <e><p><l>dahin<s n="adv"/></l><r>duer<s n="adv"/></r></p></e>
+    <e><p><l>damals<s n="adv"/></l><r>deemools<s n="adv"/></r></p></e>
+    <e><p><l>danach<s n="adv"/></l><r>dunn<s n="adv"/></r></p></e>
+    <e><p><l>dann<s n="adv"/></l><r>dann<s n="adv"/></r></p></e>
+    <e><p><l>da<s n="adv"/></l><r>do<s n="adv"/></r></p></e>
+    <e><p><l>dazu<s n="adv"/></l><r>dozou<s n="adv"/></r></p></e>
+    <e><p><l>doch<s n="adv"/></l><r>dach<s n="adv"/></r></p></e>
+    <e><p><l>drinnen<s n="adv"/></l><r>bannen<s n="adv"/></r></p></e>
+    <e><p><l>durchsichtig<s n="adv"/></l><r>kloer<s n="adv"/></r></p></e>
+    <e><p><l>eben<s n="adv"/></l><r>grad<s n="adv"/></r></p></e>
+    <e><p><l>eigentlich<s n="adv"/></l><r>eigentlech<s n="adv"/></r></p></e>
+    <e><p><l>einmal<s n="adv"/></l><r>eemol<s n="adv"/></r></p></e>
+    <e><p><l>einzig<s n="adv"/></l><r>eenzeg<s n="adv"/></r></p></e>
+    <e><p><l>endlich<s n="adv"/></l><r>endlech<s n="adv"/></r></p></e>
+    <e><p><l>ethisch<s n="adv"/></l><r>ethesch<s n="adv"/></r></p></e>
+    <e><p><l>etwas<s n="adv"/></l><r>eppes<s n="adv"/></r></p></e>
+    <e><p><l>fast<s n="adv"/></l><r>bal<s n="adv"/></r></p></e>
+    <e><p><l>fort<s n="adv"/></l><r>ewech<s n="adv"/></r></p></e>
+    <e><p><l>freitags<s n="adv"/></l><r>freides<s n="adv"/></r></p></e>
+    <e><p><l>ganz<s n="adv"/></l><r>ganz<s n="adv"/></r></p></e>
+    <e><p><l>genau<s n="adv"/></l><r>genee<s n="adv"/></r></p></e>
+    <e><p><l>genug<s n="adv"/></l><r>genuch<s n="adv"/></r></p></e>
+    <e><p><l>gerade<s n="adv"/></l><r>riicht<s n="adv"/></r></p></e>
+    <e><p><l>gerecht<s n="adv"/></l><r>gerecht<s n="adv"/></r></p></e>
+    <e><p><l>geschlossen<s n="adv"/></l><r>zou<s n="adv"/></r></p></e>
+    <e><p><l>gesund<s n="adv"/></l><r>gesond<s n="adv"/></r></p></e>
+    <e><p><l>glatt<s n="adv"/></l><r>glat<s n="adv"/></r></p></e>
+    <e><p><l>häufig<s n="adv"/></l><r>dacks<s n="adv"/></r></p></e>
+    <e><p><l>heim<s n="adv"/></l><r>heem<s n="adv"/></r></p></e>
+    <e><p><l>herab<s n="adv"/></l><r>erof<s n="adv"/></r></p></e>
+    <e><p><l>heraus<s n="adv"/></l><r>eraus<s n="adv"/></r></p></e>
+    <e><p><l>heute<s n="adv"/></l><r>haut<s n="adv"/></r></p></e>
+    <e><p><l>heutzutage<s n="adv"/></l><r>hautdesdaags<s n="adv"/></r></p></e>
+    <e><p><l>hierher<s n="adv"/></l><r>hier<s n="adv"/></r></p></e>
+    <e><p><l>hier<s n="adv"/></l><r>hei<s n="adv"/></r></p></e>
+    <e><p><l>hinten<s n="adv"/></l><r>hannen<s n="adv"/></r></p></e>
+    <e><p><l>hübsch<s n="adv"/></l><r>flott<s n="adv"/></r></p></e>
+    <e><p><l>ideal<s n="adv"/></l><r>ideal<s n="adv"/></r></p></e>
     <e><p><l>immer<s n="adv"/></l><r>ëmmer<s n="adv"/></r></p></e>
+    <e><p><l>in<b/>der<b/>Tat<s n="adv"/></l><r>nawell<s n="adv"/></r></p></e>
+    <e><p><l>ineinander<s n="adv"/></l><r>aneneen<s n="adv"/></r></p></e>
+    <e><p><l>interessant<s n="adv"/></l><r>interessant<s n="adv"/></r></p></e>
+    <e><p><l>ja<s n="adv"/></l><r>jo<s n="adv"/></r></p></e>
+    <e><p><l>jemals<s n="adv"/></l><r>jeemools<s n="adv"/></r></p></e>
+    <e><p><l>jetzt<s n="adv"/></l><r>elo<s n="adv"/></r></p></e>
+    <e><p><l>jetzt<s n="adv"/></l><r>ewell<s n="adv"/></r></p></e>
+    <e><p><l>jetzt<s n="adv"/></l><r>lo<s n="adv"/></r></p></e>
+    <e><p><l>komisch<s n="adv"/></l><r>komesch<s n="adv"/></r></p></e>
+    <e><p><l>komplett<s n="adv"/></l><r>komplett<s n="adv"/></r></p></e>
+    <e><p><l>langsam<s n="adv"/></l><r>lues<s n="adv"/></r></p></e>
+    <e><p><l>miteinander<s n="adv"/></l><r>mateneen<s n="adv"/></r></p></e>
+    <e><p><l>morgen<s n="adv"/></l><r>muer<s n="adv"/></r></p></e>
+    <e><p><l>morgens<s n="adv"/></l><r>moies<s n="adv"/></r></p></e>
+    <e><p><l>nachts<s n="adv"/></l><r>nuets<s n="adv"/></r></p></e>
+    <e><p><l>natürlich<s n="adv"/></l><r>natierlech<s n="adv"/></r></p></e>
+    <e><p><l>nein<s n="adv"/></l><r>neen<s n="adv"/></r></p></e>
     <e><p><l>nicht<s n="adv"/></l><r>net<s n="adv"/></r></p></e>
+    <e><p><l>nie<s n="adv"/></l><r>ni<s n="adv"/></r></p></e>
     <e><p><l>noch<s n="adv"/></l><r>nach<s n="adv"/></r></p></e>
+    <e><p><l>oben<s n="adv"/></l><r>uewen<s n="adv"/></r></p></e>
+    <e><p><l>ob<s n="adv"/></l><r>ob<s n="adv"/></r></p></e>
+    <e><p><l>offen<s n="adv"/></l><r>op<s n="adv"/></r></p></e>
+    <e><p><l>real<s n="adv"/></l><r>wierklech<s n="adv"/></r></p></e>
+    <e><p><l>rechts<s n="adv"/></l><r>riets<s n="adv"/></r></p></e>
+    <e><p><l>ruhig<s n="adv"/></l><r>roueg<s n="adv"/></r></p></e>
+    <e><p><l>samstags<s n="adv"/></l><r>samschdes<s n="adv"/></r></p></e>
+    <e><p><l>schief<s n="adv"/></l><r>queesch<s n="adv"/></r></p></e>
+    <e><p><l>schon<b/>wieder<s n="adv"/></l><r>nees<s n="adv"/></r></p></e>
+    <e><p><l>schon<s n="adv"/></l><r>alt<s n="adv"/></r></p></e>
+    <e><p><l>schon<s n="adv"/></l><r>schonn<s n="adv"/></r></p></e>
+    <e><p><l>selten<s n="adv"/></l><r>seelen<s n="adv"/></r></p></e>
     <e><p><l>sogar<s n="adv"/></l><r>souguer<s n="adv"/></r></p></e>
+    <e><p><l>sonntags<s n="adv"/></l><r>sonndes<s n="adv"/></r></p></e>
+    <e><p><l>so<s n="adv"/></l><r>esou<s n="adv"/></r></p></e>
+    <e><p><l>so<s n="adv"/></l><r>sou<s n="adv"/></r></p></e>
+    <e><p><l>stark<s n="adv"/></l><r>staark<s n="adv"/></r></p></e>
+    <e><p><l>teilweise<s n="adv"/></l><r>deelweis<s n="adv"/></r></p></e>
+    <e><p><l>überhaupt<s n="adv"/></l><r>iwwerhaapt<s n="adv"/></r></p></e>
+    <e><p><l>übrigens<s n="adv"/></l><r>iwwregens<s n="adv"/></r></p></e>
+    <e><p><l>viel<s n="adv"/></l><r>vill<s n="adv"/></r></p></e>
+    <e><p><l>währenddessen<s n="adv"/></l><r>iwwerdeems<s n="adv"/></r></p></e>
+    <e><p><l>wahrscheinlich<s n="adv"/></l><r>wahrscheinlech<s n="adv"/></r></p></e>
+    <e><p><l>warum<s n="adv"/></l><r>firwat<s n="adv"/></r></p></e>
+    <e><p><l>wohin<s n="adv"/></l><r>wuer<s n="adv"/></r></p></e>
+    <e><p><l>wohl<s n="adv"/></l><r>wuel<s n="adv"/></r></p></e>
+    <e><p><l>wo<s n="adv"/></l><r>wou<s n="adv"/></r></p></e>
+    <e><p><l>zusammen<s n="adv"/></l><r>zesummen<s n="adv"/></r></p></e>
+    <e><p><l>zu<s n="adv"/></l><r>ze<s n="adv"/></r></p></e>
+    <e><p><l>zweimal<s n="adv"/></l><r>zweemol<s n="adv"/></r></p></e>
 
     <e><p><l>groß<s n="adj"/><s n="sint"/></l><r>grouss<s n="adj"/></r></p></e>
 
