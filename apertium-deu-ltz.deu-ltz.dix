@@ -142,6 +142,7 @@
     <e><p><l>gerade<s n="adv"/></l><r>riicht<s n="adv"/></r></p></e>
     <e><p><l>gerecht<s n="adv"/></l><r>gerecht<s n="adv"/></r></p></e>
     <e><p><l>geschlossen<s n="adv"/></l><r>zou<s n="adv"/></r></p></e>
+    <e><p><l>gestern<s n="adv"/></l><r>gëschter<s n="adv"/></r></p></e>
     <e><p><l>gesund<s n="adv"/></l><r>gesond<s n="adv"/></r></p></e>
     <e><p><l>glatt<s n="adv"/></l><r>glat<s n="adv"/></r></p></e>
     <e><p><l>häufig<s n="adv"/></l><r>dacks<s n="adv"/></r></p></e>
@@ -200,6 +201,7 @@
     <e><p><l>währenddessen<s n="adv"/></l><r>iwwerdeems<s n="adv"/></r></p></e>
     <e><p><l>wahrscheinlich<s n="adv"/></l><r>wahrscheinlech<s n="adv"/></r></p></e>
     <e><p><l>warum<s n="adv"/></l><r>firwat<s n="adv"/></r></p></e>
+    <e><p><l>wie<s n="adv"/></l><r>wéi<s n="adv"/></r></p></e>
     <e><p><l>wohin<s n="adv"/></l><r>wuer<s n="adv"/></r></p></e>
     <e><p><l>wohl<s n="adv"/></l><r>wuel<s n="adv"/></r></p></e>
     <e><p><l>wo<s n="adv"/></l><r>wou<s n="adv"/></r></p></e>
@@ -208,6 +210,157 @@
     <e><p><l>zweimal<s n="adv"/></l><r>zweemol<s n="adv"/></r></p></e>
 
     <e><p><l>groß<s n="adj"/><s n="sint"/></l><r>grouss<s n="adj"/></r></p></e>
+
+    <e><p><l>abgerundet<s n="adj"/></l><r>ronn<s n="adj"/></r></p></e>
+    <e><p><l>abstrakt<s n="adj"/></l><r>abstrakt<s n="adj"/></r></p></e>
+    <e><p><l>administrativ<s n="adj"/></l><r>administrativ<s n="adj"/></r></p></e>
+    <e><p><l>aggressiv<s n="adj"/></l><r>aggressiv<s n="adj"/></r></p></e>
+    <e><p><l>akademisch<s n="adj"/></l><r>akademesch<s n="adj"/></r></p></e>
+    <e><p><l>aktuell<s n="adj"/></l><r>aktuell<s n="adj"/></r></p></e>
+    <e><p><l>allein<s n="adj"/></l><r>eleng<s n="adj"/></r></p></e>
+    <e><p><l>allgemein<s n="adj"/></l><r>allgemeng<s n="adj"/></r></p></e>
+    <e><p><l>alt<s n="adj"/></l><r>al<s n="adj"/></r></p></e>
+    <e><p><l>andere<s n="adj"/></l><r>aner<s n="adj"/></r></p></e>
+    <e><p><l>anonym<s n="adj"/></l><r>anonym<s n="adj"/></r></p></e>
+    <e><p><l>antik<s n="adj"/></l><r>antik<s n="adj"/></r></p></e>
+    <e><p><l>arg<s n="adj"/></l><r>uerg<s n="adj"/></r></p></e>
+    <e><p><l>artistisch<s n="adj"/></l><r>artistesch<s n="adj"/></r></p></e>
+    <e><p><l>ausgestattet<s n="adj"/></l><r>ageriicht<s n="adj"/></r></p></e>
+    <e><p><l>äußere<s n="adj"/></l><r>baussenzeg<s n="adj"/></r></p></e>
+    <e><p><l>automatisch<s n="adj"/></l><r>automatesch<s n="adj"/></r></p></e>
+    <e><p><l>autonom<s n="adj"/></l><r>autonom<s n="adj"/></r></p></e>
+    <e><p><l>belgisch<s n="adj"/></l><r>belsch<s n="adj"/></r></p></e>
+    <e><p><l>bereit<s n="adj"/></l><r>prett<s n="adj"/></r></p></e>
+    <e><p><l>besonders<s n="adj"/></l><r>besonnesch<s n="adj"/></r></p></e>
+    <e><p><l>bestimmt<s n="adj"/></l><r>bestëmmt<s n="adj"/></r></p></e>
+    <e><p><l>betrunken<s n="adj"/></l><r>blo<s n="adj"/></r></p></e>
+    <e><p><l>betrunken<s n="adj"/></l><r>voll<s n="adj"/></r></p></e>
+    <e><p><l>biologisch<s n="adj"/></l><r>biologesch<s n="adj"/></r></p></e>
+    <e><p><l>bitter<s n="adj"/></l><r>batter<s n="adj"/></r></p></e>
+    <e><p><l>blind<s n="adj"/></l><r>blann<s n="adj"/></r></p></e>
+    <e><p><l>blutbefleckt<s n="adj"/></l><r>bluddeg<s n="adj"/></r></p></e>
+    <e><p><l>böse<s n="adj"/></l><r>béis<s n="adj"/></r></p></e>
+    <e><p><l>botanisch<s n="adj"/></l><r>botanesch<s n="adj"/></r></p></e>
+    <e><p><l>braun<s n="adj"/></l><r>brong<s n="adj"/></r></p></e>
+    <e><p><l>breit<s n="adj"/></l><r>breet<s n="adj"/></r></p></e>
+    <e><p><l>charakteristisch<s n="adj"/></l><r>charakteristesch<s n="adj"/></r></p></e>
+    <e><p><l>doppelt<s n="adj"/></l><r>duebel<s n="adj"/></r></p></e>
+    <e><p><l>dunkel<s n="adj"/></l><r>donkel<s n="adj"/></r></p></e>
+    <e><p><l>dünn<s n="adj"/></l><r>schmuel<s n="adj"/></r></p></e>
+    <e><p><l>durchsichtig<s n="adj"/></l><r>kloer<s n="adj"/></r></p></e>
+    <e><p><l>Ehemann<s n="adj"/></l><r>mann<s n="adj"/></r></p></e>
+    <e><p><l>eifersüchtig<s n="adj"/></l><r>jalous<s n="adj"/></r></p></e>
+    <e><p><l>eigen<s n="adj"/></l><r>eegen<s n="adj"/></r></p></e>
+    <e><p><l>einzelne<s n="adj"/></l><r>eenzel<s n="adj"/></r></p></e>
+    <e><p><l>einzig<s n="adj"/></l><r>eenzeg<s n="adj"/></r></p></e>
+    <e><p><l>endlich<s n="adj"/></l><r>endlech<s n="adj"/></r></p></e>
+    <e><p><l>englisch<s n="adj"/></l><r>englesch<s n="adj"/></r></p></e>
+    <e><p><l>eng<s n="adj"/></l><r>enk<s n="adj"/></r></p></e>
+    <e><p><l>erblich<s n="adj"/></l><r>ierflech<s n="adj"/></r></p></e>
+    <e><p><l>erledigt<s n="adj"/></l><r>futti<s n="adj"/></r></p></e>  <!-- (müde) -->
+    <e><p><l>erwachsen<s n="adj"/></l><r>grouss<s n="adj"/></r></p></e>
+    <e><p><l>ethisch<s n="adj"/></l><r>ethesch<s n="adj"/></r></p></e>
+    <e><p><l>ethnisch<s n="adj"/></l><r>ethnesch<s n="adj"/></r></p></e>
+    <e><p><l>falsch<s n="adj"/></l><r>falsch<s n="adj"/></r></p></e>
+    <e><p><l>fein<s n="adj"/></l><r>reng<s n="adj"/></r></p></e>
+    <e><p><l>fest<s n="adj"/></l><r>fest<s n="adj"/></r></p></e>
+    <e><p><l>feucht<s n="adj"/></l><r>fiicht<s n="adj"/></r></p></e>
+    <e><p><l>fit<s n="adj"/></l><r>fit<s n="adj"/></r></p></e>
+    <e><p><l>flach<s n="adj"/></l><r>flaach<s n="adj"/></r></p></e>
+    <e><p><l>flach<s n="adj"/></l><r>platt<s n="adj"/></r></p></e>
+    <e><p><l>frei<s n="adj"/></l><r>fräi<s n="adj"/></r></p></e>
+    <e><p><l>fremd<s n="adj"/></l><r>friem<s n="adj"/></r></p></e>
+    <e><p><l>froh<s n="adj"/></l><r>frou<s n="adj"/></r></p></e>
+    <e><p><l>ganz<s n="adj"/></l><r>ganz<s n="adj"/></r></p></e>
+    <e><p><l>gehaltlos<s n="adj"/></l><r>schwaach<s n="adj"/></r></p></e>
+    <e><p><l>geheim<s n="adj"/></l><r>geheim<s n="adj"/></r></p></e>
+    <e><p><l>geistig<s n="adj"/></l><r>geeschteg<s n="adj"/></r></p></e>
+    <e><p><l>geistig<s n="adj"/></l><r>geeschtlech<s n="adj"/></r></p></e>
+    <e><p><l>gelb<s n="adj"/></l><r>giel<s n="adj"/></r></p></e>
+    <e><p><l>genau<s n="adj"/></l><r>genee<s n="adj"/></r></p></e>
+    <e><p><l>gerade<s n="adj"/></l><r>riicht<s n="adj"/></r></p></e>
+    <e><p><l>gerecht<s n="adj"/></l><r>gerecht<s n="adj"/></r></p></e>
+    <e><p><l>gescheit<s n="adj"/></l><r>gescheit<s n="adj"/></r></p></e>
+    <e><p><l>geschlossen<s n="adj"/></l><r>zou<s n="adj"/></r></p></e>
+    <e><p><l>gesund<s n="adj"/></l><r>gesond<s n="adj"/></r></p></e>
+    <e><p><l>glatt<s n="adj"/></l><r>glat<s n="adj"/></r></p></e>
+    <e><p><l>grau<s n="adj"/></l><r>gro<s n="adj"/></r></p></e>
+    <e><p><l>griechisch<s n="adj"/></l><r>griichesch<s n="adj"/></r></p></e>
+    <e><p><l>grob<s n="adj"/></l><r>graff<s n="adj"/></r></p></e>
+    <e><p><l>gut<s n="adj"/></l><r>gutt<s n="adj"/></r></p></e>
+    <e><p><l>halb<s n="adj"/></l><r>hallef<s n="adj"/></r></p></e>
+    <e><p><l>hart<s n="adj"/></l><r>haart<s n="adj"/></r></p></e>
+    <e><p><l>heilig<s n="adj"/></l><r>helleg<s n="adj"/></r></p></e>
+    <e><p><l>hell<s n="adj"/></l><r>hell<s n="adj"/></r></p></e>
+    <e><p><l>hohl<s n="adj"/></l><r>huel<s n="adj"/></r></p></e>
+    <e><p><l>hübsch<s n="adj"/></l><r>flott<s n="adj"/></r></p></e>
+    <e><p><l>hügelig<s n="adj"/></l><r>hiwweleg<s n="adj"/></r></p></e>
+    <e><p><l>hydraulisch<s n="adj"/></l><r>hydraulesch<s n="adj"/></r></p></e>
+    <e><p><l>interessant<s n="adj"/></l><r>interessant<s n="adj"/></r></p></e>
+    <e><p><l>jung<s n="adj"/></l><r>jonk<s n="adj"/></r></p></e>
+    <e><p><l>kalt<s n="adj"/></l><r>kal<s n="adj"/></r></p></e>
+    <e><p><l>kalt<s n="adj"/></l><r>spatz<s n="adj"/></r></p></e>  <!-- (Wind) -->
+    <e><p><l>katholisch<s n="adj"/></l><r>kathoulesch<s n="adj"/></r></p></e>
+    <e><p><l>klassisch<s n="adj"/></l><r>klassesch<s n="adj"/></r></p></e>
+    <e><p><l>klein<s n="adj"/></l><r>kleng<s n="adj"/></r></p></e>
+    <e><p><l>komisch<s n="adj"/></l><r>komesch<s n="adj"/></r></p></e>
+    <e><p><l>komplett<s n="adj"/></l><r>komplett<s n="adj"/></r></p></e>
+    <e><p><l>korrekt<s n="adj"/></l><r>korrekt<s n="adj"/></r></p></e>
+    <e><p><l>krank<s n="adj"/></l><r>krank<s n="adj"/></r></p></e>
+    <e><p><l>kühl<s n="adj"/></l><r>kill<s n="adj"/></r></p></e>
+    <e><p><l>kurz<s n="adj"/></l><r>kuerz<s n="adj"/></r></p></e>
+    <e><p><l>langsam<s n="adj"/></l><r>lues<s n="adj"/></r></p></e>
+    <e><p><l>lang<s n="adj"/></l><r>laang<s n="adj"/></r></p></e>
+    <e><p><l>lebendig<s n="adj"/></l><r>lieweg<s n="adj"/></r></p></e>
+    <e><p><l>leer<s n="adj"/></l><r>eidel<s n="adj"/></r></p></e>
+    <e><p><l>leicht<s n="adj"/></l><r>liicht<s n="adj"/></r></p></e>
+    <e><p><l>letzt<s n="adj"/></l><r>lescht<s n="adj"/></r></p></e>
+    <e><p><l>links<s n="adj"/></l><r>lénks<s n="adj"/></r></p></e>
+    <e><p><l>locker<s n="adj"/></l><r>labber<s n="adj"/></r></p></e>
+    <e><p><l>Lokal<s n="adj"/></l><r>lokal<s n="adj"/></r></p></e>
+    <e><p><l>los<s n="adj"/></l><r>lass<s n="adj"/></r></p></e>
+    <e><p><l>matt<s n="adj"/></l><r>matt<s n="adj"/></r></p></e>
+    <e><p><l>müde<s n="adj"/></l><r>midd<s n="adj"/></r></p></e>
+    <e><p><l>nah<s n="adj"/></l><r>no<s n="adj"/></r></p></e>
+    <e><p><l>nass<s n="adj"/></l><r>naass<s n="adj"/></r></p></e>
+    <e><p><l>natürlich<s n="adj"/></l><r>natierlech<s n="adj"/></r></p></e>
+    <e><p><l>neblig<s n="adj"/></l><r>niwweleg<s n="adj"/></r></p></e>
+    <e><p><l>neu<s n="adj"/></l><r>nei<s n="adj"/></r></p></e>
+    <e><p><l>niedrig<s n="adj"/></l><r>niddereg<s n="adj"/></r></p></e>
+    <e><p><l>oberst<s n="adj"/></l><r>iewescht<s n="adj"/></r></p></e>
+    <e><p><l>offen<s n="adj"/></l><r>oppen<s n="adj"/></r></p></e>
+    <e><p><l>ordentlich<s n="adj"/></l><r>propper<s n="adj"/></r></p></e>
+    <e><p><l>periodisch<s n="adj"/></l><r>periodesch<s n="adj"/></r></p></e>
+    <e><p><l>real<s n="adj"/></l><r>wierklech<s n="adj"/></r></p></e>
+    <e><p><l>rechts<s n="adj"/></l><r>riets<s n="adj"/></r></p></e>
+    <e><p><l>regelmäßig<s n="adj"/></l><r>regelméisseg<s n="adj"/></r></p></e>
+    <e><p><l>reif<s n="adj"/></l><r>zeideg<s n="adj"/></r></p></e>
+    <e><p><l>rosa<s n="adj"/></l><r>rosa<s n="adj"/></r></p></e>
+    <e><p><l>rot<s n="adj"/></l><r>rout<s n="adj"/></r></p></e>
+    <e><p><l>ruhig<s n="adj"/></l><r>roueg<s n="adj"/></r></p></e>
+    <e><p><l>sächlich<s n="adj"/></l><r>sächlech<s n="adj"/></r></p></e>
+    <e><p><l>sanft<s n="adj"/></l><r>duuss<s n="adj"/></r></p></e>
+    <e><p><l>sauer<s n="adj"/></l><r>sauer<s n="adj"/></r></p></e>
+    <e><p><l>schief<s n="adj"/></l><r>queesch<s n="adj"/></r></p></e>
+    <e><p><l>schlecht<s n="adj"/></l><r>schlecht<s n="adj"/></r></p></e>
+    <e><p><l>schnell<s n="adj"/></l><r>schnell<s n="adj"/></r></p></e>
+    <e><p><l>schwarz<s n="adj"/></l><r>schwaarz<s n="adj"/></r></p></e>
+    <e><p><l>spanisch<s n="adj"/></l><r>spuenesch<s n="adj"/></r></p></e>
+    <e><p><l>sportlich<s n="adj"/></l><r>sportlech<s n="adj"/></r></p></e>
+    <e><p><l>stark<s n="adj"/></l><r>staark<s n="adj"/></r></p></e>
+    <e><p><l>teuer<s n="adj"/></l><r>deier<s n="adj"/></r></p></e>
+    <e><p><l>tot<s n="adj"/></l><r>dout<s n="adj"/></r></p></e>
+    <e><p><l>unendlich<s n="adj"/></l><r>onendlech<s n="adj"/></r></p></e>
+    <e><p><l>unterschiedlich<s n="adj"/></l><r>verschidden<s n="adj"/></r></p></e>
+    <e><p><l>verärgert<s n="adj"/></l><r>rosen<s n="adj"/></r></p></e>
+    <e><p><l>verloren<s n="adj"/></l><r>verluer<s n="adj"/></r></p></e>
+    <e><p><l>viel<s n="adj"/></l><r>vill<s n="adj"/></r></p></e>
+    <e><p><l>vorder<s n="adj"/></l><r>viischt<s n="adj"/></r></p></e>
+    <e><p><l>wahr<s n="adj"/></l><r>wouer<s n="adj"/></r></p></e>
+    <e><p><l>warm<s n="adj"/></l><r>waarm<s n="adj"/></r></p></e>
+    <e><p><l>weiblich<s n="adj"/></l><r>weiblech<s n="adj"/></r></p></e>
+    <e><p><l>wichtig<s n="adj"/></l><r>wichteg<s n="adj"/></r></p></e>
+    <e><p><l>zugänglich<s n="adj"/></l><r>accessibel<s n="adj"/></r></p></e>
 
     <e><p><l>bleiben<s n="vblex"/></l><r>bleiwen<s n="vblex"/></r></p></e>
     <e><p><l>gehen<s n="vblex"/></l><r>goen<s n="vblex"/></r></p></e>
@@ -243,6 +396,7 @@
     <e><p><l>Adler<s n="n"/><s n="m"/></l><r>Adler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Verwaltung<s n="n"/><s n="f"/></l><r>Administratioun<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Adoption<s n="n"/><s n="f"/></l><r>Adoptioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Adverb<s n="n"/><s n="nt"/></l><r>Adverb<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Anwalt<s n="n"/><s n="m"/></l><r>Affekot<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Anschlagzettel<s n="n"/><s n="m"/></l><r>Affiche<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Einfluss<s n="n"/><s n="m"/></l><r>Afloss<s n="n"/><s n="m"/></r></p></e>
@@ -384,6 +538,7 @@
     <e><p><l>Biographie<s n="n"/><s n="f"/></l><r>Biographie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Biologie<s n="n"/><s n="f"/></l><r>Biologie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Birne<s n="n"/><s n="f"/></l><r>Bir<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Birnbaum<s n="n"/><s n="m"/></l><r>Birebam<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Bistum<s n="n"/><s n="nt"/></l><r>Bistum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Blatt<s n="n"/><s n="nt"/></l><r>Blat<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Blende<s n="n"/><s n="f"/></l><r>Blend<s n="n"/><s n="f"/></r></p></e>
@@ -516,8 +671,10 @@
     <e><p><l>Energiequelle<s n="n"/><s n="f"/></l><r>Energiequell<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Engel<s n="n"/><s n="m"/></l><r>Engel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Enkelin<s n="n"/><s n="f"/></l><r>Enkelin<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Unterschied<s n="n"/><s n="m"/></l><r>Ënnerscheed<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Entdeckung<s n="n"/><s n="f"/></l><r>Entdeckung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Firma<s n="n"/><s n="f"/></l><r>Entreprise<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Entwicklung<s n="n"/><s n="f"/></l><r>Entwécklung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Briefumschlag<s n="n"/><s n="m"/></l><r>Enveloppe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Enzyklopädie<s n="n"/><s n="f"/></l><r>Enzyklopedie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Gemischtwarenladen<s n="n"/><s n="m"/></l><r>Epicerie<s n="n"/><s n="f"/></r></p></e>
@@ -590,6 +747,7 @@
     <e><p><l>Foto<s n="n"/><s n="nt"/></l><r>Foto<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Fußball<s n="n"/><s n="m"/></l><r>Foussball<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Fuß<s n="n"/><s n="m"/></l><r>Fouss<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Freiheit<s n="n"/><s n="f"/></l><r>Fräiheet<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Fraktion<s n="n"/><s n="f"/></l><r>Fraktioun<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Frost<s n="n"/><s n="m"/></l><r>Frascht<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Freitag<s n="n"/><s n="m"/></l><r>Freideg<s n="n"/><s n="m"/></r></p></e>
@@ -623,6 +781,7 @@
     <e><p><l>Gefahr<s n="n"/><s n="f"/></l><r>Gefor<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Gehirn<s n="n"/><s n="nt"/></l><r>Gehir<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Geige<s n="n"/><s n="f"/></l><r>Gei<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Gegend<s n="n"/><s n="f"/></l><r>Géigend<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Geld<s n="n"/><s n="nt"/></l><r>Geld<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Geldstrafe<s n="n"/><s n="f"/></l><r>Geldstrof<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Gemeinschaftsantenne<s n="n"/><s n="f"/></l><r>Gemeinschaftsantenn<s n="n"/><s n="f"/></r></p></e>
@@ -692,7 +851,9 @@
     <e><p><l>Heilung<s n="n"/><s n="f"/></l><r>Heelung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Heimat<s n="n"/><s n="f"/></l><r>Heemecht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Heu<s n="n"/><s n="nt"/></l><r>Hee<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Heizung<s n="n"/><s n="f"/></l><r>Heizung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Hektar<s n="n"/><s n="m"/></l><r>Hektar<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Hilfsverb<s n="n"/><s n="nt"/></l><r>Hëllefsverb<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Heiliger<s n="n"/><s n="m"/></l><r>Hellegen<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Heiligkeit<s n="n"/><s n="f"/></l><r>Hellegkeet<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Hexe<s n="n"/><s n="f"/></l><r>Hex<s n="n"/><s n="f"/></r></p></e>
@@ -712,6 +873,7 @@
     <e><p><l>Hotel<s n="n"/><s n="nt"/></l><r>Hotel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Hochnäsigkeit<s n="n"/><s n="f"/></l><r>Houfert<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Honig<s n="n"/><s n="m"/></l><r>Hunneg<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Hut<s n="n"/><s n="m"/></l><r>Hutt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Gedanke<s n="n"/><s n="m"/></l><r>Iddi<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Ideologie<s n="n"/><s n="f"/></l><r>Ideologie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Erbschaft<s n="n"/><s n="f"/></l><r>Ierfschaft<s n="n"/><s n="f"/></r></p></e>
@@ -958,6 +1120,7 @@
     <e><p><l>Niederlage<s n="n"/><s n="f"/></l><r>Nidderlag<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Nichte<s n="n"/><s n="f"/></l><r>Niess<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Nebenrolle<s n="n"/><s n="f"/></l><r>Nieweroll<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Nebensatz<s n="n"/><s n="m"/></l><r>Niewesaz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Nebel<s n="n"/><s n="m"/></l><r>Niwwel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Nachfrage<s n="n"/><s n="f"/></l><r>Nofro<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Nominierung<s n="n"/><s n="f"/></l><r>Nominatioun<s n="n"/><s n="f"/></r></p></e>
@@ -1038,6 +1201,7 @@
     <e><p><l>Arbeitsplatz<s n="n"/><s n="m"/></l><r>Plaz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Mühsal<s n="n"/><s n="f"/></l><r>Plo<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Pflug<s n="n"/><s n="m"/></l><r>Plou<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Plural<s n="n"/><s n="m"/></l><r>Pluriel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Polemik<s n="n"/><s n="f"/></l><r>Polemik<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Politikerin<s n="n"/><s n="f"/></l><r>Politikerin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Politik<s n="n"/><s n="f"/></l><r>Politik<s n="n"/><s n="f"/></r></p></e>
@@ -1048,6 +1212,7 @@
     <e><p><l>Puppe<s n="n"/><s n="f"/></l><r>Popp<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Bevölkerung<s n="n"/><s n="f"/></l><r>Populatioun<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Position<s n="n"/><s n="f"/></l><r>Positioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Post<s n="n"/><s n="f"/></l><r>Post<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Postkarte<s n="n"/><s n="f"/></l><r>Postkaart<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Arztpraxis<s n="n"/><s n="f"/></l><r>Praxis<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Pressekonferenz<s n="n"/><s n="f"/></l><r>Pressekonferenz<s n="n"/><s n="f"/></r></p></e>
@@ -1061,6 +1226,7 @@
     <e><p><l>Vorschlag<s n="n"/><s n="m"/></l><r>Propositioun<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Schutz<s n="n"/><s n="m"/></l><r>Protektioun<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Beweis<s n="n"/><s n="m"/></l><r>Prouf<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Provinz<s n="n"/><s n="f"/></l><r>Provënz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Prozedur<s n="n"/><s n="f"/></l><r>Prozedur<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Veröffentlichung<s n="n"/><s n="f"/></l><r>Publikatioun<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Punkt<s n="n"/><s n="m"/></l><r>Punkt<s n="n"/><s n="m"/></r></p></e>
@@ -1117,6 +1283,7 @@
     <e><p><l>Revolution<s n="n"/><s n="f"/></l><r>Revolutioun<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Theaterrevue<s n="n"/><s n="f"/></l><r>Revue<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Rezession<s n="n"/><s n="f"/></l><r>Rezessioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Richtung<s n="n"/><s n="f"/></l><r>Richtung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Redner<s n="n"/><s n="m"/></l><r>Riedner<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Rede<s n="n"/><s n="f"/></l><r>Ried<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Rebe<s n="n"/><s n="f"/></l><r>Rief<s n="n"/><s n="f"/></r></p></e>
@@ -1262,6 +1429,7 @@
     <e><p><l>Strom<s n="n"/><s n="m"/></l><r>Stroum<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Angriff<s n="n"/><s n="m"/></l><r>Stuerm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Stuhl<s n="n"/><s n="m"/></l><r>Stull<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Substantiv<s n="n"/><s n="nt"/></l><r>Substantiv<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Substanz<s n="n"/><s n="f"/></l><r>Substanz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Sattel<s n="n"/><s n="m"/></l><r>Suedel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Sommer<s n="n"/><s n="m"/></l><r>Summer<s n="n"/><s n="m"/></r></p></e>
@@ -1322,6 +1490,7 @@
     <e><p><l>Abwandlung<s n="n"/><s n="f"/></l><r>Variatioun<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Verantwortung<s n="n"/><s n="f"/></l><r>Verantwortung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Verbindung<s n="n"/><s n="f"/></l><r>Verbindung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Verbreitung<s n="n"/><s n="f"/></l><r>Verbreedung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Verbrennung<s n="n"/><s n="f"/></l><r>Verbrennung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Verteidigung<s n="n"/><s n="f"/></l><r>Verdeedegung<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Verteilung<s n="n"/><s n="f"/></l><r>Verdeelung<s n="n"/><s n="f"/></r></p></e>
@@ -1383,6 +1552,7 @@
     <e><p><l>Wahrheit<s n="n"/><s n="f"/></l><r>Wourecht<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Wort<s n="n"/><s n="nt"/></l><r>Wuert<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Mietwohnung<s n="n"/><s n="f"/></l><r>Wunneng<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Zeit<s n="n"/><s n="f"/></l><r>Zäit<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Soldat<s n="n"/><s n="m"/></l><r>Zaldot<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Salat<s n="n"/><s n="m"/></l><r>Zalot<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Zahn<s n="n"/><s n="m"/></l><r>Zant<s n="n"/><s n="m"/></r></p></e>
@@ -1406,6 +1576,7 @@
     <e><p><l>Zoo<s n="n"/><s n="m"/></l><r>Zoo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Soße<s n="n"/><s n="f"/></l><r>Zooss<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Sorte<s n="n"/><s n="f"/></l><r>Zort<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Zusatz<s n="n"/><s n="m"/></l><r>Zousaz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Zug<s n="n"/><s n="m"/></l><r>Zuch<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Zahl<s n="n"/><s n="f"/></l><r>Zuel<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Zukunft<s n="n"/><s n="f"/></l><r>Zukunft<s n="n"/><s n="f"/></r></p></e>
