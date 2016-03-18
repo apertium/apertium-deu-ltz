@@ -11,6 +11,11 @@
     <sdef n="nt" 	c="Neuter"/> 
     <sdef n="sg"    c="Singular"/>
     <sdef n="pl"    c="Plural"/>
+    <sdef n="np" 	c="Proper noun"/>
+    <sdef n="ant" 	c="Antroponym"/>
+    <sdef n="cog" 	c="Cognomen"/>
+    <sdef n="al" 	c="Altres"/>
+    <sdef n="top" 	c="Toponym"/>
     <sdef n="prn"   c="Pronoun"/>
     <sdef n="vblex" c="Lexical verb"/> 
     <sdef n="vbser" c="The verb 'to be'"/> 
@@ -19,8 +24,10 @@
     <sdef n="vaux"  c="Auxilliary verb"/> 
     <sdef n="sep"       c="Seperable verb"/>
     <sdef n="det"   c="Determiner"/> 
+    <sdef n="pos" 	c="Possessive"/> 
     <sdef n="num" 	c="Numeral / Number"/> 
     <sdef n="ord" 	c="Ordinal"/> 
+    <sdef n="rel" 	c="Relative"/>
     <sdef n="pr"    c="Preposition"/> 
     <sdef n="adj" 	c="Adjective"/> 
     <sdef n="attr" 	c="Attributive"/> 
@@ -46,6 +53,13 @@
     <e><p><l>der<s n="det"/></l><r>den<s n="det"/></r></p></e>
     <e><p><l>ein<s n="det"/></l><r>en<s n="det"/></r></p></e>
 
+    <e><p><l>mein<s n="det"/><s n="pos"/></l><r>mäin<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>dein<s n="det"/><s n="pos"/></l><r>däin<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>sein<s n="det"/><s n="pos"/></l><r>säin<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>ihr<s n="det"/><s n="pos"/></l><r>hiren<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>unser<s n="det"/><s n="pos"/></l><r>eisen<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>euer<s n="det"/><s n="pos"/></l><r>ären<s n="det"/><s n="pos"/></r></p></e>
+
     <e><p><l>ich<s n="prn"/></l><r>ech<s n="prn"/></r></p></e>
     <e><p><l>du<s n="prn"/></l><r>du<s n="prn"/></r></p></e>
     <e><p><l>er<s n="prn"/></l><r>hien<s n="prn"/></r></p></e>
@@ -54,10 +68,17 @@
     <e><p><l>wir<s n="prn"/></l><r>mir<s n="prn"/></r></p></e>
     <e><p><l>ihr<s n="prn"/></l><r>dir<s n="prn"/></r></p></e>
     <e><p><l>sie<s n="prn"/></l><r>si<s n="prn"/></r></p></e>
+    
+    <e><p><l>sich<s n="prn"/></l><r>sech<s n="prn"/></r></p></e>
+    
+    <e><p><l>dies<s n="prn"/></l><r>dësen<s n="prn"/></r></p></e>
+    <e><p><l>was<s n="rel"/></l><r>wat<s n="rel"/></r></p></e>
+    <e><p><l>was<s n="prn"/></l><r>wat<s n="prn"/></r></p></e>
 
     <e><p><l>werden<s n="vaux"/></l><r>ginn<s n="vaux"/></r></p></e>
     <e><p><l>sein<s n="vbser"/></l><r>sinn<s n="vbser"/></r></p></e>
     <e><p><l>haben<s n="vbhaver"/></l><r>hunn<s n="vbhaver"/></r></p></e>
+    <e><p><l>können<s n="vbmod"/></l><r>kënnen<s n="vbmod"/></r></p></e>
     <e><p><l>sollen<s n="vbmod"/></l><r>sollen<s n="vbmod"/></r></p></e>
     <e><p><l>müssen<s n="vbmod"/></l><r>mussen<s n="vbmod"/></r></p></e>
 
@@ -68,6 +89,7 @@
     <e><p><l>abschlachten<s n="vblex"/><s n="sep"/></l><r>schluechten<s n="vblex"/></r></p></e>
     <e><p><l>abstammen<s n="vblex"/><s n="sep"/></l><r>ofstamen<s n="vblex"/></r></p></e>
     <e><p><l>anbieten<s n="vblex"/><s n="sep"/></l><r>ubidden<s n="vblex"/></r></p></e>
+    <e><p><l>ändern<s n="vblex"/></l><r>änneren<s n="vblex"/></r></p></e>
     <e><p><l>anerkennen<s n="vblex"/><s n="sep"/></l><r>unerkennen<s n="vblex"/></r></p></e>
     <e><p><l>anfassen<s n="vblex"/><s n="sep"/></l><r>frieden<s n="vblex"/></r></p></e> <!-- berühren -->
     <e><p><l>angeben<s n="vblex"/><s n="sep"/></l><r>uginn<s n="vblex"/></r></p></e>
@@ -77,6 +99,7 @@
     <e><p><l>annehmen<s n="vblex"/><s n="sep"/></l><r>unhuelen<s n="vblex"/></r></p></e>
     <e><p><l>anpassen<s n="vblex"/><s n="sep"/></l><r>upassen<s n="vblex"/></r></p></e>
     <e><p><l>anschauen<s n="vblex"/><s n="sep"/></l><r>ukucken<s n="vblex"/></r></p></e>
+    <e><p><l>ansehen<s n="vblex"/><s n="sep"/></l><r>ugesinn<s n="vblex"/><s n="sep"/></r></p></e>
     <e><p><l>antreten<s n="vblex"/><s n="sep"/></l><r>untrieden<s n="vblex"/></r></p></e>
     <e><p><l>arbeiten<s n="vblex"/></l><r>schaffen<s n="vblex"/></r></p></e>
     <e><p><l>arbeiten<s n="vblex"/></l><r>wierken<s n="vblex"/></r></p></e>
@@ -95,6 +118,7 @@
     <e><p><l>ausfallen<s n="vblex"/><s n="sep"/></l><r>ausgoen<s n="vblex"/></r></p></e> <!-- Haare -->
     <e><p><l>ausgeben<s n="vblex"/><s n="sep"/></l><r>ausginn<s n="vblex"/></r></p></e>
     <e><p><l>auskommen<s n="vblex"/><s n="sep"/></l><r>erauskommen<s n="vblex"/></r></p></e> <!-- mit Geld -->
+    <e><p><l>auslegen<s n="vblex"/><s n="sep"/></l><r>ausleeën<s n="vblex"/><s n="sep"/></r></p></e>
     <e><p><l>bauen<s n="vblex"/></l><r>bauen<s n="vblex"/></r></p></e>
     <e><p><l>beabsichtigen<s n="vblex"/></l><r>plangen<s n="vblex"/></r></p></e>
     <e><p><l>beachten<s n="vblex"/></l><r>beuechten<s n="vblex"/></r></p></e>
@@ -117,6 +141,7 @@
     <e><p><l>berechnen<s n="vblex"/></l><r>berechnen<s n="vblex"/></r></p></e>
     <e><p><l>beruhen<s n="vblex"/></l><r>berouen<s n="vblex"/></r></p></e>
     <e><p><l>beschreiben<s n="vblex"/></l><r>beschreiwen<s n="vblex"/></r></p></e>
+    <e><p><l>bestimmen<s n="vblex"/></l><r>bestëmmen<s n="vblex"/></r></p></e>
     <e><p><l>bestrafen<s n="vblex"/></l><r>bestrofen<s n="vblex"/></r></p></e>
     <e><p><l>bestrafen<s n="vblex"/></l><r>strofen<s n="vblex"/></r></p></e>
     <e><p><l>besuchen<s n="vblex"/></l><r>besichen<s n="vblex"/></r></p></e>
@@ -134,24 +159,30 @@
     <e><p><l>brauchen<s n="vblex"/></l><r>brauchen<s n="vblex"/></r></p></e>
     <e><p><l>brechen<s n="vblex"/></l><r>briechen<s n="vblex"/></r></p></e>
     <e><p><l>brennen<s n="vblex"/></l><r>flamen<s n="vblex"/></r></p></e>
+    <e><p><l>bringen<s n="vblex"/></l><r>bréngen<s n="vblex"/></r></p></e>
     <e><p><l>darstellen<s n="vblex"/><s n="sep"/></l><r>duerstellen<s n="vblex"/></r></p></e>
     <e><p><l>darstellen<s n="vblex"/><s n="sep"/></l><r>virstellen<s n="vblex"/></r></p></e>
     <e><p><l>dauern<s n="vblex"/></l><r>daueren<s n="vblex"/></r></p></e>
+    <e><p><l>deklinieren<s n="vblex"/></l><r>deklinéieren<s n="vblex"/></r></p></e>
     <e><p><l>denken<s n="vblex"/></l><r>mengen<s n="vblex"/></r></p></e>
     <e><p><l>deuten<s n="vblex"/></l><r>deiten<s n="vblex"/></r></p></e>
     <e><p><l>einnehmen<s n="vblex"/><s n="sep"/></l><r>anhuelen<s n="vblex"/></r></p></e> <!-- Medikament -->
     <e><p><l>einparken<s n="vblex"/><s n="sep"/></l><r>parken<s n="vblex"/></r></p></e>
     <e><p><l>einsammeln<s n="vblex"/><s n="sep"/></l><r>sammelen<s n="vblex"/></r></p></e>
     <e><p><l>einstellen<s n="vblex"/><s n="sep"/></l><r>riichten<s n="vblex"/></r></p></e>
+    <e><p><l>enden<s n="vblex"/></l><r>endegen<s n="vblex"/></r></p></e>
     <e><p><l>entdecken<s n="vblex"/></l><r>entdecken<s n="vblex"/></r></p></e>
     <e><p><l>entgehen<s n="vblex"/></l><r>entgoen<s n="vblex"/></r></p></e>
     <e><p><l>enthalten<s n="vblex"/></l><r>enthalen<s n="vblex"/></r></p></e>
+    <e><p><l>entsprechen<s n="vblex"/></l><r>entspriechen<s n="vblex"/></r></p></e>
     <e><p><l>entstehen<s n="vblex"/></l><r>entstoen<s n="vblex"/></r></p></e>
+    <e><p><l>entwickeln<s n="vblex"/></l><r>entwéckelen<s n="vblex"/></r></p></e>
     <e><p><l>erdulden<s n="vblex"/></l><r>leiden<s n="vblex"/></r></p></e>
     <e><p><l>erfassen<s n="vblex"/></l><r>erfaassen<s n="vblex"/></r></p></e>
     <e><p><l>erforschen<s n="vblex"/></l><r>erfuerschen<s n="vblex"/></r></p></e>
     <e><p><l>erhalten<s n="vblex"/></l><r>erhalen<s n="vblex"/></r></p></e>
     <e><p><l>erkennen<s n="vblex"/></l><r>erkennen<s n="vblex"/></r></p></e>
+    <e><p><l>erklären<s n="vblex"/></l><r>deklaréieren<s n="vblex"/></r></p></e>
     <e><p><l>erlauben<s n="vblex"/></l><r>erlaben<s n="vblex"/></r></p></e>
     <e><p><l>erleben<s n="vblex"/></l><r>erliewen<s n="vblex"/></r></p></e>
     <e><p><l>ernähren<s n="vblex"/></l><r>ernieren<s n="vblex"/></r></p></e>
@@ -164,6 +195,8 @@
     <e><p><l>erzählen<s n="vblex"/></l><r>erzielen<s n="vblex"/></r></p></e>
     <e><p><l>erzählen<s n="vblex"/></l><r>zielen<s n="vblex"/></r></p></e>
     <e><p><l>erziehen<s n="vblex"/></l><r>zillen<s n="vblex"/></r></p></e>
+    <e><p><l>essen<s n="vblex"/></l><r>iessen<s n="vblex"/></r></p></e>
+    <e><p><l>existieren<s n="vblex"/></l><r>existéieren<s n="vblex"/></r></p></e>
     <e><p><l>fahren<s n="vblex"/></l><r>fueren<s n="vblex"/></r></p></e>
     <e><p><l>fallen<s n="vblex"/></l><r>falen<s n="vblex"/></r></p></e>
     <e><p><l>federn<s n="vblex"/></l><r>fiederen<s n="vblex"/></r></p></e>
@@ -173,11 +206,14 @@
     <e><p><l>flechten<s n="vblex"/></l><r>flechten<s n="vblex"/></r></p></e>
     <e><p><l>folgen<s n="vblex"/></l><r>follegen<s n="vblex"/></r></p></e>
     <e><p><l>fragen<s n="vblex"/></l><r>froen<s n="vblex"/></r></p></e>
+    <e><p><l>führen<s n="vblex"/></l><r>féieren<s n="vblex"/></r></p></e>
+    <e><p><l>funktionieren<s n="vblex"/></l><r>funktionéieren<s n="vblex"/></r></p></e>
     <e><p><l>geben<s n="vblex"/></l><r>ginn<s n="vblex"/></r></p></e>
     <e><p><l>gebrauchen<s n="vblex"/></l><r>gebrauchen<s n="vblex"/></r></p></e>
     <e><p><l>gedeihen<s n="vblex"/></l><r>aarten<s n="vblex"/></r></p></e>
     <e><p><l>gedenken<s n="vblex"/></l><r>gedenken<s n="vblex"/></r></p></e>
     <e><p><l>gelingen<s n="vblex"/></l><r>geroden<s n="vblex"/></r></p></e>
+    <e><p><l>geten<s n="vblex"/></l><r>gëllen<s n="vblex"/></r></p></e>
     <e><p><l>gestalten<s n="vblex"/></l><r>gestalten<s n="vblex"/></r></p></e>
     <e><p><l>gewinnen<s n="vblex"/></l><r>gewannen<s n="vblex"/></r></p></e>
     <e><p><l>glauben<s n="vblex"/></l><r>gleewen<s n="vblex"/></r></p></e>
@@ -192,6 +228,7 @@
     <e><p><l>hinweisen<s n="vblex"/><s n="sep"/></l><r>hiweisen<s n="vblex"/></r></p></e>
     <e><p><l>hoffen<s n="vblex"/></l><r>hoffen<s n="vblex"/></r></p></e>
     <e><p><l>holen<s n="vblex"/></l><r>huelen<s n="vblex"/></r></p></e>
+    <e><p><l>hören<s n="vblex"/></l><r>héieren<s n="vblex"/></r></p></e>
     <e><p><l>interviewen<s n="vblex"/></l><r>interviewen<s n="vblex"/></r></p></e>
     <e><p><l>jagen<s n="vblex"/></l><r>joen<s n="vblex"/></r></p></e>
     <e><p><l>kaufen<s n="vblex"/></l><r>kafen<s n="vblex"/></r></p></e>
@@ -201,17 +238,20 @@
     <e><p><l>klauen<s n="vblex"/></l><r>klauen<s n="vblex"/></r></p></e>
     <e><p><l>kommen<s n="vblex"/></l><r>kommen<s n="vblex"/></r></p></e>
     <e><p><l>korrigieren<s n="vblex"/></l><r>verbesseren<s n="vblex"/></r></p></e>
+    <e><p><l>kriegen<s n="vblex"/></l><r>kréien<s n="vblex"/></r></p></e>
     <e><p><l>landen<s n="vblex"/></l><r>landen<s n="vblex"/></r></p></e>
     <e><p><l>langen<s n="vblex"/></l><r>reechen<s n="vblex"/></r></p></e>
     <e><p><l>lassen<s n="vblex"/></l><r>loossen<s n="vblex"/></r></p></e>
     <e><p><l>leisten<s n="vblex"/></l><r>leeschten<s n="vblex"/></r></p></e>
     <e><p><l>leiten<s n="vblex"/></l><r>leeden<s n="vblex"/></r></p></e>
     <e><p><l>lenken<s n="vblex"/></l><r>steieren<s n="vblex"/></r></p></e>
+    <e><p><l>lesen<s n="vblex"/></l><r>liesen<s n="vblex"/></r></p></e>
     <e><p><l>leuchten<s n="vblex"/></l><r>liichten<s n="vblex"/></r></p></e>
     <e><p><l>liefern<s n="vblex"/></l><r>liwweren<s n="vblex"/></r></p></e>
     <e><p><l>liegen<s n="vblex"/></l><r>leien<s n="vblex"/></r></p></e>
     <e><p><l>machen<s n="vblex"/></l><r>maachen<s n="vblex"/></r></p></e>
     <e><p><l>machen<s n="vblex"/></l><r>man<s n="vblex"/></r></p></e>
+    <e><p><l>mähen<s n="vblex"/></l><r>méien<s n="vblex"/></r></p></e>
     <e><p><l>malen<s n="vblex"/></l><r>molen<s n="vblex"/></r></p></e>
     <e><p><l>mauern<s n="vblex"/></l><r>maueren<s n="vblex"/></r></p></e>
     <e><p><l>messen<s n="vblex"/></l><r>moossen<s n="vblex"/></r></p></e>
@@ -250,6 +290,7 @@
     <e><p><l>spenden<s n="vblex"/></l><r>spenden<s n="vblex"/></r></p></e>
     <e><p><l>spiegeln<s n="vblex"/></l><r>spigelen<s n="vblex"/></r></p></e>
     <e><p><l>spielen<s n="vblex"/></l><r>spillen<s n="vblex"/></r></p></e>
+    <e><p><l>sprechen<s n="vblex"/></l><r>schwätzen<s n="vblex"/></r></p></e>
     <e><p><l>springen<s n="vblex"/></l><r>sprangen<s n="vblex"/></r></p></e>
     <e><p><l>stammen<s n="vblex"/></l><r>stamen<s n="vblex"/></r></p></e>
     <e><p><l>starten<s n="vblex"/></l><r>starten<s n="vblex"/></r></p></e>
@@ -261,6 +302,7 @@
     <e><p><l>stufen<s n="vblex"/></l><r>stufen<s n="vblex"/></r></p></e>
     <e><p><l>stürzen<s n="vblex"/></l><r>stierzen<s n="vblex"/></r></p></e>
     <e><p><l>suchen<s n="vblex"/></l><r>sichen<s n="vblex"/></r></p></e>
+    <e><p><l>tanzen<s n="vblex"/></l><r>danzen<s n="vblex"/></r></p></e>
     <e><p><l>tauschen<s n="vblex"/></l><r>koppelen<s n="vblex"/></r></p></e> <!-- Sachgegenstände -->
     <e><p><l>teilnehmen<s n="vblex"/><s n="sep"/></l><r>deelhuelen<s n="vblex"/></r></p></e>
     <e><p><l>testen<s n="vblex"/></l><r>testen<s n="vblex"/></r></p></e>
@@ -290,6 +332,7 @@
     <e><p><l>verfolgen<s n="vblex"/></l><r>verfollegen<s n="vblex"/></r></p></e>
     <e><p><l>vergeben<s n="vblex"/></l><r>verginn<s n="vblex"/></r></p></e>
     <e><p><l>vergessen<s n="vblex"/></l><r>vergiessen<s n="vblex"/></r></p></e>
+    <e><p><l>vergleichen<s n="vblex"/></l><r>vergläichen<s n="vblex"/></r></p></e>
     <e><p><l>verlangen<s n="vblex"/></l><r>verlaangen<s n="vblex"/></r></p></e>
     <e><p><l>verlassen<s n="vblex"/></l><r>verloossen<s n="vblex"/></r></p></e>
     <e><p><l>vermeiden<s n="vblex"/></l><r>vermeiden<s n="vblex"/></r></p></e>
@@ -314,10 +357,16 @@
     <e><p><l>zeigen<s n="vblex"/></l><r>weisen<s n="vblex"/></r></p></e>
     <e><p><l>zusammenleben<s n="vblex"/><s n="sep"/></l><r>kummeren<s n="vblex"/></r></p></e>
 
+
+<!-- SECTION: Prepositions -->
+
+    <e><p><l>als<s n="pr"/></l><r>als<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>un<s n="pr"/></r></p></e>
     <e><p><l>auf<s n="pr"/></l><r>op<s n="pr"/></r></p></e>
     <e><p><l>aus<s n="pr"/></l><r>aus<s n="pr"/></r></p></e>
     <e><p><l>außerhalb<s n="pr"/></l><r>baussen<s n="pr"/></r></p></e>
+    <e><p><l>bei<s n="pr"/></l><r>bei<s n="pr"/></r></p></e>
+    <e><p><l>bis<s n="pr"/></l><r>bis<s n="pr"/></r></p></e>
     <e><p><l>durch<s n="pr"/></l><r>duerch<s n="pr"/></r></p></e>
     <e><p><l>für<s n="pr"/></l><r>fir<s n="pr"/></r></p></e>
     <e><p><l>gegen<s n="pr"/></l><r>géint<s n="pr"/></r></p></e>
@@ -343,7 +392,10 @@
     <e><p><l>zwischen<s n="pr"/></l><r>tëschen<s n="pr"/></r></p></e>
     <e><p><l>zwischen<s n="pr"/></l><r>tëschent<s n="pr"/></r></p></e>
     <e><p><l>zwischen<s n="pr"/></l><r>tëscht<s n="pr"/></r></p></e>
-  
+
+
+<!-- SECTION: Conjunctions -->
+
     <e><p><l>aber<s n="cnjcoo"/></l><r>mä<s n="cnjcoo"/></r></p></e>
     <e><p><l>und<s n="cnjcoo"/></l><r>an<s n="cnjcoo"/></r></p></e>
     <e><p><l>oder<s n="cnjcoo"/></l><r>oder<s n="cnjcoo"/></r></p></e>
@@ -354,10 +406,116 @@
     <e><p><l>wenn<s n="cnjsub"/></l><r>wann<s n="cnjsub"/></r></p></e>
     <e><p><l>wo<s n="cnjsub"/></l><r>wou<s n="cnjsub"/></r></p></e>
 
+
+<!-- SECTION: Numerals -->
+
+    <e><p><l>null<s n="num"/></l><r>null<s n="num"/></r></p></e>
+    <e><p><l>ein<s n="num"/></l><r>een<s n="num"/></r></p></e>
+    <e><p><l>zwei<s n="num"/></l><r>zwee<s n="num"/></r></p></e>
+    <e><p><l>drei<s n="num"/></l><r>dräi<s n="num"/></r></p></e>
+    <e><p><l>vier<s n="num"/></l><r>véier<s n="num"/></r></p></e>
+    <e><p><l>fünf<s n="num"/></l><r>fënnef<s n="num"/></r></p></e>
+    <e><p><l>sechs<s n="num"/></l><r>sechs<s n="num"/></r></p></e>
+    <e><p><l>sieben<s n="num"/></l><r>siwen<s n="num"/></r></p></e>
+    <e><p><l>acht<s n="num"/></l><r>aacht<s n="num"/></r></p></e>
+    <e><p><l>neun<s n="num"/></l><r>néng<s n="num"/></r></p></e>
+    <e><p><l>zehn<s n="num"/></l><r>zéng<s n="num"/></r></p></e>
+    <e><p><l>elf<s n="num"/></l><r>eelef<s n="num"/></r></p></e>
+    <e><p><l>zwölf<s n="num"/></l><r>zwielef<s n="num"/></r></p></e>
+    <e><p><l>dreizehn<s n="num"/></l><r>dräizéng<s n="num"/></r></p></e>
+    <e><p><l>vierzehn<s n="num"/></l><r>véierzéng<s n="num"/></r></p></e>
+    <e><p><l>fünfzehn<s n="num"/></l><r>fofzéng<s n="num"/></r></p></e>
+    <e><p><l>sechzehn<s n="num"/></l><r>siechzéng<s n="num"/></r></p></e>
+    <e><p><l>siebzehn<s n="num"/></l><r>siwwenzéng<s n="num"/></r></p></e>
+    <e><p><l>achtzehn<s n="num"/></l><r>uechtzéng<s n="num"/></r></p></e>
+    <e><p><l>neunzehn<s n="num"/></l><r>nonzéng<s n="num"/></r></p></e>
+    <e><p><l>zwanzig<s n="num"/></l><r>zwanzeg<s n="num"/></r></p></e>
+    <e><p><l>einundzwanzig<s n="num"/></l><r>eenanzwanzeg<s n="num"/></r></p></e>
+    <e><p><l>zweiundzwanzig<s n="num"/></l><r>zweeanzwanzeg<s n="num"/></r></p></e>
+    <e><p><l>dreiundzwanzig<s n="num"/></l><r>dräianzwanzeg<s n="num"/></r></p></e>
+    <e><p><l>vierundzwanzig<s n="num"/></l><r>véieranzwanzeg<s n="num"/></r></p></e>
+    <e><p><l>fünfundzwanzig<s n="num"/></l><r>fënnefanzwanzeg<s n="num"/></r></p></e>
+    <e><p><l>sechsundzwanzig<s n="num"/></l><r>sechsanzwanzeg<s n="num"/></r></p></e>
+    <e><p><l>siebenundzwanzig<s n="num"/></l><r>siwenanzwanzeg<s n="num"/></r></p></e>
+    <e><p><l>achtundzwanzig<s n="num"/></l><r>aachtanzwanzeg<s n="num"/></r></p></e>
+    <e><p><l>neunundzwanzig<s n="num"/></l><r>nénganzwanzeg<s n="num"/></r></p></e>
+    <e><p><l>dreißig<s n="num"/></l><r>drësseg<s n="num"/></r></p></e>
+    <e><p><l>einunddreißig<s n="num"/></l><r>eenandrësseg<s n="num"/></r></p></e>
+    <e><p><l>zweiunddreißig<s n="num"/></l><r>zweeandrësseg<s n="num"/></r></p></e>
+    <e><p><l>dreiunddreißig<s n="num"/></l><r>dräiandrësseg<s n="num"/></r></p></e>
+    <e><p><l>vierunddreißig<s n="num"/></l><r>véierandrësseg<s n="num"/></r></p></e>
+    <e><p><l>fünfunddreißig<s n="num"/></l><r>fënnefandrësseg<s n="num"/></r></p></e>
+    <e><p><l>sechsunddreißig<s n="num"/></l><r>sechsandrësseg<s n="num"/></r></p></e>
+    <e><p><l>siebenunddreißig<s n="num"/></l><r>siwenandrësseg<s n="num"/></r></p></e>
+    <e><p><l>achtunddreißig<s n="num"/></l><r>aachtandrësseg<s n="num"/></r></p></e>
+    <e><p><l>neununddreißig<s n="num"/></l><r>néngandrësseg<s n="num"/></r></p></e>
+    <e><p><l>vierzig<s n="num"/></l><r>véierzeg<s n="num"/></r></p></e>
+    <e><p><l>einundvierzig<s n="num"/></l><r>eenavéierzeg<s n="num"/></r></p></e>
+    <e><p><l>zweiundvierzig<s n="num"/></l><r>zweeavéierzeg<s n="num"/></r></p></e>
+    <e><p><l>dreiundvierzig<s n="num"/></l><r>dräiavéierzeg<s n="num"/></r></p></e>
+    <e><p><l>vierundvierzig<s n="num"/></l><r>véieravéierzeg<s n="num"/></r></p></e>
+    <e><p><l>fünfundvierzig<s n="num"/></l><r>fënnefavéierzeg<s n="num"/></r></p></e>
+    <e><p><l>sechsundvierzig<s n="num"/></l><r>sechsavéierzeg<s n="num"/></r></p></e>
+    <e><p><l>siebenundvierzig<s n="num"/></l><r>siwenavéierzeg<s n="num"/></r></p></e>
+    <e><p><l>achtundvierzig<s n="num"/></l><r>aachtavéierzeg<s n="num"/></r></p></e>
+    <e><p><l>neunundvierzig<s n="num"/></l><r>néngavéierzeg<s n="num"/></r></p></e>
+    <e><p><l>fünfzig<s n="num"/></l><r>fofzeg<s n="num"/></r></p></e>
+    <e><p><l>hundert<s n="num"/></l><r>honnert<s n="num"/></r></p></e>
+    <e><p><l>tausend<s n="num"/></l><r>dausend<s n="num"/></r></p></e>
+
+
+    <e><p><l>II<s n="num"/></l><r>II<s n="num"/></r></p></e>
+    <e><p><l>III<s n="num"/></l><r>III<s n="num"/></r></p></e>
+    <e><p><l>IV<s n="num"/></l><r>IV<s n="num"/></r></p></e>
+    <e><p><l>IX<s n="num"/></l><r>IX<s n="num"/></r></p></e>
+    <e><p><l>V<s n="num"/></l><r>V<s n="num"/></r></p></e>
+    <e><p><l>VI<s n="num"/></l><r>VI<s n="num"/></r></p></e>
+    <e><p><l>VII<s n="num"/></l><r>VII<s n="num"/></r></p></e>
+    <e><p><l>VIII<s n="num"/></l><r>VIII<s n="num"/></r></p></e>
+    <e><p><l>X<s n="num"/></l><r>X<s n="num"/></r></p></e>
+    <e><p><l>XI<s n="num"/></l><r>XI<s n="num"/></r></p></e>
+    <e><p><l>XII<s n="num"/></l><r>XII<s n="num"/></r></p></e>
+    <e><p><l>XIII<s n="num"/></l><r>XIII<s n="num"/></r></p></e>
+    <e><p><l>XIV<s n="num"/></l><r>XIV<s n="num"/></r></p></e>
+    <e><p><l>XIX<s n="num"/></l><r>XIX<s n="num"/></r></p></e>
+    <e><p><l>XV<s n="num"/></l><r>XV<s n="num"/></r></p></e>
+    <e><p><l>XVI<s n="num"/></l><r>XVI<s n="num"/></r></p></e>
+    <e><p><l>XVII<s n="num"/></l><r>XVII<s n="num"/></r></p></e>
+    <e><p><l>XVIII<s n="num"/></l><r>XVIII<s n="num"/></r></p></e>
+    <e><p><l>XX<s n="num"/></l><r>XX<s n="num"/></r></p></e>
+    <e><p><l>XXI<s n="num"/></l><r>XXI<s n="num"/></r></p></e>
+    <e><p><l>XXII<s n="num"/></l><r>XXII<s n="num"/></r></p></e>
+
+
+    <e><p><l>erste<s n="adj"/><s n="ord"/></l><r>éischt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>zweite<s n="adj"/><s n="ord"/></l><r>zweet<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>dritte<s n="adj"/><s n="ord"/></l><r>drëtt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>vierte<s n="adj"/><s n="ord"/></l><r>véiert<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>fünfte<s n="adj"/><s n="ord"/></l><r>fënneft<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>sechste<s n="adj"/><s n="ord"/></l><r>sechst<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>siebte<s n="adj"/><s n="ord"/></l><r>siwent<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>achte<s n="adj"/><s n="ord"/></l><r>aachten<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>neunte<s n="adj"/><s n="ord"/></l><r>néngt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>zehnte<s n="adj"/><s n="ord"/></l><r>zéngt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>elfte<s n="adj"/><s n="ord"/></l><r>eeleft<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>zwölfte<s n="adj"/><s n="ord"/></l><r>zwieleft<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>dreizehnte<s n="adj"/><s n="ord"/></l><r>dräizéngt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>vierzehnte<s n="adj"/><s n="ord"/></l><r>véierzéngt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>fünfzehnte<s n="adj"/><s n="ord"/></l><r>fofzéngt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>sechzehnte<s n="adj"/><s n="ord"/></l><r>siechzéngt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>siebzehnte<s n="adj"/><s n="ord"/></l><r>siwwenzéngt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>achtzehnte<s n="adj"/><s n="ord"/></l><r>uechtzéngt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>neunzehnte<s n="adj"/><s n="ord"/></l><r>nonzéngt<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>zwanzigste<s n="adj"/><s n="ord"/></l><r>zwanzegt<s n="adj"/><s n="ord"/></r></p></e>
+
+
+<!-- SECTION: Adverbs -->
+
     <e><p><l>abends<s n="adv"/></l><r>owes<s n="adv"/></r></p></e>
     <e><p><l>aber<s n="adv"/></l><r>awer<s n="adv"/></r></p></e>
     <e><p><l>abgerundet<s n="adv"/></l><r>ronn<s n="adv"/></r></p></e>
     <e><p><l>allein<s n="adv"/></l><r>eleng<s n="adv"/></r></p></e>
+    <e><p><l>allerdings<s n="adv"/></l><r>allerdéngs<s n="adv"/></r></p></e>
     <e><p><l>allgemein<s n="adv"/></l><r>allgemeng<s n="adv"/></r></p></e>
     <e><p><l>also<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e><p><l>anders<s n="adv"/></l><r>anescht<s n="adv"/></r></p></e>
@@ -443,6 +601,7 @@
     <e><p><l>schon<b/>wieder<s n="adv"/></l><r>nees<s n="adv"/></r></p></e>
     <e><p><l>schon<s n="adv"/></l><r>alt<s n="adv"/></r></p></e>
     <e><p><l>schon<s n="adv"/></l><r>schonn<s n="adv"/></r></p></e>
+    <e><p><l>selbst<s n="adv"/></l><r>selwer<s n="adv"/></r></p></e>
     <e><p><l>selten<s n="adv"/></l><r>seelen<s n="adv"/></r></p></e>
     <e><p><l>sogar<s n="adv"/></l><r>souguer<s n="adv"/></r></p></e>
     <e><p><l>sonntags<s n="adv"/></l><r>sonndes<s n="adv"/></r></p></e>
@@ -463,6 +622,9 @@
     <e><p><l>zusammen<s n="adv"/></l><r>zesummen<s n="adv"/></r></p></e>
     <e><p><l>zu<s n="adv"/></l><r>ze<s n="adv"/></r></p></e>
     <e><p><l>zweimal<s n="adv"/></l><r>zweemol<s n="adv"/></r></p></e>
+
+
+<!-- SECTION: Adjectives -->
 
     <e><p><l>groß<s n="adj"/><s n="sint"/></l><r>grouss<s n="adj"/></r></p></e>
 
@@ -523,6 +685,7 @@
     <e><p><l>fit<s n="adj"/></l><r>fit<s n="adj"/></r></p></e>
     <e><p><l>flach<s n="adj"/></l><r>flaach<s n="adj"/></r></p></e>
     <e><p><l>flach<s n="adj"/></l><r>platt<s n="adj"/></r></p></e>
+    <e><p><l>französisch<s n="adj"/></l><r>franséisch<s n="adj"/></r></p></e>
     <e><p><l>frei<s n="adj"/></l><r>fräi<s n="adj"/></r></p></e>
     <e><p><l>fremd<s n="adj"/></l><r>friem<s n="adj"/></r></p></e>
     <e><p><l>froh<s n="adj"/></l><r>frou<s n="adj"/></r></p></e>
@@ -574,6 +737,7 @@
     <e><p><l>locker<s n="adj"/></l><r>labber<s n="adj"/></r></p></e>
     <e><p><l>Lokal<s n="adj"/></l><r>lokal<s n="adj"/></r></p></e>
     <e><p><l>los<s n="adj"/></l><r>lass<s n="adj"/></r></p></e>
+    <e><p><l>luxemburgisch<s n="adj"/></l><r>lëtzebuergesch<s n="adj"/></r></p></e>
     <e><p><l>matt<s n="adj"/></l><r>matt<s n="adj"/></r></p></e>
     <e><p><l>müde<s n="adj"/></l><r>midd<s n="adj"/></r></p></e>
     <e><p><l>nah<s n="adj"/></l><r>no<s n="adj"/></r></p></e>
@@ -599,6 +763,7 @@
     <e><p><l>schief<s n="adj"/></l><r>queesch<s n="adj"/></r></p></e>
     <e><p><l>schlecht<s n="adj"/></l><r>schlecht<s n="adj"/></r></p></e>
     <e><p><l>schnell<s n="adj"/></l><r>schnell<s n="adj"/></r></p></e>
+    <e><p><l>schön<s n="adj"/></l><r>schéin<s n="adj"/></r></p></e>
     <e><p><l>schwarz<s n="adj"/></l><r>schwaarz<s n="adj"/></r></p></e>
     <e><p><l>spanisch<s n="adj"/></l><r>spuenesch<s n="adj"/></r></p></e>
     <e><p><l>sportlich<s n="adj"/></l><r>sportlech<s n="adj"/></r></p></e>
@@ -962,6 +1127,7 @@
     <e><p><l>Fassade<s n="n"/><s n="f"/></l><r>Fassad<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Manier<s n="n"/><s n="f"/></l><r>Fassong<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Gefallen<s n="n"/><s n="m"/></l><r>Faveur<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Februar<s n="n"/><s n="m"/></l><r>Februar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Verband<s n="n"/><s n="m"/></l><r>Federatioun<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Fehler<s n="n"/><s n="m"/></l><r>Feeler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Feiertag<s n="n"/><s n="m"/></l><r>Feierdag<s n="n"/><s n="m"/></r></p></e>
@@ -1469,7 +1635,7 @@
     <e><p><l>Position<s n="n"/><s n="f"/></l><r>Positioun<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Post<s n="n"/><s n="f"/></l><r>Post<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Postkarte<s n="n"/><s n="f"/></l><r>Postkaart<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Arztpraxis<s n="n"/><s n="f"/></l><r>Praxis<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Praxis<s n="n"/><s n="f"/></l><r>Praxis<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Pressekonferenz<s n="n"/><s n="f"/></l><r>Pressekonferenz<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Prinzessin<s n="n"/><s n="f"/></l><r>Prinzessin<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Gefängnis<s n="n"/><s n="nt"/></l><r>Prisong<s n="n"/><s n="m"/></r></p></e>
@@ -1838,6 +2004,19 @@
     <e><p><l>Zweifel<s n="n"/><s n="m"/></l><r>Zweiwel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Zwerg<s n="n"/><s n="m"/></l><r>Zwerg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Zylinder<s n="n"/><s n="m"/></l><r>Zylinder<s n="n"/><s n="m"/></r></p></e>
+
+
+<!-- SECTION: Proper nouns -->
+
+<!-- locations -->
+
+    <e><p><l>Deutschland<s n="np"/><s n="top"/></l><r>Däitschland<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>England<s n="np"/><s n="top"/></l><r>England<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Frankreich<s n="np"/><s n="top"/></l><r>Frankräich<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Holland<s n="np"/><s n="top"/></l><r>Holland<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Luxemburg<s n="np"/><s n="top"/></l><r>Lëtzebuerg<s n="np"/><s n="top"/></r></p></e>
+
+<!-- SECTION: Punctuation -->
 
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>[„«]</re><p><l><s n="lquot"/></l><r><s n="lquot"/></r></p></e>
