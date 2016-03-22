@@ -9,6 +9,7 @@
     <sdef n="m" 	c="Masculine"/> 
     <sdef n="f" 	c="Feminine"/> 
     <sdef n="nt" 	c="Neuter"/> 
+    <sdef n="mfn" 	c="Masculine/feminine/neuter"/> 
     <sdef n="sg"    c="Singular"/>
     <sdef n="pl"    c="Plural"/>
     <sdef n="np" 	c="Proper noun"/>
@@ -83,284 +84,6 @@
     <e><p><l>können<s n="vbmod"/></l><r>kënnen<s n="vbmod"/></r></p></e>
     <e><p><l>sollen<s n="vbmod"/></l><r>sollen<s n="vbmod"/></r></p></e>
     <e><p><l>müssen<s n="vbmod"/></l><r>mussen<s n="vbmod"/></r></p></e>
-
-    <e><p><l>abgeben<s n="vblex"/><s n="sep"/></l><r>ofginn<s n="vblex"/></r></p></e>
-    <e><p><l>ablaufen<s n="vblex"/><s n="sep"/></l><r>oflafen<s n="vblex"/></r></p></e>
-    <e><p><l>ablaufen<s n="vblex"/><s n="sep"/></l><r>verlafen<s n="vblex"/></r></p></e>
-    <e><p><l>abreißen<s n="vblex"/><s n="sep"/></l><r>ofrappen<s n="vblex"/></r></p></e>
-    <e><p><l>abschlachten<s n="vblex"/><s n="sep"/></l><r>schluechten<s n="vblex"/></r></p></e>
-    <e><p><l>abstammen<s n="vblex"/><s n="sep"/></l><r>ofstamen<s n="vblex"/></r></p></e>
-    <e><p><l>anbieten<s n="vblex"/><s n="sep"/></l><r>ubidden<s n="vblex"/></r></p></e>
-    <e><p><l>ändern<s n="vblex"/></l><r>änneren<s n="vblex"/></r></p></e>
-    <e><p><l>anerkennen<s n="vblex"/><s n="sep"/></l><r>unerkennen<s n="vblex"/></r></p></e>
-    <e><p><l>anfassen<s n="vblex"/><s n="sep"/></l><r>frieden<s n="vblex"/></r></p></e> <!-- berühren -->
-    <e><p><l>angeben<s n="vblex"/><s n="sep"/></l><r>uginn<s n="vblex"/></r></p></e>
-    <e><p><l>anhalten<s n="vblex"/><s n="sep"/></l><r>halen<s n="vblex"/></r></p></e>
-    <e><p><l>anhalten<s n="vblex"/><s n="sep"/></l><r>stoppen<s n="vblex"/></r></p></e>
-    <e><p><l>ankommen<s n="vblex"/><s n="sep"/></l><r>ukommen<s n="vblex"/></r></p></e>
-    <e><p><l>annehmen<s n="vblex"/><s n="sep"/></l><r>unhuelen<s n="vblex"/></r></p></e>
-    <e><p><l>anpassen<s n="vblex"/><s n="sep"/></l><r>upassen<s n="vblex"/></r></p></e>
-    <e><p><l>anschauen<s n="vblex"/><s n="sep"/></l><r>ukucken<s n="vblex"/></r></p></e>
-    <e><p><l>ansehen<s n="vblex"/><s n="sep"/></l><r>ugesinn<s n="vblex"/><s n="sep"/></r></p></e>
-    <e><p><l>antreten<s n="vblex"/><s n="sep"/></l><r>untrieden<s n="vblex"/></r></p></e>
-    <e><p><l>arbeiten<s n="vblex"/></l><r>schaffen<s n="vblex"/></r></p></e>
-    <e><p><l>arbeiten<s n="vblex"/></l><r>wierken<s n="vblex"/></r></p></e>
-    <e><p><l>aufbauen<s n="vblex"/><s n="sep"/></l><r>opbauen<s n="vblex"/></r></p></e>
-    <e><p><l>aufbewahren<s n="vblex"/><s n="sep"/></l><r>versuergen<s n="vblex"/></r></p></e>
-    <e><p><l>auffassen<s n="vblex"/><s n="sep"/></l><r>ophuelen<s n="vblex"/></r></p></e>
-    <e><p><l>aufgeben<s n="vblex"/><s n="sep"/></l><r>opginn<s n="vblex"/></r></p></e>
-    <e><p><l>aufhören<s n="vblex"/><s n="sep"/></l><r>ophalen<s n="vblex"/></r></p></e>
-    <e><p><l>aufhören<s n="vblex"/><s n="sep"/></l><r>passen<s n="vblex"/></r></p></e> <!-- Spiel, Essen -->
-    <e><p><l>aufräumen<s n="vblex"/><s n="sep"/></l><r>raumen<s n="vblex"/></r></p></e>
-    <e><p><l>aufrichten<s n="vblex"/><s n="sep"/></l><r>opriichten<s n="vblex"/></r></p></e>
-    <e><p><l>aufteilen<s n="vblex"/><s n="sep"/></l><r>deelen<s n="vblex"/></r></p></e>
-    <e><p><l>auftreten<s n="vblex"/><s n="sep"/></l><r>optrieden<s n="vblex"/></r></p></e>
-    <e><p><l>ausbauen<s n="vblex"/><s n="sep"/></l><r>ausbauen<s n="vblex"/></r></p></e>
-    <e><p><l>ausbreiten<s n="vblex"/><s n="sep"/></l><r>ausbreeden<s n="vblex"/></r></p></e>
-    <e><p><l>ausfallen<s n="vblex"/><s n="sep"/></l><r>ausgoen<s n="vblex"/></r></p></e> <!-- Haare -->
-    <e><p><l>ausgeben<s n="vblex"/><s n="sep"/></l><r>ausginn<s n="vblex"/></r></p></e>
-    <e><p><l>auskommen<s n="vblex"/><s n="sep"/></l><r>erauskommen<s n="vblex"/></r></p></e> <!-- mit Geld -->
-    <e><p><l>auslegen<s n="vblex"/><s n="sep"/></l><r>ausleeën<s n="vblex"/><s n="sep"/></r></p></e>
-    <e><p><l>bauen<s n="vblex"/></l><r>bauen<s n="vblex"/></r></p></e>
-    <e><p><l>beabsichtigen<s n="vblex"/></l><r>plangen<s n="vblex"/></r></p></e>
-    <e><p><l>beachten<s n="vblex"/></l><r>beuechten<s n="vblex"/></r></p></e>
-    <e><p><l>bedecken<s n="vblex"/></l><r>bedecken<s n="vblex"/></r></p></e>
-    <e><p><l>bedeuten<s n="vblex"/></l><r>bedeiten<s n="vblex"/></r></p></e>
-    <e><p><l>beeinflussen<s n="vblex"/></l><r>beaflossen<s n="vblex"/></r></p></e>
-    <e><p><l>beerdigen<s n="vblex"/></l><r>begruewen<s n="vblex"/></r></p></e>
-    <e><p><l>befreien<s n="vblex"/></l><r>befreien<s n="vblex"/></r></p></e>
-    <e><p><l>begeistern<s n="vblex"/></l><r>begeeschteren<s n="vblex"/></r></p></e>
-    <e><p><l>begleiten<s n="vblex"/></l><r>begleeden<s n="vblex"/></r></p></e>
-    <e><p><l>behalten<s n="vblex"/></l><r>behalen<s n="vblex"/></r></p></e>
-    <e><p><l>behandeln<s n="vblex"/></l><r>behandelen<s n="vblex"/></r></p></e>
-    <e><p><l>beherrschen<s n="vblex"/></l><r>meeschteren<s n="vblex"/></r></p></e>
-    <e><p><l>beklagen<s n="vblex"/></l><r>bekloen<s n="vblex"/></r></p></e>
-    <e><p><l>bemerken<s n="vblex"/></l><r>bemierken<s n="vblex"/></r></p></e>
-    <e><p><l>bemerken<s n="vblex"/></l><r>mierken<s n="vblex"/></r></p></e>
-    <e><p><l>benennen<s n="vblex"/></l><r>nennen<s n="vblex"/></r></p></e>
-    <e><p><l>benutzen<s n="vblex"/></l><r>benotzen<s n="vblex"/></r></p></e>
-    <e><p><l>beraten<s n="vblex"/></l><r>beroden<s n="vblex"/></r></p></e>
-    <e><p><l>berechnen<s n="vblex"/></l><r>berechnen<s n="vblex"/></r></p></e>
-    <e><p><l>beruhen<s n="vblex"/></l><r>berouen<s n="vblex"/></r></p></e>
-    <e><p><l>beschreiben<s n="vblex"/></l><r>beschreiwen<s n="vblex"/></r></p></e>
-    <e><p><l>bestehen<s n="vblex"/></l><r>bestoen<s n="vblex"/></r></p></e>
-    <e><p><l>bestimmen<s n="vblex"/></l><r>bestëmmen<s n="vblex"/></r></p></e>
-    <e><p><l>bestrafen<s n="vblex"/></l><r>bestrofen<s n="vblex"/></r></p></e>
-    <e><p><l>bestrafen<s n="vblex"/></l><r>strofen<s n="vblex"/></r></p></e>
-    <e><p><l>besuchen<s n="vblex"/></l><r>besichen<s n="vblex"/></r></p></e>
-    <e><p><l>beteiligen<s n="vblex"/></l><r>bedeelegen<s n="vblex"/></r></p></e>
-    <e><p><l>betreiben<s n="vblex"/></l><r>bedreiwen<s n="vblex"/></r></p></e>
-    <e><p><l>betteln<s n="vblex"/></l><r>heeschen<s n="vblex"/></r></p></e>
-    <e><p><l>bewegen<s n="vblex"/></l><r>beweegen<s n="vblex"/></r></p></e>
-    <e><p><l>bewegen<s n="vblex"/></l><r>bewegen<s n="vblex"/></r></p></e>
-    <e><p><l>bewirken<s n="vblex"/></l><r>bewierken<s n="vblex"/></r></p></e>
-    <e><p><l>bewundern<s n="vblex"/></l><r>bewonneren<s n="vblex"/></r></p></e>
-    <e><p><l>bezeichnen<s n="vblex"/></l><r>bezeechnen<s n="vblex"/></r></p></e>
-    <e><p><l>bilden<s n="vblex"/></l><r>bilden<s n="vblex"/></r></p></e>
-    <e><p><l>bilden<s n="vblex"/></l><r>formen<s n="vblex"/></r></p></e>
-    <e><p><l>bleiben<s n="vblex"/></l><r>bleiwen<s n="vblex"/></r></p></e>
-    <e><p><l>brauchen<s n="vblex"/></l><r>brauchen<s n="vblex"/></r></p></e>
-    <e><p><l>brechen<s n="vblex"/></l><r>briechen<s n="vblex"/></r></p></e>
-    <e><p><l>brennen<s n="vblex"/></l><r>flamen<s n="vblex"/></r></p></e>
-    <e><p><l>bringen<s n="vblex"/></l><r>bréngen<s n="vblex"/></r></p></e>
-    <e><p><l>darstellen<s n="vblex"/><s n="sep"/></l><r>duerstellen<s n="vblex"/></r></p></e>
-    <e><p><l>darstellen<s n="vblex"/><s n="sep"/></l><r>virstellen<s n="vblex"/></r></p></e>
-    <e><p><l>dauern<s n="vblex"/></l><r>daueren<s n="vblex"/></r></p></e>
-    <e><p><l>deklinieren<s n="vblex"/></l><r>deklinéieren<s n="vblex"/></r></p></e>
-    <e><p><l>denken<s n="vblex"/></l><r>mengen<s n="vblex"/></r></p></e>
-    <e><p><l>deuten<s n="vblex"/></l><r>deiten<s n="vblex"/></r></p></e>
-    <e><p><l>einnehmen<s n="vblex"/><s n="sep"/></l><r>anhuelen<s n="vblex"/></r></p></e> <!-- Medikament -->
-    <e><p><l>einparken<s n="vblex"/><s n="sep"/></l><r>parken<s n="vblex"/></r></p></e>
-    <e><p><l>einsammeln<s n="vblex"/><s n="sep"/></l><r>sammelen<s n="vblex"/></r></p></e>
-    <e><p><l>einstellen<s n="vblex"/><s n="sep"/></l><r>riichten<s n="vblex"/></r></p></e>
-    <e><p><l>enden<s n="vblex"/></l><r>endegen<s n="vblex"/></r></p></e>
-    <e><p><l>entdecken<s n="vblex"/></l><r>entdecken<s n="vblex"/></r></p></e>
-    <e><p><l>entgehen<s n="vblex"/></l><r>entgoen<s n="vblex"/></r></p></e>
-    <e><p><l>enthalten<s n="vblex"/></l><r>enthalen<s n="vblex"/></r></p></e>
-    <e><p><l>entsprechen<s n="vblex"/></l><r>entspriechen<s n="vblex"/></r></p></e>
-    <e><p><l>entstehen<s n="vblex"/></l><r>entstoen<s n="vblex"/></r></p></e>
-    <e><p><l>entwickeln<s n="vblex"/></l><r>entwéckelen<s n="vblex"/></r></p></e>
-    <e><p><l>erdulden<s n="vblex"/></l><r>leiden<s n="vblex"/></r></p></e>
-    <e><p><l>erfassen<s n="vblex"/></l><r>erfaassen<s n="vblex"/></r></p></e>
-    <e><p><l>erforschen<s n="vblex"/></l><r>erfuerschen<s n="vblex"/></r></p></e>
-    <e><p><l>erhalten<s n="vblex"/></l><r>erhalen<s n="vblex"/></r></p></e>
-    <e><p><l>erkennen<s n="vblex"/></l><r>erkennen<s n="vblex"/></r></p></e>
-    <e><p><l>erklären<s n="vblex"/></l><r>deklaréieren<s n="vblex"/></r></p></e>
-    <e><p><l>erlauben<s n="vblex"/></l><r>erlaben<s n="vblex"/></r></p></e>
-    <e><p><l>erleben<s n="vblex"/></l><r>erliewen<s n="vblex"/></r></p></e>
-    <e><p><l>ernähren<s n="vblex"/></l><r>ernieren<s n="vblex"/></r></p></e>
-    <e><p><l>erobern<s n="vblex"/></l><r>erueweren<s n="vblex"/></r></p></e>
-    <e><p><l>erreichen<s n="vblex"/></l><r>erreechen<s n="vblex"/></r></p></e>
-    <e><p><l>erschlagen<s n="vblex"/></l><r>erschloen<s n="vblex"/></r></p></e>
-    <e><p><l>erwachsen<s n="vblex"/></l><r>grouss<s n="vblex"/></r></p></e>
-    <e><p><l>erwähnen<s n="vblex"/></l><r>ernimmen<s n="vblex"/></r></p></e>
-    <e><p><l>erwarten<s n="vblex"/></l><r>erwaarden<s n="vblex"/></r></p></e>
-    <e><p><l>erzählen<s n="vblex"/></l><r>erzielen<s n="vblex"/></r></p></e>
-    <e><p><l>erzählen<s n="vblex"/></l><r>zielen<s n="vblex"/></r></p></e>
-    <e><p><l>erziehen<s n="vblex"/></l><r>zillen<s n="vblex"/></r></p></e>
-    <e><p><l>essen<s n="vblex"/></l><r>iessen<s n="vblex"/></r></p></e>
-    <e><p><l>existieren<s n="vblex"/></l><r>existéieren<s n="vblex"/></r></p></e>
-    <e><p><l>fahren<s n="vblex"/></l><r>fueren<s n="vblex"/></r></p></e>
-    <e><p><l>fallen<s n="vblex"/></l><r>falen<s n="vblex"/></r></p></e>
-    <e><p><l>federn<s n="vblex"/></l><r>fiederen<s n="vblex"/></r></p></e>
-    <e><p><l>feiern<s n="vblex"/></l><r>feieren<s n="vblex"/></r></p></e>
-    <e><p><l>feststellen<s n="vblex"/><s n="sep"/></l><r>feststellen<s n="vblex"/></r></p></e>
-    <e><p><l>finden<s n="vblex"/></l><r>fannen<s n="vblex"/></r></p></e>
-    <e><p><l>flechten<s n="vblex"/></l><r>flechten<s n="vblex"/></r></p></e>
-    <e><p><l>folgen<s n="vblex"/></l><r>follegen<s n="vblex"/></r></p></e>
-    <e><p><l>fragen<s n="vblex"/></l><r>froen<s n="vblex"/></r></p></e>
-    <e><p><l>führen<s n="vblex"/></l><r>féieren<s n="vblex"/></r></p></e>
-    <e><p><l>funktionieren<s n="vblex"/></l><r>funktionéieren<s n="vblex"/></r></p></e>
-    <e><p><l>gebären<s n="vblex"/></l><r>gebären<s n="vblex"/></r></p></e>
-    <e><p><l>geben<s n="vblex"/></l><r>ginn<s n="vblex"/></r></p></e>
-    <e><p><l>gebrauchen<s n="vblex"/></l><r>gebrauchen<s n="vblex"/></r></p></e>
-    <e><p><l>gedeihen<s n="vblex"/></l><r>aarten<s n="vblex"/></r></p></e>
-    <e><p><l>gedenken<s n="vblex"/></l><r>gedenken<s n="vblex"/></r></p></e>
-    <e><p><l>gehören<s n="vblex"/></l><r>gehéieren<s n="vblex"/></r></p></e>
-    <e><p><l>gelingen<s n="vblex"/></l><r>geroden<s n="vblex"/></r></p></e>
-    <e><p><l>geten<s n="vblex"/></l><r>gëllen<s n="vblex"/></r></p></e>
-    <e><p><l>gestalten<s n="vblex"/></l><r>gestalten<s n="vblex"/></r></p></e>
-    <e><p><l>gewinnen<s n="vblex"/></l><r>gewannen<s n="vblex"/></r></p></e>
-    <e><p><l>glauben<s n="vblex"/></l><r>gleewen<s n="vblex"/></r></p></e>
-    <e><p><l>graben<s n="vblex"/></l><r>gruewen<s n="vblex"/></r></p></e>
-    <e><p><l>handeln<s n="vblex"/></l><r>handelen<s n="vblex"/></r></p></e>
-    <e><p><l>hauen<s n="vblex"/></l><r>schloen<s n="vblex"/></r></p></e>
-    <e><p><l>heben<s n="vblex"/></l><r>hiewen<s n="vblex"/></r></p></e>
-    <e><p><l>heiraten<s n="vblex"/></l><r>bestueden<s n="vblex"/></r></p></e>
-    <e><p><l>herausgeben<s n="vblex"/><s n="sep"/></l><r>erausginn<s n="vblex"/></r></p></e>
-    <e><p><l>herkommen<s n="vblex"/></l><r>hierkommen<s n="vblex"/></r></p></e>
-    <e><p><l>hinübergehen<s n="vblex"/><s n="sep"/></l><r>iwwergoen<s n="vblex"/></r></p></e>
-    <e><p><l>hinweisen<s n="vblex"/><s n="sep"/></l><r>hiweisen<s n="vblex"/></r></p></e>
-    <e><p><l>hoffen<s n="vblex"/></l><r>hoffen<s n="vblex"/></r></p></e>
-    <e><p><l>holen<s n="vblex"/></l><r>huelen<s n="vblex"/></r></p></e>
-    <e><p><l>hören<s n="vblex"/></l><r>héieren<s n="vblex"/></r></p></e>
-    <e><p><l>interviewen<s n="vblex"/></l><r>interviewen<s n="vblex"/></r></p></e>
-    <e><p><l>jagen<s n="vblex"/></l><r>joen<s n="vblex"/></r></p></e>
-    <e><p><l>kaufen<s n="vblex"/></l><r>kafen<s n="vblex"/></r></p></e>
-    <e><p><l>kennen<s n="vblex"/></l><r>kennen<s n="vblex"/></r></p></e>
-    <e><p><l>klammern<s n="vblex"/></l><r>klameren<s n="vblex"/></r></p></e>
-    <e><p><l>klappen<s n="vblex"/></l><r>klappen<s n="vblex"/></r></p></e>
-    <e><p><l>klauen<s n="vblex"/></l><r>klauen<s n="vblex"/></r></p></e>
-    <e><p><l>kommen<s n="vblex"/></l><r>kommen<s n="vblex"/></r></p></e>
-    <e><p><l>korrigieren<s n="vblex"/></l><r>verbesseren<s n="vblex"/></r></p></e>
-    <e><p><l>kriegen<s n="vblex"/></l><r>kréien<s n="vblex"/></r></p></e>
-    <e><p><l>landen<s n="vblex"/></l><r>landen<s n="vblex"/></r></p></e>
-    <e><p><l>langen<s n="vblex"/></l><r>reechen<s n="vblex"/></r></p></e>
-    <e><p><l>lassen<s n="vblex"/></l><r>loossen<s n="vblex"/></r></p></e>
-    <e><p><l>leisten<s n="vblex"/></l><r>leeschten<s n="vblex"/></r></p></e>
-    <e><p><l>leiten<s n="vblex"/></l><r>leeden<s n="vblex"/></r></p></e>
-    <e><p><l>lenken<s n="vblex"/></l><r>steieren<s n="vblex"/></r></p></e>
-    <e><p><l>lesen<s n="vblex"/></l><r>liesen<s n="vblex"/></r></p></e>
-    <e><p><l>leuchten<s n="vblex"/></l><r>liichten<s n="vblex"/></r></p></e>
-    <e><p><l>liefern<s n="vblex"/></l><r>liwweren<s n="vblex"/></r></p></e>
-    <e><p><l>liegen<s n="vblex"/></l><r>leien<s n="vblex"/></r></p></e>
-    <e><p><l>machen<s n="vblex"/></l><r>maachen<s n="vblex"/></r></p></e>
-    <e><p><l>machen<s n="vblex"/></l><r>man<s n="vblex"/></r></p></e>
-    <e><p><l>mähen<s n="vblex"/></l><r>méien<s n="vblex"/></r></p></e>
-    <e><p><l>malen<s n="vblex"/></l><r>molen<s n="vblex"/></r></p></e>
-    <e><p><l>mauern<s n="vblex"/></l><r>maueren<s n="vblex"/></r></p></e>
-    <e><p><l>messen<s n="vblex"/></l><r>moossen<s n="vblex"/></r></p></e>
-    <e><p><l>mitmachen<s n="vblex"/><s n="sep"/></l><r>matmaachen<s n="vblex"/></r></p></e>
-    <e><p><l>modern<s n="vblex"/></l><r>modern<s n="vblex"/></r></p></e>
-    <e><p><l>nachgeben<s n="vblex"/><s n="sep"/></l><r>noginn<s n="vblex"/></r></p></e>
-    <e><p><l>öffnen<s n="vblex"/></l><r>opmaachen<s n="vblex"/></r></p></e>
-    <e><p><l>pflanzen<s n="vblex"/></l><r>planzen<s n="vblex"/></r></p></e>
-    <e><p><l>pflegen<s n="vblex"/></l><r>fleegen<s n="vblex"/></r></p></e>
-    <e><p><l>pilgern<s n="vblex"/></l><r>pilgeren<s n="vblex"/></r></p></e>
-    <e><p><l>plaudern<s n="vblex"/></l><r>sproochen<s n="vblex"/></r></p></e>
-    <e><p><l>probieren<s n="vblex"/></l><r>versichen<s n="vblex"/></r></p></e>
-    <e><p><l>putzen<s n="vblex"/></l><r>botzen<s n="vblex"/></r></p></e>
-    <e><p><l>quellen<s n="vblex"/></l><r>quellen<s n="vblex"/></r></p></e>
-    <e><p><l>regeln<s n="vblex"/></l><r>regelen<s n="vblex"/></r></p></e>
-    <e><p><l>reisen<s n="vblex"/></l><r>reesen<s n="vblex"/></r></p></e>
-    <e><p><l>reisen<s n="vblex"/></l><r>wanderen<s n="vblex"/></r></p></e>
-    <e><p><l>retten<s n="vblex"/></l><r>retten<s n="vblex"/></r></p></e>
-    <e><p><l>rufen<s n="vblex"/></l><r>ruffen<s n="vblex"/></r></p></e>
-    <e><p><l>ruhen<s n="vblex"/></l><r>rouen<s n="vblex"/></r></p></e>
-    <e><p><l>sagen<s n="vblex"/></l><r>soen<s n="vblex"/></r></p></e>
-    <e><p><l>schauen<s n="vblex"/></l><r>kucken<s n="vblex"/></r></p></e>
-    <e><p><l>schenken<s n="vblex"/></l><r>schenken<s n="vblex"/></r></p></e>
-    <e><p><l>schlagen<s n="vblex"/></l><r>dunnen<s n="vblex"/></r></p></e> <!-- auf den Kopf -->
-    <e><p><l>schließen<s n="vblex"/></l><r>zoumaachen<s n="vblex"/></r></p></e>
-    <e><p><l>schneiden<s n="vblex"/></l><r>schneiden<s n="vblex"/></r></p></e>
-    <e><p><l>schreiben<s n="vblex"/></l><r>schreiwen<s n="vblex"/></r></p></e>
-    <e><p><l>schulen<s n="vblex"/></l><r>schoulen<s n="vblex"/></r></p></e>
-    <e><p><l>sehen<s n="vblex"/></l><r>gesinn<s n="vblex"/></r></p></e>
-    <e><p><l>senden<s n="vblex"/></l><r>senden<s n="vblex"/></r></p></e>
-    <e><p><l>setzen<s n="vblex"/></l><r>setzen<s n="vblex"/></r></p></e>
-    <e><p><l>sieben<s n="vblex"/></l><r>siwen<s n="vblex"/></r></p></e>
-    <e><p><l>singen<s n="vblex"/></l><r>sangen<s n="vblex"/></r></p></e>
-    <e><p><l>sorgen<s n="vblex"/></l><r>suergen<s n="vblex"/></r></p></e>
-    <e><p><l>sparen<s n="vblex"/></l><r>spueren<s n="vblex"/></r></p></e>
-    <e><p><l>spenden<s n="vblex"/></l><r>spenden<s n="vblex"/></r></p></e>
-    <e><p><l>spiegeln<s n="vblex"/></l><r>spigelen<s n="vblex"/></r></p></e>
-    <e><p><l>spielen<s n="vblex"/></l><r>spillen<s n="vblex"/></r></p></e>
-    <e><p><l>sprechen<s n="vblex"/></l><r>schwätzen<s n="vblex"/></r></p></e>
-    <e><p><l>springen<s n="vblex"/></l><r>sprangen<s n="vblex"/></r></p></e>
-    <e><p><l>stammen<s n="vblex"/></l><r>stamen<s n="vblex"/></r></p></e>
-    <e><p><l>starten<s n="vblex"/></l><r>starten<s n="vblex"/></r></p></e>
-    <e><p><l>stechen<s n="vblex"/></l><r>stiechen<s n="vblex"/></r></p></e>
-    <e><p><l>stehen<s n="vblex"/></l><r>stoen<s n="vblex"/></r></p></e>
-    <e><p><l>stellen<s n="vblex"/></l><r>stellen<s n="vblex"/></r></p></e>
-    <e><p><l>sterben<s n="vblex"/></l><r>stierwen<s n="vblex"/></r></p></e>
-    <e><p><l>strahlen<s n="vblex"/></l><r>stralen<s n="vblex"/></r></p></e>
-    <e><p><l>stufen<s n="vblex"/></l><r>stufen<s n="vblex"/></r></p></e>
-    <e><p><l>stürzen<s n="vblex"/></l><r>stierzen<s n="vblex"/></r></p></e>
-    <e><p><l>suchen<s n="vblex"/></l><r>sichen<s n="vblex"/></r></p></e>
-    <e><p><l>tanzen<s n="vblex"/></l><r>danzen<s n="vblex"/></r></p></e>
-    <e><p><l>tauschen<s n="vblex"/></l><r>koppelen<s n="vblex"/></r></p></e> <!-- Sachgegenstände -->
-    <e><p><l>teilnehmen<s n="vblex"/><s n="sep"/></l><r>deelhuelen<s n="vblex"/></r></p></e>
-    <e><p><l>testen<s n="vblex"/></l><r>testen<s n="vblex"/></r></p></e>
-    <e><p><l>tragen<s n="vblex"/></l><r>droen<s n="vblex"/></r></p></e>
-    <e><p><l>treffen<s n="vblex"/></l><r>treffen<s n="vblex"/></r></p></e>
-    <e><p><l>treiben<s n="vblex"/></l><r>dreiwen<s n="vblex"/></r></p></e>
-    <e><p><l>trennen<s n="vblex"/></l><r>trennen<s n="vblex"/></r></p></e>
-    <e><p><l>treten<s n="vblex"/></l><r>trieden<s n="vblex"/></r></p></e>
-    <e><p><l>tun<s n="vblex"/></l><r>dinn<s n="vblex"/></r></p></e>
-    <e><p><l>tun<s n="vblex"/></l><r>doen<s n="vblex"/></r></p></e>
-    <e><p><l>überlassen<s n="vblex"/></l><r>iwwerloossen<s n="vblex"/></r></p></e>
-    <e><p><l>überleben<s n="vblex"/></l><r>iwwerliewen<s n="vblex"/></r></p></e>
-    <e><p><l>übersetzen<s n="vblex"/></l><r>iwwersetzen<s n="vblex"/></r></p></e>
-    <e><p><l>übertragen<s n="vblex"/></l><r>iwwerdroen<s n="vblex"/></r></p></e>
-    <e><p><l>überwachen<s n="vblex"/></l><r>iwwerwaachen<s n="vblex"/></r></p></e>
-    <e><p><l>überwinden<s n="vblex"/></l><r>iwwerwannen<s n="vblex"/></r></p></e>
-    <e><p><l>überzeugen<s n="vblex"/></l><r>iwwerzeegen<s n="vblex"/></r></p></e>
-    <e><p><l>umtauschen<s n="vblex"/><s n="sep"/></l><r>wiesselen<s n="vblex"/></r></p></e>
-    <e><p><l>verarbeiten<s n="vblex"/></l><r>verschaffen<s n="vblex"/></r></p></e>
-    <e><p><l>verbergen<s n="vblex"/></l><r>verstoppen<s n="vblex"/></r></p></e>
-    <e><p><l>verbinden<s n="vblex"/></l><r>verbannen<s n="vblex"/></r></p></e>
-    <e><p><l>verbreiten<s n="vblex"/></l><r>verbreeden<s n="vblex"/></r></p></e>
-    <e><p><l>verbrennen<s n="vblex"/></l><r>verbrennen<s n="vblex"/></r></p></e>
-    <e><p><l>verbuchen<s n="vblex"/></l><r>verbuchen<s n="vblex"/></r></p></e>
-    <e><p><l>verdanken<s n="vblex"/></l><r>verdanken<s n="vblex"/></r></p></e>
-    <e><p><l>vereinigen<s n="vblex"/></l><r>vereenegen<s n="vblex"/></r></p></e>
-    <e><p><l>verfolgen<s n="vblex"/></l><r>verfollegen<s n="vblex"/></r></p></e>
-    <e><p><l>vergeben<s n="vblex"/></l><r>verginn<s n="vblex"/></r></p></e>
-    <e><p><l>vergessen<s n="vblex"/></l><r>vergiessen<s n="vblex"/></r></p></e>
-    <e><p><l>vergleichen<s n="vblex"/></l><r>vergläichen<s n="vblex"/></r></p></e>
-    <e><p><l>verlangen<s n="vblex"/></l><r>verlaangen<s n="vblex"/></r></p></e>
-    <e><p><l>verlassen<s n="vblex"/></l><r>verloossen<s n="vblex"/></r></p></e>
-    <e><p><l>vermeiden<s n="vblex"/></l><r>vermeiden<s n="vblex"/></r></p></e>
-    <e><p><l>verraten<s n="vblex"/></l><r>verroden<s n="vblex"/></r></p></e>
-    <e><p><l>verschwinden<s n="vblex"/></l><r>verschwannen<s n="vblex"/></r></p></e>
-    <e><p><l>verstehen<s n="vblex"/></l><r>verstoen<s n="vblex"/></r></p></e>
-    <e><p><l>verteilen<s n="vblex"/></l><r>verdeelen<s n="vblex"/></r></p></e>
-    <e><p><l>vertragen<s n="vblex"/></l><r>verdroen<s n="vblex"/></r></p></e>
-    <e><p><l>vertreiben<s n="vblex"/></l><r>verdreiwen<s n="vblex"/></r></p></e>
-    <e><p><l>vertreten<s n="vblex"/></l><r>vertrieden<s n="vblex"/></r></p></e>
-    <e><p><l>verwalten<s n="vblex"/></l><r>verwalten<s n="vblex"/></r></p></e>
-    <e><p><l>verwandeln<s n="vblex"/></l><r>verwandelen<s n="vblex"/></r></p></e>
-    <e><p><l>verwechseln<s n="vblex"/></l><r>verwiesselen<s n="vblex"/></r></p></e>
-    <e><p><l>verzichten<s n="vblex"/></l><r>verzichten<s n="vblex"/></r></p></e>
-    <e><p><l>vorbereiten<s n="vblex"/><s n="sep"/></l><r>virbereeden<s n="vblex"/></r></p></e>
-    <e><p><l>warten<s n="vblex"/></l><r>waarden<s n="vblex"/></r></p></e>
-    <e><p><l>weitergeben<s n="vblex"/><s n="sep"/></l><r>weiderginn<s n="vblex"/></r></p></e>
-    <e><p><l>wiegen<s n="vblex"/></l><r>laaschten<s n="vblex"/></r></p></e>
-    <e><p><l>wohnen<s n="vblex"/></l><r>wunnen<s n="vblex"/></r></p></e>
-    <e><p><l>würdigen<s n="vblex"/></l><r>wierdegen<s n="vblex"/></r></p></e>
-    <e><p><l>zeichnen<s n="vblex"/></l><r>zeechnen<s n="vblex"/></r></p></e>
-    <e><p><l>zeigen<s n="vblex"/></l><r>weisen<s n="vblex"/></r></p></e>
-    <e><p><l>zusammenleben<s n="vblex"/><s n="sep"/></l><r>kummeren<s n="vblex"/></r></p></e>
 
 
 <!-- SECTION: Prepositions -->
@@ -545,6 +268,9 @@
     <e><p><l>danach<s n="adv"/></l><r>dunn<s n="adv"/></r></p></e>
     <e><p><l>dann<s n="adv"/></l><r>dann<s n="adv"/></r></p></e>
     <e><p><l>da<s n="adv"/></l><r>do<s n="adv"/></r></p></e>
+    <e><p><l>dabei<s n="adv"/></l><r>dobäi<s n="adv"/></r></p></e>
+    <e><p><l>dafür<s n="adv"/></l><r>dofir<s n="adv"/></r></p></e>
+    <e><p><l>darauf<s n="adv"/></l><r>drop<s n="adv"/></r></p></e>
     <e><p><l>dazu<s n="adv"/></l><r>dozou<s n="adv"/></r></p></e>
     <e><p><l>direkt<s n="adv"/></l><r>direkt<s n="adv"/></r></p></e>
     <e><p><l>doch<s n="adv"/></l><r>dach<s n="adv"/></r></p></e>
@@ -560,6 +286,7 @@
     <e><p><l>fast<s n="adv"/></l><r>bal<s n="adv"/></r></p></e>
     <e><p><l>fort<s n="adv"/></l><r>ewech<s n="adv"/></r></p></e>
     <e><p><l>freitags<s n="adv"/></l><r>freides<s n="adv"/></r></p></e>
+    <e><p><l>früher<s n="adv"/></l><r>fréier<s n="adv"/></r></p></e>
     <e><p><l>ganz<s n="adv"/></l><r>ganz<s n="adv"/></r></p></e>
     <e><p><l>genau<s n="adv"/></l><r>genee<s n="adv"/></r></p></e>
     <e><p><l>genug<s n="adv"/></l><r>genuch<s n="adv"/></r></p></e>
@@ -586,6 +313,7 @@
     <e><p><l>ineinander<s n="adv"/></l><r>aneneen<s n="adv"/></r></p></e>
     <e><p><l>interessant<s n="adv"/></l><r>interessant<s n="adv"/></r></p></e>
     <e><p><l>ja<s n="adv"/></l><r>jo<s n="adv"/></r></p></e>
+    <e><p><l>je<s n="adv"/></l><r>jee<s n="adv"/></r></p></e>
     <e><p><l>jemals<s n="adv"/></l><r>jeemools<s n="adv"/></r></p></e>
     <e><p><l>jetzt<s n="adv"/></l><r>elo<s n="adv"/></r></p></e>
     <e><p><l>jetzt<s n="adv"/></l><r>ewell<s n="adv"/></r></p></e>
@@ -593,18 +321,21 @@
     <e><p><l>komisch<s n="adv"/></l><r>komesch<s n="adv"/></r></p></e>
     <e><p><l>komplett<s n="adv"/></l><r>komplett<s n="adv"/></r></p></e>
     <e><p><l>langsam<s n="adv"/></l><r>lues<s n="adv"/></r></p></e>
+    <e><p><l>links<s n="adv"/></l><r>lénks<s n="adv"/></r></p></e>
     <e><p><l>meistens<s n="adv"/></l><r>meeschtens<s n="adv"/></r></p></e>
     <e><p><l>mehr<s n="adv"/></l><r>méi<s n="adv"/></r></p></e>
     <e><p><l>miteinander<s n="adv"/></l><r>mateneen<s n="adv"/></r></p></e>
     <e><p><l>morgen<s n="adv"/></l><r>muer<s n="adv"/></r></p></e>
     <e><p><l>morgens<s n="adv"/></l><r>moies<s n="adv"/></r></p></e>
     <e><p><l>nachts<s n="adv"/></l><r>nuets<s n="adv"/></r></p></e>
+    <e><p><l>nämlich<s n="adv"/></l><r>nämlech<s n="adv"/></r></p></e>
     <e><p><l>natürlich<s n="adv"/></l><r>natierlech<s n="adv"/></r></p></e>
     <e><p><l>nein<s n="adv"/></l><r>neen<s n="adv"/></r></p></e>
     <e><p><l>nicht<s n="adv"/></l><r>net<s n="adv"/></r></p></e>
     <e><p><l>nie<s n="adv"/></l><r>ni<s n="adv"/></r></p></e>
     <e><p><l>noch<s n="adv"/></l><r>nach<s n="adv"/></r></p></e>
     <e><p><l>nur<s n="adv"/></l><r>just<s n="adv"/></r></p></e>
+    <e><p><l>nur<s n="adv"/></l><r>nëmmen<s n="adv"/></r></p></e>
     <e><p><l>oben<s n="adv"/></l><r>uewen<s n="adv"/></r></p></e>
     <e><p><l>ob<s n="adv"/></l><r>ob<s n="adv"/></r></p></e>
     <e><p><l>offen<s n="adv"/></l><r>op<s n="adv"/></r></p></e>
@@ -631,11 +362,14 @@
     <e><p><l>währenddessen<s n="adv"/></l><r>iwwerdeems<s n="adv"/></r></p></e>
     <e><p><l>wahrscheinlich<s n="adv"/></l><r>wahrscheinlech<s n="adv"/></r></p></e>
     <e><p><l>warum<s n="adv"/></l><r>firwat<s n="adv"/></r></p></e>
+    <e><p><l>weit<s n="adv"/></l><r>wäit<s n="adv"/></r></p></e>
     <e><p><l>wie<s n="adv"/></l><r>wéi<s n="adv"/></r></p></e>
+    <e><p><l>wieder<s n="adv"/></l><r>erëm<s n="adv"/></r></p></e>
     <e><p><l>wohin<s n="adv"/></l><r>wuer<s n="adv"/></r></p></e>
     <e><p><l>wohl<s n="adv"/></l><r>wuel<s n="adv"/></r></p></e>
     <e><p><l>wo<s n="adv"/></l><r>wou<s n="adv"/></r></p></e>
     <e><p><l>zusammen<s n="adv"/></l><r>zesummen<s n="adv"/></r></p></e>
+    <e><p><l>zurück<s n="adv"/></l><r>zréck<s n="adv"/></r></p></e>
     <e><p><l>zu<s n="adv"/></l><r>ze<s n="adv"/></r></p></e>
     <e><p><l>zweimal<s n="adv"/></l><r>zweemol<s n="adv"/></r></p></e>
 
@@ -800,10 +534,324 @@
     <e><p><l>wichtig<s n="adj"/></l><r>wichteg<s n="adj"/></r></p></e>
     <e><p><l>zugänglich<s n="adj"/></l><r>accessibel<s n="adj"/></r></p></e>
 
+    <e><p><l>spät<s n="adj"/></l><r>spéit<s n="adj"/></r></p></e>
+    <e><p><l>relativ<s n="adj"/></l><r>relativ<s n="adj"/></r></p></e>
+    <e><p><l>offiziell<s n="adj"/></l><r>offiziell<s n="adj"/></r></p></e>
+    <e><p><l>einfach<s n="adj"/></l><r>einfach<s n="adj"/></r></p></e>
+    <e><p><l>national<s n="adj"/></l><r>national<s n="adj"/></r></p></e>
+    <e><p><l>visuell<s n="adj"/></l><r>visuell<s n="adj"/></r></p></e>
+    <e><p><l>politisch<s n="adj"/></l><r>politesch<s n="adj"/></r></p></e>
+    <e><p><l>möglich<s n="adj"/></l><r>méiglech<s n="adj"/></r></p></e>
+    <e><p><l>südlich<s n="adj"/></l><r>südlech<s n="adj"/></r></p></e>
+    <e><p><l>nördlich<s n="adj"/></l><r>nërdlech<s n="adj"/></r></p></e>
+    <e><p><l>aktiv<s n="adj"/></l><r>aktiv<s n="adj"/></r></p></e>
+    <e><p><l>international<s n="adj"/></l><r>international<s n="adj"/></r></p></e>
+    <e><p><l>europäisch<s n="adj"/></l><r>europäesch<s n="adj"/></r></p></e>
+    <e><p><l>fertig<s n="adj"/></l><r>fäerdeg<s n="adj"/></r></p></e>
+    <e><p><l>speziell<s n="adj"/></l><r>speziell<s n="adj"/></r></p></e>
+    <e><p><l>italienisch<s n="adj"/></l><r>italienesch<s n="adj"/></r></p></e>
+    <e><p><l>praktisch<s n="adj"/></l><r>praktesch<s n="adj"/></r></p></e>
+    <e><p><l>hoch<s n="adj"/></l><r>héich<s n="adj"/></r></p></e>
+    <e><p><l>gleichzeitig<s n="adj"/></l><r>gläichzäiteg<s n="adj"/></r></p></e>
+    <e><p><l>richtig<s n="adj"/></l><r>richteg<s n="adj"/></r></p></e>
+    <e><p><l>westlich<s n="adj"/></l><r>westlech<s n="adj"/></r></p></e>
+    <e><p><l>amerikanisch<s n="adj"/></l><r>amerikanesch<s n="adj"/></r></p></e>
+    <e><p><l>zusätzlich<s n="adj"/></l><r>zousätzlech<s n="adj"/></r></p></e>
+    <e><p><l>europäisch<s n="adj"/></l><r>europäesch<s n="adj"/></r></p></e>
+    <e><p><l>weltweit<s n="adj"/></l><r>weltwäit<s n="adj"/></r></p></e>
+    <e><p><l>östlich<s n="adj"/></l><r>ëstlech<s n="adj"/></r></p></e>
+    <e><p><l>eigenständig<s n="adj"/></l><r>eegestänneg<s n="adj"/></r></p></e>
+    <e><p><l>öffentlich<s n="adj"/></l><r>ëffentlech<s n="adj"/></r></p></e>
+    <e><p><l>definitiv<s n="adj"/></l><r>definitiv<s n="adj"/></r></p></e>
+
+
+<!-- SECTION: Verbs -->
+
+    <e><p><l>abgeben<s n="vblex"/><s n="sep"/></l><r>ofginn<s n="vblex"/></r></p></e>
+    <e><p><l>ablaufen<s n="vblex"/><s n="sep"/></l><r>oflafen<s n="vblex"/></r></p></e>
+    <e><p><l>ablaufen<s n="vblex"/><s n="sep"/></l><r>verlafen<s n="vblex"/></r></p></e>
+    <e><p><l>abreißen<s n="vblex"/><s n="sep"/></l><r>ofrappen<s n="vblex"/></r></p></e>
+    <e><p><l>abschlachten<s n="vblex"/><s n="sep"/></l><r>schluechten<s n="vblex"/></r></p></e>
+    <e><p><l>abstammen<s n="vblex"/><s n="sep"/></l><r>ofstamen<s n="vblex"/></r></p></e>
+    <e><p><l>anbieten<s n="vblex"/><s n="sep"/></l><r>ubidden<s n="vblex"/></r></p></e>
+    <e><p><l>ändern<s n="vblex"/></l><r>änneren<s n="vblex"/></r></p></e>
+    <e><p><l>anerkennen<s n="vblex"/><s n="sep"/></l><r>unerkennen<s n="vblex"/></r></p></e>
+    <e><p><l>anfassen<s n="vblex"/><s n="sep"/></l><r>frieden<s n="vblex"/></r></p></e> <!-- berühren -->
+    <e><p><l>angeben<s n="vblex"/><s n="sep"/></l><r>uginn<s n="vblex"/></r></p></e>
+    <e><p><l>anhalten<s n="vblex"/><s n="sep"/></l><r>halen<s n="vblex"/></r></p></e>
+    <e><p><l>anhalten<s n="vblex"/><s n="sep"/></l><r>stoppen<s n="vblex"/></r></p></e>
+    <e><p><l>ankommen<s n="vblex"/><s n="sep"/></l><r>ukommen<s n="vblex"/></r></p></e>
+    <e><p><l>annehmen<s n="vblex"/><s n="sep"/></l><r>unhuelen<s n="vblex"/></r></p></e>
+    <e><p><l>anpassen<s n="vblex"/><s n="sep"/></l><r>upassen<s n="vblex"/></r></p></e>
+    <e><p><l>anschauen<s n="vblex"/><s n="sep"/></l><r>ukucken<s n="vblex"/></r></p></e>
+    <e><p><l>ansehen<s n="vblex"/><s n="sep"/></l><r>ugesinn<s n="vblex"/><s n="sep"/></r></p></e>
+    <e><p><l>antreten<s n="vblex"/><s n="sep"/></l><r>untrieden<s n="vblex"/></r></p></e>
+    <e><p><l>arbeiten<s n="vblex"/></l><r>schaffen<s n="vblex"/></r></p></e>
+    <e><p><l>arbeiten<s n="vblex"/></l><r>wierken<s n="vblex"/></r></p></e>
+    <e><p><l>aufbauen<s n="vblex"/><s n="sep"/></l><r>opbauen<s n="vblex"/></r></p></e>
+    <e><p><l>aufbewahren<s n="vblex"/><s n="sep"/></l><r>versuergen<s n="vblex"/></r></p></e>
+    <e><p><l>auffassen<s n="vblex"/><s n="sep"/></l><r>ophuelen<s n="vblex"/></r></p></e>
+    <e><p><l>aufgeben<s n="vblex"/><s n="sep"/></l><r>opginn<s n="vblex"/></r></p></e>
+    <e><p><l>aufhören<s n="vblex"/><s n="sep"/></l><r>ophalen<s n="vblex"/></r></p></e>
+    <e><p><l>aufhören<s n="vblex"/><s n="sep"/></l><r>passen<s n="vblex"/></r></p></e> <!-- Spiel, Essen -->
+    <e><p><l>aufräumen<s n="vblex"/><s n="sep"/></l><r>raumen<s n="vblex"/></r></p></e>
+    <e><p><l>aufrichten<s n="vblex"/><s n="sep"/></l><r>opriichten<s n="vblex"/></r></p></e>
+    <e><p><l>aufteilen<s n="vblex"/><s n="sep"/></l><r>deelen<s n="vblex"/></r></p></e>
+    <e><p><l>auftreten<s n="vblex"/><s n="sep"/></l><r>optrieden<s n="vblex"/></r></p></e>
+    <e><p><l>ausbauen<s n="vblex"/><s n="sep"/></l><r>ausbauen<s n="vblex"/></r></p></e>
+    <e><p><l>ausbreiten<s n="vblex"/><s n="sep"/></l><r>ausbreeden<s n="vblex"/></r></p></e>
+    <e><p><l>ausfallen<s n="vblex"/><s n="sep"/></l><r>ausgoen<s n="vblex"/></r></p></e> <!-- Haare -->
+    <e><p><l>ausgeben<s n="vblex"/><s n="sep"/></l><r>ausginn<s n="vblex"/></r></p></e>
+    <e><p><l>auskommen<s n="vblex"/><s n="sep"/></l><r>erauskommen<s n="vblex"/></r></p></e> <!-- mit Geld -->
+    <e><p><l>auslegen<s n="vblex"/><s n="sep"/></l><r>ausleeën<s n="vblex"/><s n="sep"/></r></p></e>
+    <e><p><l>bauen<s n="vblex"/></l><r>bauen<s n="vblex"/></r></p></e>
+    <e><p><l>beabsichtigen<s n="vblex"/></l><r>plangen<s n="vblex"/></r></p></e>
+    <e><p><l>beachten<s n="vblex"/></l><r>beuechten<s n="vblex"/></r></p></e>
+    <e><p><l>bedecken<s n="vblex"/></l><r>bedecken<s n="vblex"/></r></p></e>
+    <e><p><l>bedeuten<s n="vblex"/></l><r>bedeiten<s n="vblex"/></r></p></e>
+    <e><p><l>beeinflussen<s n="vblex"/></l><r>beaflossen<s n="vblex"/></r></p></e>
+    <e><p><l>beerdigen<s n="vblex"/></l><r>begruewen<s n="vblex"/></r></p></e>
+    <e><p><l>befreien<s n="vblex"/></l><r>befreien<s n="vblex"/></r></p></e>
+    <e><p><l>begeistern<s n="vblex"/></l><r>begeeschteren<s n="vblex"/></r></p></e>
+    <e><p><l>begleiten<s n="vblex"/></l><r>begleeden<s n="vblex"/></r></p></e>
+    <e><p><l>behalten<s n="vblex"/></l><r>behalen<s n="vblex"/></r></p></e>
+    <e><p><l>behandeln<s n="vblex"/></l><r>behandelen<s n="vblex"/></r></p></e>
+    <e><p><l>beherrschen<s n="vblex"/></l><r>meeschteren<s n="vblex"/></r></p></e>
+    <e><p><l>beklagen<s n="vblex"/></l><r>bekloen<s n="vblex"/></r></p></e>
+    <e><p><l>bemerken<s n="vblex"/></l><r>bemierken<s n="vblex"/></r></p></e>
+    <e><p><l>bemerken<s n="vblex"/></l><r>mierken<s n="vblex"/></r></p></e>
+    <e><p><l>benennen<s n="vblex"/></l><r>nennen<s n="vblex"/></r></p></e>
+    <e><p><l>benutzen<s n="vblex"/></l><r>benotzen<s n="vblex"/></r></p></e>
+    <e><p><l>beraten<s n="vblex"/></l><r>beroden<s n="vblex"/></r></p></e>
+    <e><p><l>berechnen<s n="vblex"/></l><r>berechnen<s n="vblex"/></r></p></e>
+    <e><p><l>beruhen<s n="vblex"/></l><r>berouen<s n="vblex"/></r></p></e>
+    <e><p><l>beschreiben<s n="vblex"/></l><r>beschreiwen<s n="vblex"/></r></p></e>
+    <e><p><l>bestehen<s n="vblex"/></l><r>bestoen<s n="vblex"/></r></p></e>
+    <e><p><l>bestimmen<s n="vblex"/></l><r>bestëmmen<s n="vblex"/></r></p></e>
+    <e><p><l>bestrafen<s n="vblex"/></l><r>bestrofen<s n="vblex"/></r></p></e>
+    <e><p><l>bestrafen<s n="vblex"/></l><r>strofen<s n="vblex"/></r></p></e>
+    <e><p><l>besuchen<s n="vblex"/></l><r>besichen<s n="vblex"/></r></p></e>
+    <e><p><l>beteiligen<s n="vblex"/></l><r>bedeelegen<s n="vblex"/></r></p></e>
+    <e><p><l>betreiben<s n="vblex"/></l><r>bedreiwen<s n="vblex"/></r></p></e>
+    <e><p><l>betteln<s n="vblex"/></l><r>heeschen<s n="vblex"/></r></p></e>
+    <e><p><l>bewegen<s n="vblex"/></l><r>beweegen<s n="vblex"/></r></p></e>
+    <e><p><l>bewegen<s n="vblex"/></l><r>bewegen<s n="vblex"/></r></p></e>
+    <e><p><l>bewirken<s n="vblex"/></l><r>bewierken<s n="vblex"/></r></p></e>
+    <e><p><l>bewundern<s n="vblex"/></l><r>bewonneren<s n="vblex"/></r></p></e>
+    <e><p><l>bezeichnen<s n="vblex"/></l><r>bezeechnen<s n="vblex"/></r></p></e>
+    <e><p><l>bilden<s n="vblex"/></l><r>bilden<s n="vblex"/></r></p></e>
+    <e><p><l>bilden<s n="vblex"/></l><r>formen<s n="vblex"/></r></p></e>
     <e><p><l>bleiben<s n="vblex"/></l><r>bleiwen<s n="vblex"/></r></p></e>
+    <e><p><l>brauchen<s n="vblex"/></l><r>brauchen<s n="vblex"/></r></p></e>
+    <e><p><l>brechen<s n="vblex"/></l><r>briechen<s n="vblex"/></r></p></e>
+    <e><p><l>brennen<s n="vblex"/></l><r>flamen<s n="vblex"/></r></p></e>
+    <e><p><l>bringen<s n="vblex"/></l><r>bréngen<s n="vblex"/></r></p></e>
+    <e><p><l>darstellen<s n="vblex"/><s n="sep"/></l><r>duerstellen<s n="vblex"/></r></p></e>
+    <e><p><l>darstellen<s n="vblex"/><s n="sep"/></l><r>virstellen<s n="vblex"/></r></p></e>
+    <e><p><l>dauern<s n="vblex"/></l><r>daueren<s n="vblex"/></r></p></e>
+    <e><p><l>deklinieren<s n="vblex"/></l><r>deklinéieren<s n="vblex"/></r></p></e>
+    <e><p><l>denken<s n="vblex"/></l><r>mengen<s n="vblex"/></r></p></e>
+    <e><p><l>deuten<s n="vblex"/></l><r>deiten<s n="vblex"/></r></p></e>
+    <e><p><l>einnehmen<s n="vblex"/><s n="sep"/></l><r>anhuelen<s n="vblex"/></r></p></e> <!-- Medikament -->
+    <e><p><l>einparken<s n="vblex"/><s n="sep"/></l><r>parken<s n="vblex"/></r></p></e>
+    <e><p><l>einsammeln<s n="vblex"/><s n="sep"/></l><r>sammelen<s n="vblex"/></r></p></e>
+    <e><p><l>einstellen<s n="vblex"/><s n="sep"/></l><r>riichten<s n="vblex"/></r></p></e>
+    <e><p><l>enden<s n="vblex"/></l><r>endegen<s n="vblex"/></r></p></e>
+    <e><p><l>entdecken<s n="vblex"/></l><r>entdecken<s n="vblex"/></r></p></e>
+    <e><p><l>entgehen<s n="vblex"/></l><r>entgoen<s n="vblex"/></r></p></e>
+    <e><p><l>enthalten<s n="vblex"/></l><r>enthalen<s n="vblex"/></r></p></e>
+    <e><p><l>entsprechen<s n="vblex"/></l><r>entspriechen<s n="vblex"/></r></p></e>
+    <e><p><l>entstehen<s n="vblex"/></l><r>entstoen<s n="vblex"/></r></p></e>
+    <e><p><l>entwickeln<s n="vblex"/></l><r>entwéckelen<s n="vblex"/></r></p></e>
+    <e><p><l>erdulden<s n="vblex"/></l><r>leiden<s n="vblex"/></r></p></e>
+    <e><p><l>erfassen<s n="vblex"/></l><r>erfaassen<s n="vblex"/></r></p></e>
+    <e><p><l>erforschen<s n="vblex"/></l><r>erfuerschen<s n="vblex"/></r></p></e>
+    <e><p><l>erhalten<s n="vblex"/></l><r>erhalen<s n="vblex"/></r></p></e>
+    <e><p><l>erkennen<s n="vblex"/></l><r>erkennen<s n="vblex"/></r></p></e>
+    <e><p><l>erklären<s n="vblex"/></l><r>deklaréieren<s n="vblex"/></r></p></e>
+    <e><p><l>erlauben<s n="vblex"/></l><r>erlaben<s n="vblex"/></r></p></e>
+    <e><p><l>erleben<s n="vblex"/></l><r>erliewen<s n="vblex"/></r></p></e>
+    <e><p><l>ernähren<s n="vblex"/></l><r>ernieren<s n="vblex"/></r></p></e>
+    <e><p><l>erobern<s n="vblex"/></l><r>erueweren<s n="vblex"/></r></p></e>
+    <e><p><l>erreichen<s n="vblex"/></l><r>erreechen<s n="vblex"/></r></p></e>
+    <e><p><l>erschlagen<s n="vblex"/></l><r>erschloen<s n="vblex"/></r></p></e>
+    <e><p><l>erwachsen<s n="vblex"/></l><r>grouss<s n="vblex"/></r></p></e>
+    <e><p><l>erwähnen<s n="vblex"/></l><r>ernimmen<s n="vblex"/></r></p></e>
+    <e><p><l>erwarten<s n="vblex"/></l><r>erwaarden<s n="vblex"/></r></p></e>
+    <e><p><l>erzählen<s n="vblex"/></l><r>erzielen<s n="vblex"/></r></p></e>
+    <e><p><l>erzählen<s n="vblex"/></l><r>zielen<s n="vblex"/></r></p></e>
+    <e><p><l>erziehen<s n="vblex"/></l><r>zillen<s n="vblex"/></r></p></e>
+    <e><p><l>essen<s n="vblex"/></l><r>iessen<s n="vblex"/></r></p></e>
+    <e><p><l>existieren<s n="vblex"/></l><r>existéieren<s n="vblex"/></r></p></e>
+    <e><p><l>fahren<s n="vblex"/></l><r>fueren<s n="vblex"/></r></p></e>
+    <e><p><l>fallen<s n="vblex"/></l><r>falen<s n="vblex"/></r></p></e>
+    <e><p><l>federn<s n="vblex"/></l><r>fiederen<s n="vblex"/></r></p></e>
+    <e><p><l>feiern<s n="vblex"/></l><r>feieren<s n="vblex"/></r></p></e>
+    <e><p><l>feststellen<s n="vblex"/><s n="sep"/></l><r>feststellen<s n="vblex"/></r></p></e>
+    <e><p><l>finden<s n="vblex"/></l><r>fannen<s n="vblex"/></r></p></e>
+    <e><p><l>flechten<s n="vblex"/></l><r>flechten<s n="vblex"/></r></p></e>
+    <e><p><l>folgen<s n="vblex"/></l><r>follegen<s n="vblex"/></r></p></e>
+    <e><p><l>fragen<s n="vblex"/></l><r>froen<s n="vblex"/></r></p></e>
+    <e><p><l>führen<s n="vblex"/></l><r>féieren<s n="vblex"/></r></p></e>
+    <e><p><l>funktionieren<s n="vblex"/></l><r>funktionéieren<s n="vblex"/></r></p></e>
+    <e><p><l>gebären<s n="vblex"/></l><r>gebären<s n="vblex"/></r></p></e>
+    <e><p><l>geben<s n="vblex"/></l><r>ginn<s n="vblex"/></r></p></e>
+    <e><p><l>gebrauchen<s n="vblex"/></l><r>gebrauchen<s n="vblex"/></r></p></e>
+    <e><p><l>gedeihen<s n="vblex"/></l><r>aarten<s n="vblex"/></r></p></e>
+    <e><p><l>gedenken<s n="vblex"/></l><r>gedenken<s n="vblex"/></r></p></e>
     <e><p><l>gehen<s n="vblex"/></l><r>goen<s n="vblex"/></r></p></e>
+    <e><p><l>gehören<s n="vblex"/></l><r>gehéieren<s n="vblex"/></r></p></e>
+    <e><p><l>gelingen<s n="vblex"/></l><r>geroden<s n="vblex"/></r></p></e>
+    <e><p><l>geten<s n="vblex"/></l><r>gëllen<s n="vblex"/></r></p></e>
+    <e><p><l>gestalten<s n="vblex"/></l><r>gestalten<s n="vblex"/></r></p></e>
+    <e><p><l>gewinnen<s n="vblex"/></l><r>gewannen<s n="vblex"/></r></p></e>
+    <e><p><l>glauben<s n="vblex"/></l><r>gleewen<s n="vblex"/></r></p></e>
+    <e><p><l>graben<s n="vblex"/></l><r>gruewen<s n="vblex"/></r></p></e>
+    <e><p><l>gründen<s n="vblex"/></l><r>grënnen<s n="vblex"/></r></p></e>
+    <e><p><l>grüßen<s n="vblex"/></l><r>gréissen<s n="vblex"/></r></p></e>
+    <e><p><l>handeln<s n="vblex"/></l><r>handelen<s n="vblex"/></r></p></e>
+    <e><p><l>hauen<s n="vblex"/></l><r>schloen<s n="vblex"/></r></p></e>
+    <e><p><l>heben<s n="vblex"/></l><r>hiewen<s n="vblex"/></r></p></e>
+    <e><p><l>heiraten<s n="vblex"/></l><r>bestueden<s n="vblex"/></r></p></e>
+    <e><p><l>herausgeben<s n="vblex"/><s n="sep"/></l><r>erausginn<s n="vblex"/></r></p></e>
+    <e><p><l>herkommen<s n="vblex"/></l><r>hierkommen<s n="vblex"/></r></p></e>
+    <e><p><l>hinübergehen<s n="vblex"/><s n="sep"/></l><r>iwwergoen<s n="vblex"/></r></p></e>
+    <e><p><l>hinweisen<s n="vblex"/><s n="sep"/></l><r>hiweisen<s n="vblex"/></r></p></e>
+    <e><p><l>hoffen<s n="vblex"/></l><r>hoffen<s n="vblex"/></r></p></e>
+    <e><p><l>holen<s n="vblex"/></l><r>huelen<s n="vblex"/></r></p></e>
+    <e><p><l>hören<s n="vblex"/></l><r>héieren<s n="vblex"/></r></p></e>
+    <e><p><l>interviewen<s n="vblex"/></l><r>interviewen<s n="vblex"/></r></p></e>
+    <e><p><l>jagen<s n="vblex"/></l><r>joen<s n="vblex"/></r></p></e>
+    <e><p><l>kaufen<s n="vblex"/></l><r>kafen<s n="vblex"/></r></p></e>
+    <e><p><l>kennen<s n="vblex"/></l><r>kennen<s n="vblex"/></r></p></e>
+    <e><p><l>klammern<s n="vblex"/></l><r>klameren<s n="vblex"/></r></p></e>
+    <e><p><l>klappen<s n="vblex"/></l><r>klappen<s n="vblex"/></r></p></e>
+    <e><p><l>klauen<s n="vblex"/></l><r>klauen<s n="vblex"/></r></p></e>
     <e><p><l>kommen<s n="vblex"/></l><r>kommen<s n="vblex"/></r></p></e>
+    <e><p><l>korrigieren<s n="vblex"/></l><r>verbesseren<s n="vblex"/></r></p></e>
+    <e><p><l>kriegen<s n="vblex"/></l><r>kréien<s n="vblex"/></r></p></e>
+    <e><p><l>landen<s n="vblex"/></l><r>landen<s n="vblex"/></r></p></e>
+    <e><p><l>langen<s n="vblex"/></l><r>reechen<s n="vblex"/></r></p></e>
+    <e><p><l>laufen<s n="vblex"/></l><r>lafen<s n="vblex"/></r></p></e>
+    <e><p><l>lassen<s n="vblex"/></l><r>loossen<s n="vblex"/></r></p></e>
+    <e><p><l>leisten<s n="vblex"/></l><r>leeschten<s n="vblex"/></r></p></e>
+    <e><p><l>leiten<s n="vblex"/></l><r>leeden<s n="vblex"/></r></p></e>
+    <e><p><l>lenken<s n="vblex"/></l><r>steieren<s n="vblex"/></r></p></e>
+    <e><p><l>lesen<s n="vblex"/></l><r>liesen<s n="vblex"/></r></p></e>
+    <e><p><l>leuchten<s n="vblex"/></l><r>liichten<s n="vblex"/></r></p></e>
+    <e><p><l>liefern<s n="vblex"/></l><r>liwweren<s n="vblex"/></r></p></e>
+    <e><p><l>liegen<s n="vblex"/></l><r>leien<s n="vblex"/></r></p></e>
     <e><p><l>machen<s n="vblex"/></l><r>maachen<s n="vblex"/></r></p></e>
+    <e><p><l>machen<s n="vblex"/></l><r>man<s n="vblex"/></r></p></e>
+    <e><p><l>mähen<s n="vblex"/></l><r>méien<s n="vblex"/></r></p></e>
+    <e><p><l>malen<s n="vblex"/></l><r>molen<s n="vblex"/></r></p></e>
+    <e><p><l>mauern<s n="vblex"/></l><r>maueren<s n="vblex"/></r></p></e>
+    <e><p><l>messen<s n="vblex"/></l><r>moossen<s n="vblex"/></r></p></e>
+    <e><p><l>mitmachen<s n="vblex"/><s n="sep"/></l><r>matmaachen<s n="vblex"/></r></p></e>
+    <e><p><l>modern<s n="vblex"/></l><r>modern<s n="vblex"/></r></p></e>
+    <e><p><l>nachgeben<s n="vblex"/><s n="sep"/></l><r>noginn<s n="vblex"/></r></p></e>
+    <e><p><l>öffnen<s n="vblex"/></l><r>opmaachen<s n="vblex"/></r></p></e>
+    <e><p><l>pflanzen<s n="vblex"/></l><r>planzen<s n="vblex"/></r></p></e>
+    <e><p><l>pflegen<s n="vblex"/></l><r>fleegen<s n="vblex"/></r></p></e>
+    <e><p><l>pilgern<s n="vblex"/></l><r>pilgeren<s n="vblex"/></r></p></e>
+    <e><p><l>plaudern<s n="vblex"/></l><r>sproochen<s n="vblex"/></r></p></e>
+    <e><p><l>probieren<s n="vblex"/></l><r>versichen<s n="vblex"/></r></p></e>
+    <e><p><l>putzen<s n="vblex"/></l><r>botzen<s n="vblex"/></r></p></e>
+    <e><p><l>quellen<s n="vblex"/></l><r>quellen<s n="vblex"/></r></p></e>
+    <e><p><l>regeln<s n="vblex"/></l><r>regelen<s n="vblex"/></r></p></e>
+    <e><p><l>reisen<s n="vblex"/></l><r>reesen<s n="vblex"/></r></p></e>
+    <e><p><l>reisen<s n="vblex"/></l><r>wanderen<s n="vblex"/></r></p></e>
+    <e><p><l>retten<s n="vblex"/></l><r>retten<s n="vblex"/></r></p></e>
+    <e><p><l>rufen<s n="vblex"/></l><r>ruffen<s n="vblex"/></r></p></e>
+    <e><p><l>ruhen<s n="vblex"/></l><r>rouen<s n="vblex"/></r></p></e>
+    <e><p><l>sagen<s n="vblex"/></l><r>soen<s n="vblex"/></r></p></e>
+    <e><p><l>schauen<s n="vblex"/></l><r>kucken<s n="vblex"/></r></p></e>
+    <e><p><l>schenken<s n="vblex"/></l><r>schenken<s n="vblex"/></r></p></e>
+    <e><p><l>schlagen<s n="vblex"/></l><r>dunnen<s n="vblex"/></r></p></e> <!-- auf den Kopf -->
+    <e><p><l>schließen<s n="vblex"/></l><r>zoumaachen<s n="vblex"/></r></p></e>
+    <e><p><l>schneiden<s n="vblex"/></l><r>schneiden<s n="vblex"/></r></p></e>
+    <e><p><l>schreiben<s n="vblex"/></l><r>schreiwen<s n="vblex"/></r></p></e>
+    <e><p><l>schulen<s n="vblex"/></l><r>schoulen<s n="vblex"/></r></p></e>
+    <e><p><l>sehen<s n="vblex"/></l><r>gesinn<s n="vblex"/></r></p></e>
+    <e><p><l>senden<s n="vblex"/></l><r>senden<s n="vblex"/></r></p></e>
+    <e><p><l>setzen<s n="vblex"/></l><r>setzen<s n="vblex"/></r></p></e>
+    <e><p><l>sieben<s n="vblex"/></l><r>siwen<s n="vblex"/></r></p></e>
+    <e><p><l>singen<s n="vblex"/></l><r>sangen<s n="vblex"/></r></p></e>
+    <e><p><l>sorgen<s n="vblex"/></l><r>suergen<s n="vblex"/></r></p></e>
+    <e><p><l>sparen<s n="vblex"/></l><r>spueren<s n="vblex"/></r></p></e>
+    <e><p><l>spenden<s n="vblex"/></l><r>spenden<s n="vblex"/></r></p></e>
+    <e><p><l>spiegeln<s n="vblex"/></l><r>spigelen<s n="vblex"/></r></p></e>
+    <e><p><l>spielen<s n="vblex"/></l><r>spillen<s n="vblex"/></r></p></e>
+    <e><p><l>sprechen<s n="vblex"/></l><r>schwätzen<s n="vblex"/></r></p></e>
+    <e><p><l>springen<s n="vblex"/></l><r>sprangen<s n="vblex"/></r></p></e>
+    <e><p><l>stammen<s n="vblex"/></l><r>stamen<s n="vblex"/></r></p></e>
+    <e><p><l>starten<s n="vblex"/></l><r>starten<s n="vblex"/></r></p></e>
+    <e><p><l>stechen<s n="vblex"/></l><r>stiechen<s n="vblex"/></r></p></e>
+    <e><p><l>stehen<s n="vblex"/></l><r>stoen<s n="vblex"/></r></p></e>
+    <e><p><l>stellen<s n="vblex"/></l><r>stellen<s n="vblex"/></r></p></e>
+    <e><p><l>sterben<s n="vblex"/></l><r>stierwen<s n="vblex"/></r></p></e>
+    <e><p><l>strahlen<s n="vblex"/></l><r>stralen<s n="vblex"/></r></p></e>
+    <e><p><l>studieren<s n="vblex"/></l><r>studéieren<s n="vblex"/></r></p></e>
+    <e><p><l>stufen<s n="vblex"/></l><r>stufen<s n="vblex"/></r></p></e>
+    <e><p><l>stürzen<s n="vblex"/></l><r>stierzen<s n="vblex"/></r></p></e>
+    <e><p><l>suchen<s n="vblex"/></l><r>sichen<s n="vblex"/></r></p></e>
+    <e><p><l>tanzen<s n="vblex"/></l><r>danzen<s n="vblex"/></r></p></e>
+    <e><p><l>tauschen<s n="vblex"/></l><r>koppelen<s n="vblex"/></r></p></e> <!-- Sachgegenstände -->
+    <e><p><l>teilnehmen<s n="vblex"/><s n="sep"/></l><r>deelhuelen<s n="vblex"/></r></p></e>
+    <e><p><l>testen<s n="vblex"/></l><r>testen<s n="vblex"/></r></p></e>
+    <e><p><l>tragen<s n="vblex"/></l><r>droen<s n="vblex"/></r></p></e>
+    <e><p><l>treffen<s n="vblex"/></l><r>treffen<s n="vblex"/></r></p></e>
+    <e><p><l>treiben<s n="vblex"/></l><r>dreiwen<s n="vblex"/></r></p></e>
+    <e><p><l>trennen<s n="vblex"/></l><r>trennen<s n="vblex"/></r></p></e>
+    <e><p><l>treten<s n="vblex"/></l><r>trieden<s n="vblex"/></r></p></e>
+    <e><p><l>tun<s n="vblex"/></l><r>dinn<s n="vblex"/></r></p></e>
+    <e><p><l>tun<s n="vblex"/></l><r>doen<s n="vblex"/></r></p></e>
+    <e><p><l>überlassen<s n="vblex"/></l><r>iwwerloossen<s n="vblex"/></r></p></e>
+    <e><p><l>überleben<s n="vblex"/></l><r>iwwerliewen<s n="vblex"/></r></p></e>
+    <e><p><l>übersetzen<s n="vblex"/></l><r>iwwersetzen<s n="vblex"/></r></p></e>
+    <e><p><l>übertragen<s n="vblex"/></l><r>iwwerdroen<s n="vblex"/></r></p></e>
+    <e><p><l>überwachen<s n="vblex"/></l><r>iwwerwaachen<s n="vblex"/></r></p></e>
+    <e><p><l>überwinden<s n="vblex"/></l><r>iwwerwannen<s n="vblex"/></r></p></e>
+    <e><p><l>überzeugen<s n="vblex"/></l><r>iwwerzeegen<s n="vblex"/></r></p></e>
+    <e><p><l>umtauschen<s n="vblex"/><s n="sep"/></l><r>wiesselen<s n="vblex"/></r></p></e>
+    <e><p><l>verarbeiten<s n="vblex"/></l><r>verschaffen<s n="vblex"/></r></p></e>
+    <e><p><l>verbergen<s n="vblex"/></l><r>verstoppen<s n="vblex"/></r></p></e>
+    <e><p><l>verbinden<s n="vblex"/></l><r>verbannen<s n="vblex"/></r></p></e>
+    <e><p><l>verbreiten<s n="vblex"/></l><r>verbreeden<s n="vblex"/></r></p></e>
+    <e><p><l>verbrennen<s n="vblex"/></l><r>verbrennen<s n="vblex"/></r></p></e>
+    <e><p><l>verbuchen<s n="vblex"/></l><r>verbuchen<s n="vblex"/></r></p></e>
+    <e><p><l>verdanken<s n="vblex"/></l><r>verdanken<s n="vblex"/></r></p></e>
+    <e><p><l>vereinigen<s n="vblex"/></l><r>vereenegen<s n="vblex"/></r></p></e>
+    <e><p><l>verfolgen<s n="vblex"/></l><r>verfollegen<s n="vblex"/></r></p></e>
+    <e><p><l>vergeben<s n="vblex"/></l><r>verginn<s n="vblex"/></r></p></e>
+    <e><p><l>vergessen<s n="vblex"/></l><r>vergiessen<s n="vblex"/></r></p></e>
+    <e><p><l>vergleichen<s n="vblex"/></l><r>vergläichen<s n="vblex"/></r></p></e>
+    <e><p><l>verlangen<s n="vblex"/></l><r>verlaangen<s n="vblex"/></r></p></e>
+    <e><p><l>verlassen<s n="vblex"/></l><r>verloossen<s n="vblex"/></r></p></e>
+    <e><p><l>vermeiden<s n="vblex"/></l><r>vermeiden<s n="vblex"/></r></p></e>
+    <e><p><l>verraten<s n="vblex"/></l><r>verroden<s n="vblex"/></r></p></e>
+    <e><p><l>verschwinden<s n="vblex"/></l><r>verschwannen<s n="vblex"/></r></p></e>
+    <e><p><l>verstehen<s n="vblex"/></l><r>verstoen<s n="vblex"/></r></p></e>
+    <e><p><l>verteilen<s n="vblex"/></l><r>verdeelen<s n="vblex"/></r></p></e>
+    <e><p><l>vertragen<s n="vblex"/></l><r>verdroen<s n="vblex"/></r></p></e>
+    <e><p><l>vertreiben<s n="vblex"/></l><r>verdreiwen<s n="vblex"/></r></p></e>
+    <e><p><l>vertreten<s n="vblex"/></l><r>vertrieden<s n="vblex"/></r></p></e>
+    <e><p><l>verwalten<s n="vblex"/></l><r>verwalten<s n="vblex"/></r></p></e>
+    <e><p><l>verwandeln<s n="vblex"/></l><r>verwandelen<s n="vblex"/></r></p></e>
+    <e><p><l>verwechseln<s n="vblex"/></l><r>verwiesselen<s n="vblex"/></r></p></e>
+    <e><p><l>verzichten<s n="vblex"/></l><r>verzichten<s n="vblex"/></r></p></e>
+    <e><p><l>vorbereiten<s n="vblex"/><s n="sep"/></l><r>virbereeden<s n="vblex"/></r></p></e>
+    <e><p><l>warten<s n="vblex"/></l><r>waarden<s n="vblex"/></r></p></e>
+    <e><p><l>weitergeben<s n="vblex"/><s n="sep"/></l><r>weiderginn<s n="vblex"/></r></p></e>
+    <e><p><l>wiegen<s n="vblex"/></l><r>laaschten<s n="vblex"/></r></p></e>
+    <e><p><l>wohnen<s n="vblex"/></l><r>wunnen<s n="vblex"/></r></p></e>
+    <e><p><l>würdigen<s n="vblex"/></l><r>wierdegen<s n="vblex"/></r></p></e>
+    <e><p><l>zeichnen<s n="vblex"/></l><r>zeechnen<s n="vblex"/></r></p></e>
+    <e><p><l>zeigen<s n="vblex"/></l><r>weisen<s n="vblex"/></r></p></e>
+    <e><p><l>zusammenleben<s n="vblex"/><s n="sep"/></l><r>kummeren<s n="vblex"/></r></p></e>
+
+
+<!-- SECTION: Nouns -->
 
     <e><p><l>Ende<s n="n"/><s n="nt"/></l><r>Enn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Frau<s n="n"/><s n="f"/></l><r>Fra<s n="n"/><s n="f"/></r></p></e>
@@ -853,6 +901,29 @@
     <e><p><l>Alter<s n="n"/><s n="nt"/></l><r>Alter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Armee<s n="n"/><s n="f"/></l><r>Arméi<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Mitte<s n="n"/><s n="f"/></l><r>Mëtt<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Eltern<s n="n"/><s n="mfn"/></l><r>Elteren<s n="n"/><s n="mfn"/></r></p></e>
+    <e><p><l>Leute<s n="n"/><s n="mfn"/></l><r>Leit<s n="n"/><s n="mfn"/></r></p></e>
+    <e><p><l>Luxemburger<s n="n"/><s n="m"/></l><r>Lëtzebuerger<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Meter<s n="n"/><s n="m"/></l><r>Meter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Präsident<s n="n"/><s n="m"/></l><r>President<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kanton<s n="n"/><s n="m"/></l><r>Kanton<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Astronom<s n="n"/><s n="m"/></l><r>Astronom<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kilometer<s n="n"/><s n="m"/></l><r>Kilometer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Aufteilung<s n="n"/><s n="f"/></l><r>Andeelung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Kreuzung<s n="n"/><s n="f"/></l><r>Kräizung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Oberfläche<s n="n"/><s n="f"/></l><r>Uewerfläch<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Bevölkerung<s n="n"/><s n="f"/></l><r>Bevëlkerung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Historiker<s n="n"/><s n="m"/></l><r>Historiker<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Herzog<s n="n"/><s n="m"/></l><r>Herzog<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Prinz<s n="n"/><s n="m"/></l><r>Prënz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Buch<s n="n"/><s n="nt"/></l><r>Buch<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Stück<s n="n"/><s n="nt"/></l><r>Stéck<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Meer<s n="n"/><s n="nt"/></l><r>Mier<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Licht<s n="n"/><s n="nt"/></l><r>Liicht<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Gründer<s n="n"/><s n="m"/></l><r>Grënner<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schiff<s n="n"/><s n="nt"/></l><r>Schëff<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Kanton<s n="n"/><s n="m"/></l><r>Canton<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Mitglied<s n="n"/><s n="nt"/></l><r>Member<s n="n"/><s n="m"/></r></p></e>
 
     <!-- nouns from ltz-deu.txt, sorted by right side to ease finding implausible translations -->
 
