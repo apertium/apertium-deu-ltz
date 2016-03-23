@@ -378,191 +378,192 @@
 
     <e><p><l>groß<s n="adj"/><s n="sint"/></l><r>grouss<s n="adj"/></r></p></e>
 
-    <e><p><l>abgerundet<s n="adj"/></l><r>ronn<s n="adj"/></r></p></e>
-    <e><p><l>abstrakt<s n="adj"/></l><r>abstrakt<s n="adj"/></r></p></e>
-    <e><p><l>administrativ<s n="adj"/></l><r>administrativ<s n="adj"/></r></p></e>
-    <e><p><l>aggressiv<s n="adj"/></l><r>aggressiv<s n="adj"/></r></p></e>
-    <e><p><l>akademisch<s n="adj"/></l><r>akademesch<s n="adj"/></r></p></e>
-    <e><p><l>aktuell<s n="adj"/></l><r>aktuell<s n="adj"/></r></p></e>
-    <e><p><l>allein<s n="adj"/></l><r>eleng<s n="adj"/></r></p></e>
-    <e><p><l>allgemein<s n="adj"/></l><r>allgemeng<s n="adj"/></r></p></e>
-    <e><p><l>alt<s n="adj"/></l><r>al<s n="adj"/></r></p></e>
-    <e><p><l>andere<s n="adj"/></l><r>aner<s n="adj"/></r></p></e>
-    <e><p><l>anonym<s n="adj"/></l><r>anonym<s n="adj"/></r></p></e>
-    <e><p><l>antik<s n="adj"/></l><r>antik<s n="adj"/></r></p></e>
-    <e><p><l>arg<s n="adj"/></l><r>uerg<s n="adj"/></r></p></e>
-    <e><p><l>artistisch<s n="adj"/></l><r>artistesch<s n="adj"/></r></p></e>
-    <e><p><l>ausgestattet<s n="adj"/></l><r>ageriicht<s n="adj"/></r></p></e>
-    <e><p><l>äußere<s n="adj"/></l><r>baussenzeg<s n="adj"/></r></p></e>
-    <e><p><l>automatisch<s n="adj"/></l><r>automatesch<s n="adj"/></r></p></e>
-    <e><p><l>autonom<s n="adj"/></l><r>autonom<s n="adj"/></r></p></e>
-    <e><p><l>bekannt<s n="adj"/></l><r>bekannt<s n="adj"/></r></p></e>
-    <e><p><l>belgisch<s n="adj"/></l><r>belsch<s n="adj"/></r></p></e>
-    <e><p><l>bereit<s n="adj"/></l><r>prett<s n="adj"/></r></p></e>
-    <e><p><l>besonders<s n="adj"/></l><r>besonnesch<s n="adj"/></r></p></e>
-    <e><p><l>bestimmt<s n="adj"/></l><r>bestëmmt<s n="adj"/></r></p></e>
-    <e><p><l>betrunken<s n="adj"/></l><r>blo<s n="adj"/></r></p></e>
-    <e><p><l>betrunken<s n="adj"/></l><r>voll<s n="adj"/></r></p></e>
-    <e><p><l>biologisch<s n="adj"/></l><r>biologesch<s n="adj"/></r></p></e>
-    <e><p><l>bitter<s n="adj"/></l><r>batter<s n="adj"/></r></p></e>
-    <e><p><l>blind<s n="adj"/></l><r>blann<s n="adj"/></r></p></e>
-    <e><p><l>blutbefleckt<s n="adj"/></l><r>bluddeg<s n="adj"/></r></p></e>
-    <e><p><l>böse<s n="adj"/></l><r>béis<s n="adj"/></r></p></e>
-    <e><p><l>botanisch<s n="adj"/></l><r>botanesch<s n="adj"/></r></p></e>
-    <e><p><l>braun<s n="adj"/></l><r>brong<s n="adj"/></r></p></e>
-    <e><p><l>breit<s n="adj"/></l><r>breet<s n="adj"/></r></p></e>
-    <e><p><l>charakteristisch<s n="adj"/></l><r>charakteristesch<s n="adj"/></r></p></e>
-    <e><p><l>deutsch<s n="adj"/></l><r>däitsch<s n="adj"/></r></p></e>
-    <e><p><l>doppelt<s n="adj"/></l><r>duebel<s n="adj"/></r></p></e>
-    <e><p><l>dunkel<s n="adj"/></l><r>donkel<s n="adj"/></r></p></e>
-    <e><p><l>dünn<s n="adj"/></l><r>schmuel<s n="adj"/></r></p></e>
-    <e><p><l>durchsichtig<s n="adj"/></l><r>kloer<s n="adj"/></r></p></e>
-    <e><p><l>Ehemann<s n="adj"/></l><r>mann<s n="adj"/></r></p></e>
-    <e><p><l>eifersüchtig<s n="adj"/></l><r>jalous<s n="adj"/></r></p></e>
-    <e><p><l>eigen<s n="adj"/></l><r>eegen<s n="adj"/></r></p></e>
-    <e><p><l>einzelne<s n="adj"/></l><r>eenzel<s n="adj"/></r></p></e>
-    <e><p><l>einzig<s n="adj"/></l><r>eenzeg<s n="adj"/></r></p></e>
-    <e><p><l>endlich<s n="adj"/></l><r>endlech<s n="adj"/></r></p></e>
-    <e><p><l>englisch<s n="adj"/></l><r>englesch<s n="adj"/></r></p></e>
-    <e><p><l>eng<s n="adj"/></l><r>enk<s n="adj"/></r></p></e>
-    <e><p><l>erblich<s n="adj"/></l><r>ierflech<s n="adj"/></r></p></e>
-    <e><p><l>erledigt<s n="adj"/></l><r>futti<s n="adj"/></r></p></e>  <!-- (müde) -->
-    <e><p><l>erwachsen<s n="adj"/></l><r>grouss<s n="adj"/></r></p></e>
-    <e><p><l>ethisch<s n="adj"/></l><r>ethesch<s n="adj"/></r></p></e>
-    <e><p><l>ethnisch<s n="adj"/></l><r>ethnesch<s n="adj"/></r></p></e>
-    <e><p><l>falsch<s n="adj"/></l><r>falsch<s n="adj"/></r></p></e>
-    <e><p><l>fein<s n="adj"/></l><r>reng<s n="adj"/></r></p></e>
-    <e><p><l>fest<s n="adj"/></l><r>fest<s n="adj"/></r></p></e>
-    <e><p><l>feucht<s n="adj"/></l><r>fiicht<s n="adj"/></r></p></e>
-    <e><p><l>fit<s n="adj"/></l><r>fit<s n="adj"/></r></p></e>
-    <e><p><l>flach<s n="adj"/></l><r>flaach<s n="adj"/></r></p></e>
-    <e><p><l>flach<s n="adj"/></l><r>platt<s n="adj"/></r></p></e>
-    <e><p><l>französisch<s n="adj"/></l><r>franséisch<s n="adj"/></r></p></e>
-    <e><p><l>frei<s n="adj"/></l><r>fräi<s n="adj"/></r></p></e>
-    <e><p><l>fremd<s n="adj"/></l><r>friem<s n="adj"/></r></p></e>
-    <e><p><l>froh<s n="adj"/></l><r>frou<s n="adj"/></r></p></e>
-    <e><p><l>ganz<s n="adj"/></l><r>ganz<s n="adj"/></r></p></e>
-    <e><p><l>gehaltlos<s n="adj"/></l><r>schwaach<s n="adj"/></r></p></e>
-    <e><p><l>geheim<s n="adj"/></l><r>geheim<s n="adj"/></r></p></e>
-    <e><p><l>geistig<s n="adj"/></l><r>geeschteg<s n="adj"/></r></p></e>
-    <e><p><l>geistig<s n="adj"/></l><r>geeschtlech<s n="adj"/></r></p></e>
-    <e><p><l>gelb<s n="adj"/></l><r>giel<s n="adj"/></r></p></e>
-    <e><p><l>genau<s n="adj"/></l><r>genee<s n="adj"/></r></p></e>
-    <e><p><l>gerade<s n="adj"/></l><r>riicht<s n="adj"/></r></p></e>
-    <e><p><l>gerecht<s n="adj"/></l><r>gerecht<s n="adj"/></r></p></e>
-    <e><p><l>gescheit<s n="adj"/></l><r>gescheit<s n="adj"/></r></p></e>
-    <e><p><l>geschlossen<s n="adj"/></l><r>zou<s n="adj"/></r></p></e>
-    <e><p><l>gesund<s n="adj"/></l><r>gesond<s n="adj"/></r></p></e>
-    <e><p><l>glatt<s n="adj"/></l><r>glat<s n="adj"/></r></p></e>
-    <e><p><l>grau<s n="adj"/></l><r>gro<s n="adj"/></r></p></e>
-    <e><p><l>griechisch<s n="adj"/></l><r>griichesch<s n="adj"/></r></p></e>
-    <e><p><l>grob<s n="adj"/></l><r>graff<s n="adj"/></r></p></e>
-    <e><p><l>gut<s n="adj"/></l><r>gutt<s n="adj"/></r></p></e>
-    <e><p><l>halb<s n="adj"/></l><r>hallef<s n="adj"/></r></p></e>
-    <e><p><l>hart<s n="adj"/></l><r>haart<s n="adj"/></r></p></e>
-    <e><p><l>heilig<s n="adj"/></l><r>helleg<s n="adj"/></r></p></e>
-    <e><p><l>hell<s n="adj"/></l><r>hell<s n="adj"/></r></p></e>
-    <e><p><l>hohl<s n="adj"/></l><r>huel<s n="adj"/></r></p></e>
-    <e><p><l>hübsch<s n="adj"/></l><r>flott<s n="adj"/></r></p></e>
-    <e><p><l>hügelig<s n="adj"/></l><r>hiwweleg<s n="adj"/></r></p></e>
-    <e><p><l>hydraulisch<s n="adj"/></l><r>hydraulesch<s n="adj"/></r></p></e>
-    <e><p><l>interessant<s n="adj"/></l><r>interessant<s n="adj"/></r></p></e>
-    <e><p><l>jung<s n="adj"/></l><r>jonk<s n="adj"/></r></p></e>
-    <e><p><l>kalt<s n="adj"/></l><r>kal<s n="adj"/></r></p></e>
-    <e><p><l>kalt<s n="adj"/></l><r>spatz<s n="adj"/></r></p></e>  <!-- (Wind) -->
-    <e><p><l>katholisch<s n="adj"/></l><r>kathoulesch<s n="adj"/></r></p></e>
-    <e><p><l>klassisch<s n="adj"/></l><r>klassesch<s n="adj"/></r></p></e>
-    <e><p><l>klein<s n="adj"/></l><r>kleng<s n="adj"/></r></p></e>
-    <e><p><l>komisch<s n="adj"/></l><r>komesch<s n="adj"/></r></p></e>
-    <e><p><l>komplett<s n="adj"/></l><r>komplett<s n="adj"/></r></p></e>
-    <e><p><l>korrekt<s n="adj"/></l><r>korrekt<s n="adj"/></r></p></e>
-    <e><p><l>krank<s n="adj"/></l><r>krank<s n="adj"/></r></p></e>
-    <e><p><l>kühl<s n="adj"/></l><r>kill<s n="adj"/></r></p></e>
-    <e><p><l>kurz<s n="adj"/></l><r>kuerz<s n="adj"/></r></p></e>
-    <e><p><l>langsam<s n="adj"/></l><r>lues<s n="adj"/></r></p></e>
-    <e><p><l>lang<s n="adj"/></l><r>laang<s n="adj"/></r></p></e>
-    <e><p><l>lebendig<s n="adj"/></l><r>lieweg<s n="adj"/></r></p></e>
-    <e><p><l>leer<s n="adj"/></l><r>eidel<s n="adj"/></r></p></e>
-    <e><p><l>leicht<s n="adj"/></l><r>liicht<s n="adj"/></r></p></e>
-    <e><p><l>letzt<s n="adj"/></l><r>lescht<s n="adj"/></r></p></e>
-    <e><p><l>links<s n="adj"/></l><r>lénks<s n="adj"/></r></p></e>
-    <e><p><l>locker<s n="adj"/></l><r>labber<s n="adj"/></r></p></e>
-    <e><p><l>Lokal<s n="adj"/></l><r>lokal<s n="adj"/></r></p></e>
-    <e><p><l>los<s n="adj"/></l><r>lass<s n="adj"/></r></p></e>
-    <e><p><l>luxemburgisch<s n="adj"/></l><r>lëtzebuergesch<s n="adj"/></r></p></e>
-    <e><p><l>matt<s n="adj"/></l><r>matt<s n="adj"/></r></p></e>
-    <e><p><l>müde<s n="adj"/></l><r>midd<s n="adj"/></r></p></e>
-    <e><p><l>nah<s n="adj"/></l><r>no<s n="adj"/></r></p></e>
-    <e><p><l>nass<s n="adj"/></l><r>naass<s n="adj"/></r></p></e>
-    <e><p><l>natürlich<s n="adj"/></l><r>natierlech<s n="adj"/></r></p></e>
-    <e><p><l>neblig<s n="adj"/></l><r>niwweleg<s n="adj"/></r></p></e>
-    <e><p><l>neu<s n="adj"/></l><r>nei<s n="adj"/></r></p></e>
-    <e><p><l>niedrig<s n="adj"/></l><r>niddereg<s n="adj"/></r></p></e>
-    <e><p><l>oberst<s n="adj"/></l><r>iewescht<s n="adj"/></r></p></e>
-    <e><p><l>offen<s n="adj"/></l><r>oppen<s n="adj"/></r></p></e>
-    <e><p><l>ordentlich<s n="adj"/></l><r>propper<s n="adj"/></r></p></e>
-    <e><p><l>periodisch<s n="adj"/></l><r>periodesch<s n="adj"/></r></p></e>
-    <e><p><l>real<s n="adj"/></l><r>wierklech<s n="adj"/></r></p></e>
-    <e><p><l>rechts<s n="adj"/></l><r>riets<s n="adj"/></r></p></e>
-    <e><p><l>regelmäßig<s n="adj"/></l><r>regelméisseg<s n="adj"/></r></p></e>
-    <e><p><l>reif<s n="adj"/></l><r>zeideg<s n="adj"/></r></p></e>
-    <e><p><l>rosa<s n="adj"/></l><r>rosa<s n="adj"/></r></p></e>
-    <e><p><l>rot<s n="adj"/></l><r>rout<s n="adj"/></r></p></e>
-    <e><p><l>ruhig<s n="adj"/></l><r>roueg<s n="adj"/></r></p></e>
-    <e><p><l>sächlich<s n="adj"/></l><r>sächlech<s n="adj"/></r></p></e>
-    <e><p><l>sanft<s n="adj"/></l><r>duuss<s n="adj"/></r></p></e>
-    <e><p><l>sauer<s n="adj"/></l><r>sauer<s n="adj"/></r></p></e>
-    <e><p><l>schief<s n="adj"/></l><r>queesch<s n="adj"/></r></p></e>
-    <e><p><l>schlecht<s n="adj"/></l><r>schlecht<s n="adj"/></r></p></e>
-    <e><p><l>schnell<s n="adj"/></l><r>schnell<s n="adj"/></r></p></e>
-    <e><p><l>schön<s n="adj"/></l><r>schéin<s n="adj"/></r></p></e>
-    <e><p><l>schwarz<s n="adj"/></l><r>schwaarz<s n="adj"/></r></p></e>
-    <e><p><l>spanisch<s n="adj"/></l><r>spuenesch<s n="adj"/></r></p></e>
-    <e><p><l>sportlich<s n="adj"/></l><r>sportlech<s n="adj"/></r></p></e>
-    <e><p><l>stark<s n="adj"/></l><r>staark<s n="adj"/></r></p></e>
-    <e><p><l>teuer<s n="adj"/></l><r>deier<s n="adj"/></r></p></e>
-    <e><p><l>tot<s n="adj"/></l><r>dout<s n="adj"/></r></p></e>
-    <e><p><l>unendlich<s n="adj"/></l><r>onendlech<s n="adj"/></r></p></e>
-    <e><p><l>unterschiedlich<s n="adj"/></l><r>verschidden<s n="adj"/></r></p></e>
-    <e><p><l>verärgert<s n="adj"/></l><r>rosen<s n="adj"/></r></p></e>
-    <e><p><l>verloren<s n="adj"/></l><r>verluer<s n="adj"/></r></p></e>
-    <e><p><l>viel<s n="adj"/></l><r>vill<s n="adj"/></r></p></e>
-    <e><p><l>vorder<s n="adj"/></l><r>viischt<s n="adj"/></r></p></e>
-    <e><p><l>wahr<s n="adj"/></l><r>wouer<s n="adj"/></r></p></e>
-    <e><p><l>warm<s n="adj"/></l><r>waarm<s n="adj"/></r></p></e>
-    <e><p><l>weiblich<s n="adj"/></l><r>weiblech<s n="adj"/></r></p></e>
-    <e><p><l>wichtig<s n="adj"/></l><r>wichteg<s n="adj"/></r></p></e>
-    <e><p><l>zugänglich<s n="adj"/></l><r>accessibel<s n="adj"/></r></p></e>
+    <e><p><l>abgerundet<s n="adj"/><s n="sint"/></l><r>ronn<s n="adj"/></r></p></e>
+    <e><p><l>abstrakt<s n="adj"/><s n="sint"/></l><r>abstrakt<s n="adj"/></r></p></e>
+    <e><p><l>administrativ<s n="adj"/><s n="sint"/></l><r>administrativ<s n="adj"/></r></p></e>
+    <e><p><l>aggressiv<s n="adj"/><s n="sint"/></l><r>aggressiv<s n="adj"/></r></p></e>
+    <e><p><l>akademisch<s n="adj"/><s n="sint"/></l><r>akademesch<s n="adj"/></r></p></e>
+    <e><p><l>aktuell<s n="adj"/><s n="sint"/></l><r>aktuell<s n="adj"/></r></p></e>
+    <e><p><l>allein<s n="adj"/><s n="sint"/></l><r>eleng<s n="adj"/></r></p></e>
+    <e><p><l>allgemein<s n="adj"/><s n="sint"/></l><r>allgemeng<s n="adj"/></r></p></e>
+    <e><p><l>alt<s n="adj"/><s n="sint"/></l><r>al<s n="adj"/></r></p></e>
+    <e><p><l>andere<s n="adj"/><s n="sint"/></l><r>aner<s n="adj"/></r></p></e>
+    <e><p><l>anonym<s n="adj"/><s n="sint"/></l><r>anonym<s n="adj"/></r></p></e>
+    <e><p><l>antik<s n="adj"/><s n="sint"/></l><r>antik<s n="adj"/></r></p></e>
+    <e><p><l>arg<s n="adj"/><s n="sint"/></l><r>uerg<s n="adj"/></r></p></e>
+    <e><p><l>artistisch<s n="adj"/><s n="sint"/></l><r>artistesch<s n="adj"/></r></p></e>
+    <e><p><l>ausgestattet<s n="adj"/><s n="sint"/></l><r>ageriicht<s n="adj"/></r></p></e>
+    <e><p><l>äußere<s n="adj"/><s n="sint"/></l><r>baussenzeg<s n="adj"/></r></p></e>
+    <e><p><l>automatisch<s n="adj"/><s n="sint"/></l><r>automatesch<s n="adj"/></r></p></e>
+    <e><p><l>autonom<s n="adj"/><s n="sint"/></l><r>autonom<s n="adj"/></r></p></e>
+    <e><p><l>bekannt<s n="adj"/><s n="sint"/></l><r>bekannt<s n="adj"/></r></p></e>
+    <e><p><l>belgisch<s n="adj"/><s n="sint"/></l><r>belsch<s n="adj"/></r></p></e>
+    <e><p><l>bereit<s n="adj"/><s n="sint"/></l><r>prett<s n="adj"/></r></p></e>
+    <e><p><l>besonders<s n="adj"/><s n="sint"/></l><r>besonnesch<s n="adj"/></r></p></e>
+    <e><p><l>bestimmt<s n="adj"/><s n="sint"/></l><r>bestëmmt<s n="adj"/></r></p></e>
+    <e><p><l>betrunken<s n="adj"/><s n="sint"/></l><r>blo<s n="adj"/></r></p></e>
+    <e><p><l>betrunken<s n="adj"/><s n="sint"/></l><r>voll<s n="adj"/></r></p></e>
+    <e><p><l>biologisch<s n="adj"/><s n="sint"/></l><r>biologesch<s n="adj"/></r></p></e>
+    <e><p><l>bitter<s n="adj"/><s n="sint"/></l><r>batter<s n="adj"/></r></p></e>
+    <e><p><l>blind<s n="adj"/><s n="sint"/></l><r>blann<s n="adj"/></r></p></e>
+    <e><p><l>blutbefleckt<s n="adj"/><s n="sint"/></l><r>bluddeg<s n="adj"/></r></p></e>
+    <e><p><l>böse<s n="adj"/><s n="sint"/></l><r>béis<s n="adj"/></r></p></e>
+    <e><p><l>botanisch<s n="adj"/><s n="sint"/></l><r>botanesch<s n="adj"/></r></p></e>
+    <e><p><l>braun<s n="adj"/><s n="sint"/></l><r>brong<s n="adj"/></r></p></e>
+    <e><p><l>breit<s n="adj"/><s n="sint"/></l><r>breet<s n="adj"/></r></p></e>
+    <e><p><l>charakteristisch<s n="adj"/><s n="sint"/></l><r>charakteristesch<s n="adj"/></r></p></e>
+    <e><p><l>deutsch<s n="adj"/><s n="sint"/></l><r>däitsch<s n="adj"/></r></p></e>
+    <e><p><l>doppelt<s n="adj"/><s n="sint"/></l><r>duebel<s n="adj"/></r></p></e>
+    <e><p><l>dunkel<s n="adj"/><s n="sint"/></l><r>donkel<s n="adj"/></r></p></e>
+    <e><p><l>dünn<s n="adj"/><s n="sint"/></l><r>schmuel<s n="adj"/></r></p></e>
+    <e><p><l>durchsichtig<s n="adj"/><s n="sint"/></l><r>kloer<s n="adj"/></r></p></e>
+    <e><p><l>Ehemann<s n="adj"/><s n="sint"/></l><r>mann<s n="adj"/></r></p></e>
+    <e><p><l>eifersüchtig<s n="adj"/><s n="sint"/></l><r>jalous<s n="adj"/></r></p></e>
+    <e><p><l>eigen<s n="adj"/><s n="sint"/></l><r>eegen<s n="adj"/></r></p></e>
+    <e><p><l>einzelne<s n="adj"/><s n="sint"/></l><r>eenzel<s n="adj"/></r></p></e>
+    <e><p><l>einzig<s n="adj"/><s n="sint"/></l><r>eenzeg<s n="adj"/></r></p></e>
+    <e><p><l>endlich<s n="adj"/><s n="sint"/></l><r>endlech<s n="adj"/></r></p></e>
+    <e><p><l>englisch<s n="adj"/><s n="sint"/></l><r>englesch<s n="adj"/></r></p></e>
+    <e><p><l>eng<s n="adj"/><s n="sint"/></l><r>enk<s n="adj"/></r></p></e>
+    <e><p><l>erblich<s n="adj"/><s n="sint"/></l><r>ierflech<s n="adj"/></r></p></e>
+    <e><p><l>erledigt<s n="adj"/><s n="sint"/></l><r>futti<s n="adj"/></r></p></e>  <!-- (müde) -->
+<!--     <e><p><l>erwachsen<s n="adj"/><s n="sint"/></l><r>grouss<s n="adj"/></r></p></e> -->
+    <e><p><l>ethisch<s n="adj"/><s n="sint"/></l><r>ethesch<s n="adj"/></r></p></e>
+    <e><p><l>ethnisch<s n="adj"/><s n="sint"/></l><r>ethnesch<s n="adj"/></r></p></e>
+    <e><p><l>falsch<s n="adj"/><s n="sint"/></l><r>falsch<s n="adj"/></r></p></e>
+    <e><p><l>fein<s n="adj"/><s n="sint"/></l><r>reng<s n="adj"/></r></p></e>
+    <e><p><l>fest<s n="adj"/><s n="sint"/></l><r>fest<s n="adj"/></r></p></e>
+    <e><p><l>feucht<s n="adj"/><s n="sint"/></l><r>fiicht<s n="adj"/></r></p></e>
+    <e><p><l>fit<s n="adj"/><s n="sint"/></l><r>fit<s n="adj"/></r></p></e>
+    <e><p><l>flach<s n="adj"/><s n="sint"/></l><r>flaach<s n="adj"/></r></p></e>
+    <e><p><l>flach<s n="adj"/><s n="sint"/></l><r>platt<s n="adj"/></r></p></e>
+    <e><p><l>französisch<s n="adj"/><s n="sint"/></l><r>franséisch<s n="adj"/></r></p></e>
+    <e><p><l>frei<s n="adj"/><s n="sint"/></l><r>fräi<s n="adj"/></r></p></e>
+    <e><p><l>fremd<s n="adj"/><s n="sint"/></l><r>friem<s n="adj"/></r></p></e>
+    <e><p><l>froh<s n="adj"/><s n="sint"/></l><r>frou<s n="adj"/></r></p></e>
+    <e><p><l>ganz<s n="adj"/><s n="sint"/></l><r>ganz<s n="adj"/></r></p></e>
+    <e><p><l>gehaltlos<s n="adj"/><s n="sint"/></l><r>schwaach<s n="adj"/></r></p></e>
+    <e><p><l>geheim<s n="adj"/><s n="sint"/></l><r>geheim<s n="adj"/></r></p></e>
+    <e><p><l>geistig<s n="adj"/><s n="sint"/></l><r>geeschteg<s n="adj"/></r></p></e>
+    <e><p><l>geistig<s n="adj"/><s n="sint"/></l><r>geeschtlech<s n="adj"/></r></p></e>
+    <e><p><l>gelb<s n="adj"/><s n="sint"/></l><r>giel<s n="adj"/></r></p></e>
+    <e><p><l>genau<s n="adj"/><s n="sint"/></l><r>genee<s n="adj"/></r></p></e>
+    <e><p><l>gerade<s n="adj"/><s n="sint"/></l><r>riicht<s n="adj"/></r></p></e>
+    <e><p><l>gerecht<s n="adj"/><s n="sint"/></l><r>gerecht<s n="adj"/></r></p></e>
+    <e><p><l>gescheit<s n="adj"/><s n="sint"/></l><r>gescheit<s n="adj"/></r></p></e>
+    <e><p><l>geschlossen<s n="adj"/><s n="sint"/></l><r>zou<s n="adj"/></r></p></e>
+    <e><p><l>gesund<s n="adj"/><s n="sint"/></l><r>gesond<s n="adj"/></r></p></e>
+    <e><p><l>glatt<s n="adj"/><s n="sint"/></l><r>glat<s n="adj"/></r></p></e>
+    <e><p><l>grau<s n="adj"/><s n="sint"/></l><r>gro<s n="adj"/></r></p></e>
+    <e><p><l>griechisch<s n="adj"/><s n="sint"/></l><r>griichesch<s n="adj"/></r></p></e>
+    <e><p><l>grob<s n="adj"/><s n="sint"/></l><r>graff<s n="adj"/></r></p></e>
+    <e><p><l>gut<s n="adj"/><s n="sint"/></l><r>gutt<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>halb<s n="adj"/><s n="sint"/></l><r>hallef<s n="adj"/></r></p></e>
+    <e><p><l>hart<s n="adj"/><s n="sint"/></l><r>haart<s n="adj"/></r></p></e>
+    <e><p><l>heilig<s n="adj"/><s n="sint"/></l><r>helleg<s n="adj"/></r></p></e>
+    <e><p><l>hell<s n="adj"/><s n="sint"/></l><r>hell<s n="adj"/></r></p></e>
+    <e><p><l>hohl<s n="adj"/><s n="sint"/></l><r>huel<s n="adj"/></r></p></e>
+    <e><p><l>hübsch<s n="adj"/><s n="sint"/></l><r>flott<s n="adj"/></r></p></e>
+    <e><p><l>hügelig<s n="adj"/><s n="sint"/></l><r>hiwweleg<s n="adj"/></r></p></e>
+    <e><p><l>hydraulisch<s n="adj"/><s n="sint"/></l><r>hydraulesch<s n="adj"/></r></p></e>
+    <e><p><l>interessant<s n="adj"/><s n="sint"/></l><r>interessant<s n="adj"/></r></p></e>
+    <e><p><l>jung<s n="adj"/><s n="sint"/></l><r>jonk<s n="adj"/></r></p></e>
+    <e><p><l>kalt<s n="adj"/><s n="sint"/></l><r>kal<s n="adj"/></r></p></e>
+    <e><p><l>kalt<s n="adj"/><s n="sint"/></l><r>spatz<s n="adj"/></r></p></e>  <!-- (Wind) -->
+    <e><p><l>katholisch<s n="adj"/><s n="sint"/></l><r>kathoulesch<s n="adj"/></r></p></e>
+    <e><p><l>klassisch<s n="adj"/><s n="sint"/></l><r>klassesch<s n="adj"/></r></p></e>
+    <e><p><l>klein<s n="adj"/><s n="sint"/></l><r>kleng<s n="adj"/></r></p></e>
+    <e><p><l>komisch<s n="adj"/><s n="sint"/></l><r>komesch<s n="adj"/></r></p></e>
+    <e><p><l>komplett<s n="adj"/><s n="sint"/></l><r>komplett<s n="adj"/></r></p></e>
+    <e><p><l>korrekt<s n="adj"/><s n="sint"/></l><r>korrekt<s n="adj"/></r></p></e>
+    <e><p><l>krank<s n="adj"/><s n="sint"/></l><r>krank<s n="adj"/></r></p></e>
+    <e><p><l>kühl<s n="adj"/><s n="sint"/></l><r>kill<s n="adj"/></r></p></e>
+    <e><p><l>kurz<s n="adj"/><s n="sint"/></l><r>kuerz<s n="adj"/></r></p></e>
+    <e><p><l>langsam<s n="adj"/><s n="sint"/></l><r>lues<s n="adj"/></r></p></e>
+    <e><p><l>lang<s n="adj"/><s n="sint"/></l><r>laang<s n="adj"/></r></p></e>
+    <e><p><l>lebendig<s n="adj"/><s n="sint"/></l><r>lieweg<s n="adj"/></r></p></e>
+    <e><p><l>leer<s n="adj"/><s n="sint"/></l><r>eidel<s n="adj"/></r></p></e>
+    <e><p><l>leicht<s n="adj"/><s n="sint"/></l><r>liicht<s n="adj"/></r></p></e>
+    <e><p><l>letzt<s n="adj"/><s n="sint"/></l><r>lescht<s n="adj"/></r></p></e>
+    <e><p><l>links<s n="adj"/><s n="sint"/></l><r>lénks<s n="adj"/></r></p></e>
+    <e><p><l>locker<s n="adj"/><s n="sint"/></l><r>labber<s n="adj"/></r></p></e>
+    <e><p><l>Lokal<s n="adj"/><s n="sint"/></l><r>lokal<s n="adj"/></r></p></e>
+    <e><p><l>los<s n="adj"/><s n="sint"/></l><r>lass<s n="adj"/></r></p></e>
+    <e><p><l>luxemburgisch<s n="adj"/><s n="sint"/></l><r>lëtzebuergesch<s n="adj"/></r></p></e>
+    <e><p><l>matt<s n="adj"/><s n="sint"/></l><r>matt<s n="adj"/></r></p></e>
+    <e><p><l>männlich<s n="adj"/><s n="sint"/></l><r>männlech<s n="adj"/></r></p></e>
+    <e><p><l>müde<s n="adj"/><s n="sint"/></l><r>midd<s n="adj"/></r></p></e>
+    <e><p><l>nah<s n="adj"/><s n="sint"/></l><r>no<s n="adj"/></r></p></e>
+    <e><p><l>nass<s n="adj"/><s n="sint"/></l><r>naass<s n="adj"/></r></p></e>
+    <e><p><l>natürlich<s n="adj"/><s n="sint"/></l><r>natierlech<s n="adj"/></r></p></e>
+    <e><p><l>neblig<s n="adj"/><s n="sint"/></l><r>niwweleg<s n="adj"/></r></p></e>
+    <e><p><l>neu<s n="adj"/><s n="sint"/></l><r>nei<s n="adj"/></r></p></e>
+    <e><p><l>niedrig<s n="adj"/><s n="sint"/></l><r>niddereg<s n="adj"/></r></p></e>
+    <e><p><l>oberst<s n="adj"/><s n="sint"/></l><r>iewescht<s n="adj"/></r></p></e>
+    <e><p><l>offen<s n="adj"/><s n="sint"/></l><r>oppen<s n="adj"/></r></p></e>
+    <e><p><l>ordentlich<s n="adj"/><s n="sint"/></l><r>propper<s n="adj"/></r></p></e>
+    <e><p><l>periodisch<s n="adj"/><s n="sint"/></l><r>periodesch<s n="adj"/></r></p></e>
+    <e><p><l>real<s n="adj"/><s n="sint"/></l><r>wierklech<s n="adj"/></r></p></e>
+    <e><p><l>rechts<s n="adj"/><s n="sint"/></l><r>riets<s n="adj"/></r></p></e>
+    <e><p><l>regelmäßig<s n="adj"/><s n="sint"/></l><r>regelméisseg<s n="adj"/></r></p></e>
+    <e><p><l>reif<s n="adj"/><s n="sint"/></l><r>zeideg<s n="adj"/></r></p></e>
+    <e><p><l>rosa<s n="adj"/><s n="sint"/></l><r>rosa<s n="adj"/></r></p></e>
+    <e><p><l>rot<s n="adj"/><s n="sint"/></l><r>rout<s n="adj"/></r></p></e>
+    <e><p><l>ruhig<s n="adj"/><s n="sint"/></l><r>roueg<s n="adj"/></r></p></e>
+    <e><p><l>sächlich<s n="adj"/><s n="sint"/></l><r>sächlech<s n="adj"/></r></p></e>
+    <e><p><l>sanft<s n="adj"/><s n="sint"/></l><r>duuss<s n="adj"/></r></p></e>
+    <e><p><l>sauer<s n="adj"/><s n="sint"/></l><r>sauer<s n="adj"/></r></p></e>
+    <e><p><l>schief<s n="adj"/><s n="sint"/></l><r>queesch<s n="adj"/></r></p></e>
+    <e><p><l>schlecht<s n="adj"/><s n="sint"/></l><r>schlecht<s n="adj"/></r></p></e>
+    <e><p><l>schnell<s n="adj"/><s n="sint"/></l><r>schnell<s n="adj"/></r></p></e>
+    <e><p><l>schön<s n="adj"/><s n="sint"/></l><r>schéin<s n="adj"/></r></p></e>
+    <e><p><l>schwarz<s n="adj"/><s n="sint"/></l><r>schwaarz<s n="adj"/></r></p></e>
+    <e><p><l>spanisch<s n="adj"/><s n="sint"/></l><r>spuenesch<s n="adj"/></r></p></e>
+    <e><p><l>sportlich<s n="adj"/><s n="sint"/></l><r>sportlech<s n="adj"/></r></p></e>
+    <e><p><l>stark<s n="adj"/><s n="sint"/></l><r>staark<s n="adj"/></r></p></e>
+    <e><p><l>teuer<s n="adj"/><s n="sint"/></l><r>deier<s n="adj"/></r></p></e>
+    <e><p><l>tot<s n="adj"/><s n="sint"/></l><r>dout<s n="adj"/></r></p></e>
+    <e><p><l>unendlich<s n="adj"/><s n="sint"/></l><r>onendlech<s n="adj"/></r></p></e>
+    <e><p><l>unterschiedlich<s n="adj"/><s n="sint"/></l><r>verschidden<s n="adj"/></r></p></e>
+    <e><p><l>verärgert<s n="adj"/><s n="sint"/></l><r>rosen<s n="adj"/></r></p></e>
+    <e><p><l>verloren<s n="adj"/><s n="sint"/></l><r>verluer<s n="adj"/></r></p></e>
+    <e><p><l>viel<s n="adj"/><s n="sint"/></l><r>vill<s n="adj"/></r></p></e>
+    <e><p><l>vorder<s n="adj"/><s n="sint"/></l><r>viischt<s n="adj"/></r></p></e>
+    <e><p><l>wahr<s n="adj"/><s n="sint"/></l><r>wouer<s n="adj"/></r></p></e>
+    <e><p><l>warm<s n="adj"/><s n="sint"/></l><r>waarm<s n="adj"/></r></p></e>
+    <e><p><l>weiblich<s n="adj"/><s n="sint"/></l><r>weiblech<s n="adj"/></r></p></e>
+    <e><p><l>wichtig<s n="adj"/><s n="sint"/></l><r>wichteg<s n="adj"/></r></p></e>
+    <e><p><l>zugänglich<s n="adj"/><s n="sint"/></l><r>accessibel<s n="adj"/></r></p></e>
 
-    <e><p><l>spät<s n="adj"/></l><r>spéit<s n="adj"/></r></p></e>
-    <e><p><l>relativ<s n="adj"/></l><r>relativ<s n="adj"/></r></p></e>
-    <e><p><l>offiziell<s n="adj"/></l><r>offiziell<s n="adj"/></r></p></e>
-    <e><p><l>einfach<s n="adj"/></l><r>einfach<s n="adj"/></r></p></e>
-    <e><p><l>national<s n="adj"/></l><r>national<s n="adj"/></r></p></e>
-    <e><p><l>visuell<s n="adj"/></l><r>visuell<s n="adj"/></r></p></e>
-    <e><p><l>politisch<s n="adj"/></l><r>politesch<s n="adj"/></r></p></e>
-    <e><p><l>möglich<s n="adj"/></l><r>méiglech<s n="adj"/></r></p></e>
-    <e><p><l>südlich<s n="adj"/></l><r>südlech<s n="adj"/></r></p></e>
-    <e><p><l>nördlich<s n="adj"/></l><r>nërdlech<s n="adj"/></r></p></e>
-    <e><p><l>aktiv<s n="adj"/></l><r>aktiv<s n="adj"/></r></p></e>
-    <e><p><l>international<s n="adj"/></l><r>international<s n="adj"/></r></p></e>
-    <e><p><l>europäisch<s n="adj"/></l><r>europäesch<s n="adj"/></r></p></e>
-    <e><p><l>fertig<s n="adj"/></l><r>fäerdeg<s n="adj"/></r></p></e>
-    <e><p><l>speziell<s n="adj"/></l><r>speziell<s n="adj"/></r></p></e>
-    <e><p><l>italienisch<s n="adj"/></l><r>italienesch<s n="adj"/></r></p></e>
-    <e><p><l>praktisch<s n="adj"/></l><r>praktesch<s n="adj"/></r></p></e>
-    <e><p><l>hoch<s n="adj"/></l><r>héich<s n="adj"/></r></p></e>
-    <e><p><l>gleichzeitig<s n="adj"/></l><r>gläichzäiteg<s n="adj"/></r></p></e>
-    <e><p><l>richtig<s n="adj"/></l><r>richteg<s n="adj"/></r></p></e>
-    <e><p><l>westlich<s n="adj"/></l><r>westlech<s n="adj"/></r></p></e>
-    <e><p><l>amerikanisch<s n="adj"/></l><r>amerikanesch<s n="adj"/></r></p></e>
-    <e><p><l>zusätzlich<s n="adj"/></l><r>zousätzlech<s n="adj"/></r></p></e>
-    <e><p><l>europäisch<s n="adj"/></l><r>europäesch<s n="adj"/></r></p></e>
-    <e><p><l>weltweit<s n="adj"/></l><r>weltwäit<s n="adj"/></r></p></e>
-    <e><p><l>östlich<s n="adj"/></l><r>ëstlech<s n="adj"/></r></p></e>
-    <e><p><l>eigenständig<s n="adj"/></l><r>eegestänneg<s n="adj"/></r></p></e>
-    <e><p><l>öffentlich<s n="adj"/></l><r>ëffentlech<s n="adj"/></r></p></e>
-    <e><p><l>definitiv<s n="adj"/></l><r>definitiv<s n="adj"/></r></p></e>
+    <e><p><l>spät<s n="adj"/><s n="sint"/></l><r>spéit<s n="adj"/></r></p></e>
+    <e><p><l>relativ<s n="adj"/><s n="sint"/></l><r>relativ<s n="adj"/></r></p></e>
+    <e><p><l>offiziell<s n="adj"/><s n="sint"/></l><r>offiziell<s n="adj"/></r></p></e>
+    <e><p><l>einfach<s n="adj"/><s n="sint"/></l><r>einfach<s n="adj"/></r></p></e>
+    <e><p><l>national<s n="adj"/><s n="sint"/></l><r>national<s n="adj"/></r></p></e>
+    <e><p><l>visuell<s n="adj"/><s n="sint"/></l><r>visuell<s n="adj"/></r></p></e>
+    <e><p><l>politisch<s n="adj"/><s n="sint"/></l><r>politesch<s n="adj"/></r></p></e>
+    <e><p><l>möglich<s n="adj"/><s n="sint"/></l><r>méiglech<s n="adj"/></r></p></e>
+    <e><p><l>südlich<s n="adj"/><s n="sint"/></l><r>südlech<s n="adj"/></r></p></e>
+    <e><p><l>nördlich<s n="adj"/><s n="sint"/></l><r>nërdlech<s n="adj"/></r></p></e>
+    <e><p><l>aktiv<s n="adj"/><s n="sint"/></l><r>aktiv<s n="adj"/></r></p></e>
+    <e><p><l>international<s n="adj"/><s n="sint"/></l><r>international<s n="adj"/></r></p></e>
+    <e><p><l>europäisch<s n="adj"/><s n="sint"/></l><r>europäesch<s n="adj"/></r></p></e>
+    <e><p><l>fertig<s n="adj"/><s n="sint"/></l><r>fäerdeg<s n="adj"/></r></p></e>
+    <e><p><l>speziell<s n="adj"/><s n="sint"/></l><r>speziell<s n="adj"/></r></p></e>
+    <e><p><l>italienisch<s n="adj"/><s n="sint"/></l><r>italienesch<s n="adj"/></r></p></e>
+    <e><p><l>praktisch<s n="adj"/><s n="sint"/></l><r>praktesch<s n="adj"/></r></p></e>
+    <e><p><l>hoch<s n="adj"/><s n="sint"/></l><r>héich<s n="adj"/></r></p></e>
+    <e><p><l>gleichzeitig<s n="adj"/><s n="sint"/></l><r>gläichzäiteg<s n="adj"/></r></p></e>
+    <e><p><l>richtig<s n="adj"/><s n="sint"/></l><r>richteg<s n="adj"/></r></p></e>
+    <e><p><l>westlich<s n="adj"/><s n="sint"/></l><r>westlech<s n="adj"/></r></p></e>
+    <e><p><l>amerikanisch<s n="adj"/><s n="sint"/></l><r>amerikanesch<s n="adj"/></r></p></e>
+    <e><p><l>zusätzlich<s n="adj"/><s n="sint"/></l><r>zousätzlech<s n="adj"/></r></p></e>
+    <e><p><l>europäisch<s n="adj"/><s n="sint"/></l><r>europäesch<s n="adj"/></r></p></e>
+    <e><p><l>weltweit<s n="adj"/><s n="sint"/></l><r>weltwäit<s n="adj"/></r></p></e>
+    <e><p><l>östlich<s n="adj"/><s n="sint"/></l><r>ëstlech<s n="adj"/></r></p></e>
+    <e><p><l>eigenständig<s n="adj"/><s n="sint"/></l><r>eegestänneg<s n="adj"/></r></p></e>
+    <e><p><l>öffentlich<s n="adj"/><s n="sint"/></l><r>ëffentlech<s n="adj"/></r></p></e>
+    <e><p><l>definitiv<s n="adj"/><s n="sint"/></l><r>definitiv<s n="adj"/></r></p></e>
 
 
 <!-- SECTION: Verbs -->
@@ -924,6 +925,9 @@
     <e><p><l>Schiff<s n="n"/><s n="nt"/></l><r>Schëff<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Kanton<s n="n"/><s n="m"/></l><r>Canton<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Mitglied<s n="n"/><s n="nt"/></l><r>Member<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Webseite<s n="n"/><s n="f"/></l><r>Websäit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Hauptverb<s n="n"/><s n="nt"/></l><r>Haaptverb<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Modalverb<s n="n"/><s n="nt"/></l><r>Modalverb<s n="n"/><s n="nt"/></r></p></e>
 
     <!-- nouns from ltz-deu.txt, sorted by right side to ease finding implausible translations -->
 
