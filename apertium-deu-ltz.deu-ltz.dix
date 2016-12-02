@@ -48,6 +48,7 @@
     <sdef n="percent" 	c="Percentage"/> 
     <sdef n="apos" 	c="Apostrophe"/> 
     <sdef n="abbr" 	c="Abbreviation"/> 
+    <sdef n="ij" 	c="Interjection"/> 
   </sdefs>
 
   <section id="main" type="standard">
@@ -70,13 +71,14 @@
     <e><p><l>es<s n="prn"/></l><r>hatt<s n="prn"/></r></p></e>
     <e><p><l>wir<s n="prn"/></l><r>mir<s n="prn"/></r></p></e>
     <e><p><l>ihr<s n="prn"/></l><r>dir<s n="prn"/></r></p></e>
-    <e><p><l>sie<s n="prn"/></l><r>si<s n="prn"/></r></p></e>
+    <!--<e><p><l>sie<s n="prn"/></l><r>si<s n="prn"/></r></p></e>-->
     
     <e><p><l>sich<s n="prn"/></l><r>sech<s n="prn"/></r></p></e>
     
     <e><p><l>dies<s n="prn"/></l><r>dësen<s n="prn"/></r></p></e>
-    <e><p><l>was<s n="rel"/></l><r>wat<s n="rel"/></r></p></e>
+    <e><p><l>jedermann<s n="prn"/></l><r>jiddereen<s n="prn"/></r></p></e>
     <e><p><l>was<s n="prn"/></l><r>wat<s n="prn"/></r></p></e>
+    <e><p><l>was<s n="rel"/></l><r>wat<s n="rel"/></r></p></e>
 
     <e><p><l>werden<s n="vaux"/></l><r>ginn<s n="vaux"/></r></p></e>
     <e><p><l>sein<s n="vbser"/></l><r>sinn<s n="vbser"/></r></p></e>
@@ -99,6 +101,7 @@
     <e><p><l>für<s n="pr"/></l><r>fir<s n="pr"/></r></p></e>
     <e><p><l>gegen<s n="pr"/></l><r>géint<s n="pr"/></r></p></e>
     <e><p><l>gegen<s n="pr"/></l><r>widder<s n="pr"/></r></p></e>
+    <e><p><l>gegen<s n="pr"/></l><r>ëm<s n="pr"/></r></p></e>
     <e><p><l>gegenüber<s n="pr"/></l><r>géintiwwer<s n="pr"/></r></p></e>
     <e><p><l>hinter<s n="pr"/></l><r>hanner<s n="pr"/></r></p></e>
     <e><p><l>in<s n="pr"/></l><r>an<s n="pr"/></r></p></e>
@@ -121,6 +124,8 @@
     <e><p><l>wegen<s n="pr"/></l><r>wéint<s n="pr"/></r></p></e>
     <e><p><l>zu<s n="pr"/></l><r>ze<s n="pr"/></r></p></e>
     <e><p><l>zu<s n="pr"/></l><r>zu<s n="pr"/></r></p></e>
+    <e><p><l>zu<s n="pr"/></l><r>bei<s n="pr"/></r></p></e>
+    <e><p><l>zum<s n="pr"/></l><r>bei<s n="pr"/></r></p></e>
     <e><p><l>zwischen<s n="pr"/></l><r>tëschen<s n="pr"/></r></p></e>
     <e><p><l>zwischen<s n="pr"/></l><r>tëschent<s n="pr"/></r></p></e>
     <e><p><l>zwischen<s n="pr"/></l><r>tëscht<s n="pr"/></r></p></e>
@@ -144,6 +149,7 @@
 
     <e><p><l>null<s n="num"/></l><r>null<s n="num"/></r></p></e>
     <e><p><l>ein<s n="num"/></l><r>een<s n="num"/></r></p></e>
+    <e><p><l>eins<s n="num"/></l><r>eent<s n="num"/></r></p></e>
     <e><p><l>zwei<s n="num"/></l><r>zwee<s n="num"/></r></p></e>
     <e><p><l>drei<s n="num"/></l><r>dräi<s n="num"/></r></p></e>
     <e><p><l>vier<s n="num"/></l><r>véier<s n="num"/></r></p></e>
@@ -373,6 +379,10 @@
     <e><p><l>zu<s n="adv"/></l><r>ze<s n="adv"/></r></p></e>
     <e><p><l>zweimal<s n="adv"/></l><r>zweemol<s n="adv"/></r></p></e>
 
+    <e><p><l>draussen<s n="adv"/></l><r>baussen<s n="adv"/></r></p></e>
+    <e><p><l>irgendwo<s n="adv"/></l><r>iergendwou<s n="adv"/></r></p></e>
+    <e><p><l>wie<b/>viel<s n="adv"/></l><r>wéi<b/>vill<s n="adv"/></r></p></e>
+
 
 <!-- SECTION: Adjectives -->
 
@@ -564,6 +574,31 @@
     <e><p><l>eigenständig<s n="adj"/><s n="sint"/></l><r>eegestänneg<s n="adj"/></r></p></e>
     <e><p><l>öffentlich<s n="adj"/><s n="sint"/></l><r>ëffentlech<s n="adj"/></r></p></e>
     <e><p><l>definitiv<s n="adj"/><s n="sint"/></l><r>definitiv<s n="adj"/></r></p></e>
+
+    <e><p><l>akribisch<s n="adj"/><s n="sint"/></l><r>akribesch<s n="adj"/></r></p></e>
+    <e><p><l>angenehm<s n="adj"/><s n="sint"/></l><r>agreabel<s n="adj"/></r></p></e>
+    <e><p><l>anmutig<s n="adj"/><s n="sint"/></l><r>agreabel<s n="adj"/></r></p></e>
+    <e><p><l>bejahrt<s n="adj"/><s n="sint"/></l><r>al<s n="adj"/></r></p></e>
+    <e><p><l>beschwerlich<s n="adj"/><s n="sint"/></l><r>beschwéiert<s n="adj"/></r></p></e>
+    <e><p><l>bleifrei<s n="adj"/><s n="sint"/></l><r>bläifräi<s n="adj"/></r></p></e>
+    <e><p><l>ehemalig<s n="adj"/><s n="sint"/></l><r>al<s n="adj"/></r></p></e>
+    <e><p><l>ehrlich<s n="adj"/><s n="sint"/></l><r>éierlech<s n="adj"/></r></p></e>
+    <e><p><l>eine<s n="adj"/><s n="sint"/></l><r>eng<s n="adj"/></r></p></e>
+    <e><p><l>einstig<s n="adj"/><s n="sint"/></l><r>al<s n="adj"/></r></p></e>
+    <e><p><l>farbenblind<s n="adj"/><s n="sint"/></l><r>faarweblann<s n="adj"/></r></p></e>
+    <e><p><l>faul<s n="adj"/><s n="sint"/></l><r>liddereg<s n="adj"/></r></p></e>
+    <e><p><l>flächsen<s n="adj"/><s n="sint"/></l><r>fluesseg<s n="adj"/></r></p></e>
+    <e><p><l>flachsfarben<s n="adj"/><s n="sint"/></l><r>fluesseg<s n="adj"/></r></p></e>
+    <e><p><l>gefällig<s n="adj"/><s n="sint"/></l><r>agreabel<s n="adj"/></r></p></e>
+    <e><p><l>korpulent<s n="adj"/><s n="sint"/></l><r>dëmpeg<s n="adj"/></r></p></e>
+    <e><p><l>niedlich<s n="adj"/><s n="sint"/></l><r>ëmpeg<s n="adj"/></r></p></e>
+    <e><p><l>schlank<s n="adj"/><s n="sint"/></l><r>ëmpeg<s n="adj"/></r></p></e>
+    <e><p><l>schnurstracks<s n="adj"/><s n="sint"/></l><r>stracks<s n="adj"/></r></p></e>
+    <e><p><l>schwer<s n="adj"/><s n="sint"/></l><r>schwéier<s n="adj"/></r></p></e>
+    <e><p><l>steil<s n="adj"/><s n="sint"/></l><r>géi<s n="adj"/></r></p></e>
+    <e><p><l>taub<s n="adj"/><s n="sint"/></l><r>daf<s n="adj"/></r></p></e>
+    <e><p><l>verantwortlich<s n="adj"/><s n="sint"/></l><r>verantwortlech<s n="adj"/></r></p></e>
+    <e><p><l>zierlich<s n="adj"/><s n="sint"/></l><r>ëmpeg<s n="adj"/></r></p></e>
 
 
 <!-- SECTION: Verbs -->
@@ -851,18 +886,52 @@
     <e><p><l>zeigen<s n="vblex"/></l><r>weisen<s n="vblex"/></r></p></e>
     <e><p><l>zusammenleben<s n="vblex"/><s n="sep"/></l><r>kummeren<s n="vblex"/></r></p></e>
 
+    <e><p><l>akkreditieren<s n="vblex"/></l><r>accreditéieren<s n="vblex"/></r></p></e>
+    <e><p><l>antworten<s n="vblex"/></l><r>astoen<s n="vblex"/></r></p></e>
+    <e><p><l>ärgern<s n="vblex"/></l><r>iergeren<s n="vblex"/></r></p></e>
+    <e><p><l>beitragen<s n="vblex"/></l><r>bäidroen<s n="vblex"/></r></p></e>
+    <e><p><l>beizen<s n="vblex"/></l><r>beezen<s n="vblex"/></r></p></e>
+    <e><p><l>beseitigen<s n="vblex"/></l><r>ofraumen<s n="vblex"/></r></p></e>
+    <e><p><l>bürgen<s n="vblex"/></l><r>biergen<s n="vblex"/></r></p></e>
+    <e><p><l>dengeln<s n="vblex"/></l><r>dengelen<s n="vblex"/></r></p></e>
+    <e><p><l>einbinden<s n="vblex"/></l><r>abannen<s n="vblex"/></r></p></e>
+    <e><p><l>fischen<s n="vblex"/></l><r>fëschen<s n="vblex"/></r></p></e>
+    <e><p><l>fliegen<s n="vblex"/></l><r>fléien<s n="vblex"/></r></p></e>
+    <e><p><l>gaffen<s n="vblex"/></l><r>afen<s n="vblex"/></r></p></e>
+    <e><p><l>häkeln<s n="vblex"/></l><r>heekelen<s n="vblex"/></r></p></e>
+    <e><p><l>haschieren<s n="vblex"/></l><r>hachéieren<s n="vblex"/></r></p></e>
+    <e><p><l>häufeln<s n="vblex"/></l><r>heefen<s n="vblex"/></r></p></e>
+    <e><p><l>helfen<s n="vblex"/></l><r>hëllefen<s n="vblex"/></r></p></e>
+    <e><p><l>hüsteln<s n="vblex"/></l><r>hemmssen<s n="vblex"/></r></p></e>
+    <e><p><l>knurren<s n="vblex"/></l><r>grommelen<s n="vblex"/></r></p></e>
+    <e><p><l>kochen<s n="vblex"/></l><r>kachen<s n="vblex"/></r></p></e>
+    <e><p><l>küssen<s n="vblex"/></l><r>këssen<s n="vblex"/></r></p></e>
+    <e><p><l>marinieren<s n="vblex"/></l><r>abeezen<s n="vblex"/></r></p></e>
+    <e><p><l>mithelfen<s n="vblex"/></l><r>mathëllefen<s n="vblex"/></r></p></e>
+    <e><p><l>motzen<s n="vblex"/></l><r>motzen<s n="vblex"/></r></p></e>
+    <e><p><l>säumen<s n="vblex"/></l><r>seemen<s n="vblex"/></r></p></e>
+    <e><p><l>schlingern<s n="vblex"/></l><r>schléngeren<s n="vblex"/></r></p></e>
+    <e><p><l>schmieren<s n="vblex"/></l><r>schmieren<s n="vblex"/></r></p></e>
+    <e><p><l>schmirgeln<s n="vblex"/></l><r>schmiergelen<s n="vblex"/></r></p></e>
+    <e><p><l>schmollen<s n="vblex"/></l><r>motzen<s n="vblex"/></r></p></e>
+    <e><p><l>schwimmen<s n="vblex"/></l><r>schwammen<s n="vblex"/></r></p></e>
+    <e><p><l>taugen<s n="vblex"/></l><r>daachen<s n="vblex"/></r></p></e>
+    <e><p><l>verfälschen<s n="vblex"/></l><r>verfälschen<s n="vblex"/></r></p></e>
+    <e><p><l>verzapfen<s n="vblex"/></l><r>verzapen<s n="vblex"/></r></p></e>
+    <e><p><l>verzaubern<s n="vblex"/></l><r>verzauberen<s n="vblex"/></r></p></e>
+    <e><p><l>weinen<s n="vblex"/></l><r>kräischen<s n="vblex"/></r></p></e>
+    <e><p><l>wollen<s n="vblex"/></l><r>wëllen<s n="vblex"/></r></p></e>
+    <e><p><l>zapfen<s n="vblex"/></l><r>zapen<s n="vblex"/></r></p></e>
+    <e><p><l>zechen<s n="vblex"/></l><r>sippen<s n="vblex"/></r></p></e>
+
 
 <!-- SECTION: Nouns -->
 
     <e><p><l>Ende<s n="n"/><s n="nt"/></l><r>Enn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Frau<s n="n"/><s n="f"/></l><r>Fra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>Haus<s n="n"/><s n="nt"/></l><r>Haus<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>Kuchen<s n="n"/><s n="m"/></l><r>Kuch<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>Mädchen<s n="n"/><s n="nt"/></l><r>Meedchen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Mann<s n="n"/><s n="m"/></l><r>Mann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Mehrzahl<s n="n"/><s n="f"/></l><r>Méizuel<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Position<s n="n"/><s n="f"/></l><r>Positioun<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>Satz<s n="n"/><s n="m"/></l><r>Saz<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Seite<s n="n"/><s n="f"/></l><r>Säit<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>Departement<s n="n"/><s n="nt"/></l><r>Departement<s n="n"/><s n="nt"/></r></p></e>
@@ -2135,6 +2204,389 @@
     <e><p><l>Zweifel<s n="n"/><s n="m"/></l><r>Zweiwel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Zwerg<s n="n"/><s n="m"/></l><r>Zwerg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Zylinder<s n="n"/><s n="m"/></l><r>Zylinder<s n="n"/><s n="m"/></r></p></e>
+
+    <e><p><l>Aal<s n="n"/><s n="m"/></l><r>Éil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Aasfliege<s n="n"/><s n="f"/></l><r>Fleeschméck<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Abdecker<s n="n"/><s n="m"/></l><r>Schënner<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Aberglaube<s n="n"/><s n="m"/></l><r>Awerglawen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Abfalleimer<s n="n"/><s n="m"/></l><r>Dreckseemer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Abfalltonne<s n="n"/><s n="f"/></l><r>Poubelle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Abkühlgitter<s n="n"/><s n="nt"/></l><r>Huert<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Ablass<s n="n"/><s n="m"/></l><r>Ablass<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Absatz<s n="n"/><s n="m"/></l><r>Tallongsschong<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Absatz<s n="n"/><s n="m"/></l><r>Talleksschong<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Absatz<s n="n"/><s n="m"/></l><r>Tallek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Absatz<s n="n"/><s n="m"/></l><r>Tallong<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Abstraktion<s n="n"/><s n="f"/></l><r>Abstraktioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Abziehbild<s n="n"/><s n="nt"/></l><r>Abzebild<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Abziehbild<s n="n"/><s n="nt"/></l><r>Autocollant<s n="n"/></r></p></e>
+    <e><p><l>Abziehbild<s n="n"/><s n="nt"/></l><r>Pechbild<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Achter<s n="n"/><s n="m"/></l><r>Aachtchen<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Akkordeonist<s n="n"/><s n="m"/></l><r>Akkordeonist<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Allerheiligen<s n="n"/><s n="nt"/></l><r>Allerhellgen<s n="n"/></r></p></e>
+    <e><p><l>Ampel<s n="n"/><s n="f"/></l><r>Verkéiersluuchten<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Amsel<s n="n"/><s n="f"/></l><r>Märel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Analphabet<s n="n"/><s n="m"/></l><r>Analphabet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Angel<s n="n"/><s n="f"/></l><r>Aangel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Angelhaken<s n="n"/><s n="m"/></l><r>Fëschkreepchen<s n="n"/></r></p></e>
+    <e><p><l>Antwort<s n="n"/><s n="f"/></l><r>Äntwert<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>April<s n="n"/><s n="m"/></l><r>Ouschtermount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Arbeitskollege<s n="n"/><s n="m"/></l><r>Aarbechtskolleg<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Arbeitskontrakt<s n="n"/><s n="m"/></l><r>Aarbechtskontrakt<s n="n"/></r></p></e>
+    <e><p><l>Arm<s n="n"/><s n="m"/></l><r>Aarm<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Armband<s n="n"/><s n="nt"/></l><r>Brasseli<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Armband<s n="n"/><s n="nt"/></l><r>Bracelet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Armut<s n="n"/><s n="f"/></l><r>Aarmut<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Assamesisch<s n="n"/><s n="nt"/></l><r>Assamitesch<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Atom<s n="n"/><s n="nt"/></l><r>Atom<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Attentat<s n="n"/><s n="nt"/></l><r>Attentat<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Aufkleber<s n="n"/><s n="m"/></l><r>Autocollant<s n="n"/></r></p></e>
+    <e><p><l>Aufkleber<s n="n"/><s n="m"/></l><r>Abzebild<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Aufkleber<s n="n"/><s n="m"/></l><r>Pechbild<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Auge<s n="n"/><s n="nt"/></l><r>A<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Augenarzt<s n="n"/><s n="m"/></l><r>Aendokter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>August<s n="n"/><s n="m"/></l><r>Karschnatz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Ausrufezeichen<s n="n"/><s n="nt"/></l><r>Ausruffzeechen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Automobilzivilisation<s n="n"/><s n="f"/></l><r>Autoszivilisatioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Axt<s n="n"/><s n="f"/></l><r>Aaxt<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Baby<s n="n"/><s n="nt"/></l><r>Puppelchen<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Bandscheibe<s n="n"/><s n="f"/></l><r>Bandscheif<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Bäuchlein<s n="n"/><s n="m"/></l><r>Bäichelchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Beglaubigung<s n="n"/><s n="f"/></l><r>Accreditatioun<s n="n"/></r></p></e>
+    <e><p><l>Bergahorn<s n="n"/><s n="m"/></l><r>Aaschtert<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Bier<s n="n"/><s n="nt"/></l><r>Béier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Blättchen<s n="n"/><s n="nt"/></l><r>Blietchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Blei<s n="n"/><s n="nt"/></l><r>Bläi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Bleistift<s n="n"/><s n="m"/></l><r>Bläistëft<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Bomber<s n="n"/><s n="m"/></l><r>Bommefliger<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Bonbon<s n="n"/><s n="nt"/></l><r>Kamell<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Bonbon<s n="n"/><s n="nt"/></l><r>Zockerboun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Bonbon<s n="n"/><s n="nt"/></l><r>Bonbon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Briefkasten<s n="n"/><s n="m"/></l><r>Bréifkëscht<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Brieftasche<s n="n"/><s n="nt"/></l><r>Portefeuille<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Brotschieber<s n="n"/><s n="m"/></l><r>Broutschéiss<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Brücke<s n="n"/><s n="f"/></l><r>Bréck<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Bübchen<s n="n"/><s n="nt"/></l><r>Béifchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Buchecker<s n="n"/><s n="f"/></l><r>Aker<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Chorgestühl<s n="n"/><s n="nt"/></l><r>Ställercher<s n="n"/></r></p></e>
+    <e><p><l>Daumen<s n="n"/><s n="m"/></l><r>Domm<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Deutsch<s n="n"/><s n="nt"/></l><r>Däitsch<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Dezember<s n="n"/><s n="m"/></l><r>Chrëschtmount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Dohle<s n="n"/><s n="f"/></l><r>Metzer<b/>Kueb<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Drache<s n="n"/><s n="m"/></l><r>Draach<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Dreschmaschine<s n="n"/><s n="f"/></l><r>Dreschmaschinn<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Dummkopf<s n="n"/><s n="m"/></l><r>Dommen<s n="n"/></r></p></e>
+    <e><p><l>Dunkelheit<s n="n"/><s n="f"/></l><r>Däischtert<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Dunkelheit<s n="n"/><s n="f"/></l><r>Donkelheet<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Egge<s n="n"/><s n="f"/></l><r>Éig<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Eichhörnchen<s n="n"/><s n="nt"/></l><r>Kaweechelchen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Einstecktuch<s n="n"/><s n="nt"/></l><r>Pochette<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Einweihung<s n="n"/><s n="f"/></l><r>Inauguratioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Eis<s n="n"/><s n="nt"/></l><r>Glace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Eisbär<s n="n"/><s n="m"/></l><r>Äisbier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Eiscreme<s n="n"/><s n="f"/></l><r>Glace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Eishockey<s n="n"/><s n="nt"/></l><r>Äishockey<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Elsbeere<s n="n"/><s n="f"/></l><r>Elsbier<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Emirat<s n="n"/><s n="nt"/></l><r>Emirat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Enthaltung<s n="n"/><s n="f"/></l><r>Abstentioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Erdbeere<s n="n"/><s n="f"/></l><r>Äerdbier<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Erdkunde<s n="n"/><s n="f"/></l><r>Geographie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Eule<s n="n"/><s n="f"/></l><r>Échel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Eule<s n="n"/><s n="f"/></l><r>Eil<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Europäische<b/>Union<s n="n"/><s n="f"/></l><r>Europäesch<b/>Unioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fabrik<s n="n"/><s n="f"/></l><r>Fabréck<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fähre<s n="n"/><s n="f"/></l><r>Fär<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fahrrad<s n="n"/><s n="nt"/></l><r>Vëlo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Fahrradklingel<s n="n"/><s n="f"/></l><r>Vëlosschell<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Färse<s n="n"/><s n="f"/></l><r>Kälwin<s n="n"/></r></p></e>
+    <e><p><l>Färse<s n="n"/><s n="f"/></l><r>Kälwen<s n="n"/></r></p></e>
+    <e><p><l>Februar<s n="n"/><s n="m"/></l><r>Spierkel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Fels<s n="n"/><s n="m"/></l><r>Fiels<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Fenster<s n="n"/><s n="nt"/></l><r>Fënster<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fernseher<s n="n"/><s n="m"/></l><r>Tëlee<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fernseher<s n="n"/><s n="nt"/></l><r>Fernseh<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Festplatte<s n="n"/><s n="f"/></l><r>Festplack<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Feuerbohne<s n="n"/><s n="f"/></l><r>Speckboun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fischadler<s n="n"/><s n="m"/></l><r>Grousse<b/>Fëschplompert<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Flächenmaß<s n="n"/><s n="nt"/></l><r>Flächemooss<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fledermaus<s n="n"/><s n="f"/></l><r>Flantermaus<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fledermaus<s n="n"/><s n="f"/></l><r>Flëntermaus<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fledermaus<s n="n"/><s n="f"/></l><r>Fliedermaus<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fliegenklatsche<s n="n"/><s n="f"/></l><r>Méckebaatsch<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Fluss<s n="n"/><s n="nt"/></l><r>Floss<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Fohlen<s n="n"/><s n="nt"/></l><r>Fillen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Fotograf<s n="n"/><s n="m"/></l><r>Fotograf<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Französische<b/>Revolution<s n="n"/><s n="f"/></l><r>Franséisch<b/>Revolutioun<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Freund<s n="n"/><s n="m"/></l><r>Frënd<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Freundin<s n="n"/><s n="f"/></l><r>Frëndin<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Freundschaft<s n="n"/><s n="f"/></l><r>Frëndschaft<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Frühjahr<s n="n"/><s n="nt"/></l><r>Fréijoer<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Frühling<s n="n"/><s n="m"/></l><r>Fréijoer<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Fuchs<s n="n"/><s n="m"/></l><r>Fochs<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Fuchsschwanz<s n="n"/><s n="m"/></l><r>Fuusseschwanz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Führerschein<s n="n"/><s n="m"/></l><r>Führerschäin<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Füllfeder<s n="n"/><s n="f"/></l><r>Füllfieder<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Gabione<s n="n"/><s n="f"/></l><r>Steekuerf<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Gänsehaut<s n="n"/><s n="f"/></l><r>Héngerhaut<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Gebiss<s n="n"/><s n="nt"/></l><r>Gebëss<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Geld<s n="n"/><s n="nt"/></l><r>Suen<s n="n"/></r></p></e>
+    <e><p><l>Geldbeutel<s n="n"/><s n="m"/></l><r>Portmonni<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Geldbörse<s n="n"/><s n="f"/></l><r>Portmonni<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Geldmenge<s n="n"/><s n="f"/></l><r>Geldmass<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Gemeinderat<s n="n"/><s n="m"/></l><r>Gemengerot<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Geographie<s n="n"/><s n="f"/></l><r>Geographie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Geschenk<s n="n"/><s n="nt"/></l><r>Kaddo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Gesicht<s n="n"/><s n="nt"/></l><r>Gesiicht<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Gewächshaus<s n="n"/><s n="nt"/></l><r>Zär<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Gießkanne<s n="n"/><s n="f"/></l><r>Strenz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Gießkanne<s n="n"/><s n="f"/></l><r>Géisskan<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Grizzly<s n="n"/><s n="m"/></l><r>Grizzly<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Grizzly<s n="n"/><s n="m"/></l><r>Grizzlybier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Grizzlybär<s n="n"/><s n="m"/></l><r>Grizzlybier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Grizzlybär<s n="n"/><s n="m"/></l><r>Grizzly<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Gymnasium<s n="n"/><s n="nt"/></l><r>Lycée<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Hagebutte<s n="n"/><s n="f"/></l><r>Spackelter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Handschuh<s n="n"/><s n="m"/></l><r>Händsch<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Häschen<s n="n"/><s n="nt"/></l><r>Hieschen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Hase<s n="n"/><s n="m"/></l><r>Hues<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Häuschen<s n="n"/><s n="nt"/></l><r>Haischen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Hausrind<s n="n"/><s n="nt"/></l><r>Rëndvéi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Haut<s n="n"/><s n="f"/></l><r>Haut<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Heiliger<b/>Geist<s n="n"/><s n="m"/></l><r>Hellege<b/>Geescht<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Heilpflaster<s n="n"/><s n="nt"/></l><r>Plooschter<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Hengst<s n="n"/><s n="m"/></l><r>Hengscht<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Herbstzeitlose<s n="n"/><s n="f"/></l><r>Hierschtblumm<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Hering<s n="n"/><s n="m"/></l><r>Hierk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Herz<s n="n"/><s n="nt"/></l><r>Häerz<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Heuschrecke<s n="n"/><s n="f"/></l><r>Heesprénger<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Himbeere<s n="n"/><s n="f"/></l><r>Hambier<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Himmelskörper<s n="n"/><s n="m"/></l><r>Himmelskierper<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Hochofen<s n="n"/><s n="m"/></l><r>Héichuewen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Homosexualität<s n="n"/><s n="f"/></l><r>Homosexualitéit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Hund<s n="n"/><s n="m"/></l><r>Haushond<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Hund<s n="n"/><s n="m"/></l><r>Mupp<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Hure<s n="n"/><s n="f"/></l><r>Houer<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Igel<s n="n"/><s n="m"/></l><r>Kéiseker<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Igel<s n="n"/><s n="m"/></l><r>Däreldéier<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Illusion<s n="n"/><s n="f"/></l><r>Illusioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Inauguration<s n="n"/><s n="f"/></l><r>Aweiung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Inauguration<s n="n"/><s n="f"/></l><r>Inauguratioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Invasion<s n="n"/><s n="f"/></l><r>Amarsch<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Jagdflugzeug<s n="n"/><s n="nt"/></l><r>Juegdfliger<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Januar<s n="n"/><s n="m"/></l><r>Haartmount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Joghurt<s n="n"/><s n="m"/></l><r>Jughurt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Juli<s n="n"/><s n="m"/></l><r>Heemount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Jünglein<s n="n"/><s n="nt"/></l><r>Jéngelchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Juni<s n="n"/><s n="m"/></l><r>Broochmount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Käfer<s n="n"/><s n="m"/></l><r>Kiewerlek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kalb<s n="n"/><s n="nt"/></l><r>Kallef<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kamel<s n="n"/><s n="nt"/></l><r>Kaméil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kampfläufer<s n="n"/><s n="m"/></l><r>Ambaraskréimer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kampfläufer<s n="n"/><s n="m"/></l><r>Dänzert<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kampfläufer<s n="n"/><s n="m"/></l><r>Wandmécher<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kapazität<s n="n"/><s n="f"/></l><r>Capacitéit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Kartoffelpuffer<s n="n"/><s n="m"/></l><r>Gromperekichelchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kerze<s n="n"/><s n="f"/></l><r>Käerz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Kindlein<s n="n"/><s n="m"/></l><r>Këndchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kinnlade<s n="n"/><s n="f"/></l><r>Gebéck<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Kissen<s n="n"/><s n="nt"/></l><r>Këssen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Kissen<s n="n"/><s n="nt"/></l><r>Pillem<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kleiderschrank<s n="n"/><s n="m"/></l><r>Kleederschaf<s n="n"/></r></p></e>
+    <e><p><l>Kleie<s n="n"/><s n="f"/></l><r>Krësch<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Knecht<b/>Rupprecht<s n="n"/><s n="m"/></l><r>Houseker<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kochpunkt<s n="n"/><s n="m"/></l><r>Kachpunkt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kohlenstoff<s n="n"/><s n="m"/></l><r>Kuelestoff<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Konter<s n="n"/><s n="m"/></l><r>Konter<s n="n"/></r></p></e>
+    <e><p><l>Konzertina<s n="n"/><s n="f"/></l><r>Quëtsch<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Körbchen<s n="n"/><s n="nt"/></l><r>Kierfchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Krawatte<s n="n"/><s n="f"/></l><r>Krawatt<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Kreide<s n="n"/><s n="f"/></l><r>Kräid<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Kreuzweg<s n="n"/><s n="m"/></l><r>Kräizwee<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kühlschrank<s n="n"/><s n="m"/></l><r>Frigo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kühlschrank<s n="n"/><s n="m"/></l><r>Frigidaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Kühltruhe<s n="n"/><s n="f"/></l><r>Killtru<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Kürbis<s n="n"/><s n="m"/></l><r>Kürbis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Lachs<s n="n"/><s n="m"/></l><r>Saumon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Laden<s n="n"/><s n="m"/></l><r>Buttek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Lakritze<s n="n"/><s n="nt"/></l><r>Lakritz<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Lakritze<s n="n"/><s n="f"/></l><r>Mokuch<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Lampe<s n="n"/><s n="f"/></l><r>Luucht<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Laube<s n="n"/><s n="f"/></l><r>Aalbes<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Lebensmittel<s n="n"/><s n="nt"/></l><r>Liewensmëttel<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Liebe<s n="n"/><s n="f"/></l><r>Léift<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Löffel<s n="n"/><s n="m"/></l><r>Läffel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Löwe<s n="n"/><s n="m"/></l><r>Léiw<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Lümmel<s n="n"/><s n="m"/></l><r>Lëmmel<s n="n"/></r></p></e>
+    <e><p><l>Lunge<s n="n"/><s n="f"/></l><r>Long<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Mähbinder<s n="n"/><s n="m"/></l><r>Bënner<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Mähdrescher<s n="n"/><s n="m"/></l><r>Méidrescher<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Mai<s n="n"/><s n="m"/></l><r>Mee<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Mai<s n="n"/><s n="m"/></l><r>Päischtmount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Marienkäfer<s n="n"/><s n="m"/></l><r>Himmelsdéierchen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>März<s n="n"/><s n="m"/></l><r>Lenzmount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Masturbation<s n="n"/><s n="f"/></l><r>Masturbatioun<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Maulwurf<s n="n"/><s n="m"/></l><r>Maulef<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Maulwurfshügel<s n="n"/><s n="m"/></l><r>Maulefskoup<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Meinung<s n="n"/><s n="f"/></l><r>Meenung<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Milch<s n="n"/><s n="f"/></l><r>Mëllech<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Mispel<s n="n"/><s n="f"/></l><r>Aaspel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Montag<s n="n"/><s n="m"/></l><r>Méindeg<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Montag<s n="n"/><s n="m"/></l><r>Méinden<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Mülleimer<s n="n"/><s n="m"/></l><r>Poubelle<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Mülleimer<s n="n"/><s n="m"/></l><r>Dreckseemer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Mülltonne<s n="n"/><s n="f"/></l><r>Drecksbac<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Nachtigall<s n="n"/><s n="f"/></l><r>Nuechtegailchen<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Nacken<s n="n"/><s n="m"/></l><r>Akaul<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Narr<s n="n"/><s n="m"/></l><r>Dommen<s n="n"/></r></p></e>
+    <e><p><l>Naturschutzgebiet<s n="n"/><s n="nt"/></l><r>Naturschutzgebitt<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Niere<s n="n"/><s n="f"/></l><r>Nier<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Nonnenkrapfen<s n="n"/><s n="m"/></l><r>Nonnefascht<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>November<s n="n"/><s n="m"/></l><r>Wantermount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>November<s n="n"/><s n="m"/></l><r>Allerhellgemount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Obdach<s n="n"/><s n="nt"/></l><r>Ënnerdaach<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Ökosystem<s n="n"/><s n="nt"/></l><r>Ecosystem<s n="n"/></r></p></e>
+    <e><p><l>Oktober<s n="n"/><s n="m"/></l><r>Wäimount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Pantoffel<s n="n"/><s n="m"/></l><r>Schlapp<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Papiertaschentuch<s n="n"/><s n="nt"/></l><r>Pabeiersnuesschnappech<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Pate<s n="n"/><s n="m"/></l><r>Pätter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Patin<s n="n"/><s n="f"/></l><r>Giedel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Pfannkuchen<s n="n"/><s n="m"/></l><r>Paangech<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Pfau<s n="n"/><s n="m"/></l><r>Pohunn<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Pfeil<s n="n"/><s n="m"/></l><r>Feil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Pferd<s n="n"/><s n="nt"/></l><r>Päerd<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Pflaster<s n="n"/><s n="nt"/></l><r>Plooschter<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Pokémon<s n="n"/><s n="nt"/></l><r>Pokémon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Polarbär<s n="n"/><s n="m"/></l><r>Äisbier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Praline<s n="n"/><s n="f"/></l><r>Knippchen<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Putz<s n="n"/><s n="m"/></l><r>Botz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Rechtsmediziner<s n="n"/><s n="m"/></l><r>Geriichtsdokter<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Regenbogen<s n="n"/><s n="m"/></l><r>Reebou<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Regenschirm<s n="n"/><s n="m"/></l><r>Prabbeli<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Reptilien<s n="n"/><s n="nt"/></l><r>Reptiller<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Römerstraße<s n="n"/><s n="f"/></l><r>Kiem<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Rot<s n="n"/><s n="nt"/></l><r>Rout<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Roteiche<s n="n"/><s n="f"/></l><r>Routeech<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Rotmilan<s n="n"/><s n="m"/></l><r>Roude<b/>Schéierschwanz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Rührei<s n="n"/><s n="nt"/></l><r>Eeërtriwwel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Saite<s n="n"/><s n="f"/></l><r>Säit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Sakko<s n="n"/><s n="nt"/></l><r>Paltong<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Sammetblume<s n="n"/><s n="f"/></l><r>Sténkegen<b/>Houffert<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Säugetier<s n="n"/><s n="nt"/></l><r>Mamendéier<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Schal<s n="n"/><s n="m"/></l><r>Schal<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schauer<s n="n"/><s n="m"/></l><r>Schluet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schere<s n="n"/><s n="f"/></l><r>Schéier<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Schildkröte<s n="n"/><s n="f"/></l><r>Schildkröt<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Schillerlocke<s n="n"/><s n="f"/></l><r>Crèmëflütt<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Schinder<s n="n"/><s n="m"/></l><r>Schënner<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schlagsahne<s n="n"/><s n="f"/></l><r>Schlagsahn<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Schlagsahne<s n="n"/><s n="f"/></l><r>Chantilly<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Schlangenadler<s n="n"/><s n="f"/></l><r>Schlaangenadler<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schlüssel<s n="n"/><s n="m"/></l><r>Schlëssel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schmeißfliege<s n="n"/><s n="f"/></l><r>Schäissméck<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Schmeißfliege<s n="n"/><s n="f"/></l><r>Fleeschméck<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Schmelzpunkt<s n="n"/><s n="m"/></l><r>Schmëlzpunkt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schmetterling<s n="n"/><s n="m"/></l><r>Päiperlek<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schmutzfink<s n="n"/><s n="m"/></l><r>Drecksak<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schnee<s n="n"/><s n="m"/></l><r>Schnéi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schnee-Eier<s n="n"/><s n="nt"/></l><r>Eeërcrème<b/>mat<b/>Schnéi<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Schneeglöckchen<s n="n"/><s n="nt"/></l><r>Schnéikläckelchen<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Schönheit<s n="n"/><s n="f"/></l><r>Schéinheet<s n="n"/></r></p></e>
+    <e><p><l>Schraubendreher<s n="n"/><s n="m"/></l><r>Schrauwenzéier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schraubendreher<s n="n"/><s n="m"/></l><r>Tournevis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schraubenzieher<s n="n"/><s n="m"/></l><r>Schrauwenzéier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schraubenzieher<s n="n"/><s n="m"/></l><r>Tournevis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schraubstock<s n="n"/><s n="m"/></l><r>Schraufstack<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schuh<b/>mit<b/>Absatz<s n="n"/><s n="m"/></l><r>Talleksschong<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schuh<b/>mit<b/>Absatz<s n="n"/><s n="m"/></l><r>Tallongsschong<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Schüttgelb<s n="n"/><s n="nt"/></l><r>Schassgiel<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Schwalbe<s n="n"/><s n="f"/></l><r>Schmuebel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Seidenschwanz<s n="n"/><s n="m"/></l><r>Peschtvull<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Seidenschwanz<s n="n"/><s n="m"/></l><r>Hongervillchen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Seidenschwanz<s n="n"/><s n="m"/></l><r>Seideschwanz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Seife<s n="n"/><s n="f"/></l><r>Seef<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>September<s n="n"/><s n="m"/></l><r>Hierschtmount<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Sexualität<s n="n"/><s n="f"/></l><r>Sexualitéit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Siedepunkt<s n="n"/><s n="m"/></l><r>Kachpunkt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Sonnenbrille<s n="n"/><s n="f"/></l><r>Sonnebrëll<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Sonnenschirm<s n="n"/><s n="m"/></l><r>Sonneprabbeli<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Speiseeis<s n="n"/><s n="nt"/></l><r>Glace<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Straße<s n="n"/><s n="f"/></l><r>Strooss<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Strauß<s n="n"/><s n="m"/></l><r>Strauss<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Streichholz<s n="n"/><s n="nt"/></l><r>Fixspoun<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Streichhölzer<s n="n"/><s n="nt"/></l><r>Fixfeier<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Strohhalm<s n="n"/><s n="m"/></l><r>Stréihallem<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Strohhalm<s n="n"/><s n="m"/></l><r>Chalumeau<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Strumpf<s n="n"/><s n="m"/></l><r>Strëmp<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Studentenblume<s n="n"/><s n="f"/></l><r>Sténkegen<b/>Houffert<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Stutenkerl<s n="n"/><s n="m"/></l><r>Boxemännchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Stutenkerl<s n="n"/><s n="m"/></l><r>Kuchemännchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Sumpfdotterblume<s n="n"/><s n="f"/></l><r>Fräscheblumm<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Sumpfdotterblume<s n="n"/><s n="f"/></l><r>Eeërblumm<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Sumpfdotterblume<s n="n"/><s n="f"/></l><r>Botterblumm<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Sumpfrohrsänger<s n="n"/><s n="m"/></l><r>Waassergraatsch<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Tälchen<s n="n"/><s n="nt"/></l><r>Dällchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Taratinisch<s n="n"/><s n="nt"/></l><r>Tarantinesch<s n="n"/></r></p></e>
+    <e><p><l>Taschentuch<s n="n"/><s n="nt"/></l><r>Nuesschnappech<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Teddy<s n="n"/><s n="m"/></l><r>Teddy<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Teddy<s n="n"/><s n="m"/></l><r>Petzi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Teddy<s n="n"/><s n="m"/></l><r>Teddybier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Teddybär<s n="n"/><s n="m"/></l><r>Petzi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Teddybär<s n="n"/><s n="m"/></l><r>Teddy<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Teddybär<s n="n"/><s n="m"/></l><r>Teddybier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Tier<s n="n"/><s n="nt"/></l><r>Déier<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Tierwelt<s n="n"/><s n="f"/></l><r>Déierewelt<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Tiramisu<s n="n"/><s n="nt"/></l><r>Tiramisu<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Tischdecke<s n="n"/><s n="f"/></l><r>Dëschelduch<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Tischdecke<s n="n"/><s n="f"/></l><r>Nappe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Tischlein<s n="n"/><s n="nt"/></l><r>Dëschelchen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Tischtuch<s n="n"/><s n="nt"/></l><r>Nappe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Tischtuch<s n="n"/><s n="nt"/></l><r>Dëschelduch<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Tor<s n="n"/><s n="nt"/></l><r>Dommen<s n="n"/></r></p></e>
+    <e><p><l>Torwart<s n="n"/><s n="m"/></l><r>Golkipp<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Totenblume<s n="n"/><s n="f"/></l><r>Sténkegen<b/>Houffert<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Tram<s n="n"/><s n="m"/></l><r>Tram<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Träne<s n="n"/><s n="f"/></l><r>Tréin<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Treibhaus<s n="n"/><s n="nt"/></l><r>Zär<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Treibstoff<s n="n"/><s n="m"/></l><r>Dreifstoff<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Truthahn<s n="n"/><s n="m"/></l><r>Schnuddelhong<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Tür<s n="n"/><s n="f"/></l><r>Dier<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Uhr<s n="n"/><s n="f"/></l><r>Auer<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Ukelei<s n="n"/><s n="f"/></l><r>Aalbes<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Unbefleckte<b/>Empfängnis<s n="n"/><s n="f"/></l><r>Onbefleckt<b/>Empfängnis<s n="n"/></r></p></e>
+    <e><p><l>Unfall<s n="n"/><s n="m"/></l><r>Accident<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Unterkiefer<s n="n"/><s n="m"/></l><r>Gebéck<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Unterwäsche<s n="n"/><s n="f"/></l><r>Ënnerwäsch<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Verputz<s n="n"/><s n="m"/></l><r>Botz<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Videospiel<s n="n"/><s n="nt"/></l><r>Videospill<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Vorhängeschloss<s n="n"/><s n="nt"/></l><r>Klauschter<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Waage<s n="n"/><s n="f"/></l><r>Wo<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Waffel<s n="n"/><s n="f"/></l><r>Eisekuch<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Wald<s n="n"/><s n="m"/></l><r>Bësch<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Wanne<s n="n"/><s n="f"/></l><r>Wann<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Weißdorn<s n="n"/><s n="m"/></l><r>Hodar<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Weißdorn<s n="n"/><s n="m"/></l><r>Wäissdar<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Weltkarte<s n="n"/><s n="f"/></l><r>Weltkaart<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Werbung<s n="n"/><s n="f"/></l><r>Reklamm<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Werbung<s n="n"/><s n="f"/></l><r>Publicitéit<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Wespe<s n="n"/><s n="f"/></l><r>Harespel<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Wikiwörterbuch<s n="n"/><s n="nt"/></l><r>Wiktionnaire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Willkommen<s n="n"/><s n="nt"/></l><r>Wëllkomm<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Winde<s n="n"/><s n="f"/></l><r>Wann<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Wissenschaft<s n="n"/><s n="f"/></l><r>Wëssenschaft<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Wolf<s n="n"/><s n="m"/></l><r>Wollef<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Wörterbuch<s n="n"/><s n="nt"/></l><r>Wierderbuch<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Wunsch<s n="n"/><s n="m"/></l><r>Wonsch<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Würfel<s n="n"/><s n="m"/></l><r>Wierfel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Würfelzucker<s n="n"/><s n="m"/></l><r>Stéckerzocker<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Yak<s n="n"/><s n="m"/></l><r>Yak<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Zahlwort<s n="n"/><s n="nt"/></l><r>Zuelwuert<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>Zapfwelle<s n="n"/><s n="f"/></l><r>Zapwell<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Zebra<s n="n"/><s n="nt"/></l><r>Zebra<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Zuckerstück<s n="n"/><s n="nt"/></l><r>Stéckerzocker<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Zuckerwatte<s n="n"/><s n="f"/></l><r>Zockerwatt<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Zugang<s n="n"/><s n="m"/></l><r>Zougank<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Zweig<s n="n"/><s n="m"/></l><r>Aascht<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>Zwergtaucher<s n="n"/><s n="m"/></l><r>Däichelchen<s n="n"/><s n="m"/></r></p></e>
 
 
 <!-- SECTION: Proper nouns -->
@@ -4120,7 +4572,6 @@
     <e><i>Setton<s n="np"/><s n="cog"/></i></e>
     <e><i>Shaftesbury<s n="np"/><s n="cog"/></i></e>
     <e><i>Shakespeare<s n="np"/><s n="cog"/></i></e>
-    <e><i>Shakespeare<s n="np"/><s n="cog"/></i></e>
     <e><i>Shankar<s n="np"/><s n="cog"/></i></e>
     <e><i>Shark<s n="np"/><s n="cog"/></i></e>
     <e><i>Sharpe<s n="np"/><s n="cog"/></i></e>
@@ -4157,7 +4608,6 @@
     <e><i>Sprat<s n="np"/><s n="cog"/></i></e>
     <e><i>Springer<s n="np"/><s n="cog"/></i></e>
     <e><i>Spurlock<s n="np"/><s n="cog"/></i></e>
-    <e><i>Stalin<s n="np"/><s n="cog"/></i></e>
     <e><i>Stalin<s n="np"/><s n="cog"/></i></e>
     <e><i>Stanfill<s n="np"/><s n="cog"/></i></e>
     <e><i>Stanton<s n="np"/><s n="cog"/></i></e>
@@ -4320,6 +4770,107 @@
     <e><p><l>Paris<s n="np"/><s n="top"/></l><r>Paräis<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Rom<s n="np"/><s n="top"/></l><r>Roum<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Wien<s n="np"/><s n="top"/></l><r>Wien<s n="np"/><s n="top"/></r></p></e>
+
+
+    <!-- SECTION: Proper Nouns -->
+
+    <e><p><l>Afghanistan<s n="np"/></l><r>Afghanistan<s n="np"/></r></p></e>
+    <e><p><l>Armenien<s n="np"/></l><r>Armenien<s n="np"/></r></p></e>
+    <e><p><l>Aserbaidschan<s n="np"/></l><r>Aserbaidschan<s n="np"/></r></p></e>
+    <e><p><l>Bad<b/>Mondorf<s n="np"/></l><r>Munneref<s n="np"/></r></p></e>
+    <e><p><l>Bartringen<s n="np"/></l><r>Bartreng<s n="np"/></r></p></e>
+    <e><p><l>Basel-Stadt<s n="np"/></l><r>Basel-Stad<s n="np"/></r></p></e>
+    <e><p><l>Bauschleiden<s n="np"/></l><r>Bauschelt<s n="np"/></r></p></e>
+    <e><p><l>Bech<s n="np"/></l><r>Bech<s n="np"/></r></p></e>
+    <e><p><l>Beckerich<s n="np"/></l><r>Biekerech<s n="np"/></r></p></e>
+    <e><p><l>Befort<s n="np"/></l><r>Beefort<s n="np"/></r></p></e>
+    <e><p><l>Berdorf<s n="np"/></l><r>Bäerdref<s n="np"/></r></p></e>
+    <e><p><l>Bettemburg<s n="np"/></l><r>Beetebuerg<s n="np"/></r></p></e>
+    <e><p><l>Bettendorf<s n="np"/></l><r>Bettenduerf<s n="np"/></r></p></e>
+    <e><p><l>Betzdorf<s n="np"/></l><r>Betzder<s n="np"/></r></p></e>
+    <e><p><l>Bissen<s n="np"/></l><r>Biissen<s n="np"/></r></p></e>
+    <e><p><l>Biwer<s n="np"/></l><r>Biwer<s n="np"/></r></p></e>
+    <e><p><l>Böwingen<s n="np"/></l><r>Béiwen/Atert<s n="np"/></r></p></e>
+    <e><p><l>Böwingen<s n="np"/></l><r>Béiwen<b/>op<b/>der<b/>Atert<s n="np"/></r></p></e>
+    <e><p><l>Brasilien<s n="np"/></l><r>Brasilien<s n="np"/></r></p></e>
+    <e><p><l>Brüssel<s n="np"/></l><r>Bréissel<s n="np"/></r></p></e>
+    <e><p><l>Büderscheid<s n="np"/></l><r>Bitscht<s n="np"/></r></p></e>
+    <e><p><l>Burscheid<s n="np"/></l><r>Buerschent<s n="np"/></r></p></e>
+    <e><p><l>Dalheim<s n="np"/></l><r>Duelem<s n="np"/></r></p></e>
+    <e><p><l>Dänemark<s n="np"/></l><r>Dänemark<s n="np"/></r></p></e>
+    <e><p><l>Deutschland<s n="np"/></l><r>Däitschland<s n="np"/></r></p></e>
+    <e><p><l>Diekirch<s n="np"/></l><r>Dikrech<s n="np"/></r></p></e>
+    <e><p><l>Differdingen<s n="np"/></l><r>Déifferdeng<s n="np"/></r></p></e>
+    <e><p><l>Dippach<s n="np"/></l><r>Dippech<s n="np"/></r></p></e>
+    <e><p><l>Düdelingen<s n="np"/></l><r>Diddeleng<s n="np"/></r></p></e>
+    <e><p><l>Echternach<s n="np"/></l><r>Iechternach<s n="np"/></r></p></e>
+    <e><p><l>Ehleringen<s n="np"/></l><r>Éilereng<s n="np"/></r></p></e>
+    <e><p><l>Ell<s n="np"/></l><r>Ell<s n="np"/></r></p></e>
+    <e><p><l>Erpeldingen<s n="np"/></l><r>Ierpeldeng<s n="np"/></r></p></e>
+    <e><p><l>Esch-Alzette<s n="np"/></l><r>Esch-Uelzecht<s n="np"/></r></p></e>
+    <e><p><l>Eschweiler<s n="np"/></l><r>Eeschwëller<s n="np"/></r></p></e>
+    <e><p><l>Estland<s n="np"/></l><r>Estland<s n="np"/><s n="nt"/></r></p></e>
+    <e><p><l>Ettelbrück<s n="np"/></l><r>Ettelbréck<s n="np"/></r></p></e>
+    <e><p><l>Feulen<s n="np"/></l><r>Feelen<s n="np"/></r></p></e>
+    <e><p><l>Fischbach<s n="np"/></l><r>Fëschbech<s n="np"/></r></p></e>
+    <e><p><l>Flaxweiler<s n="np"/></l><r>Fluessweller<s n="np"/></r></p></e>
+    <e><p><l>Frisingen<s n="np"/></l><r>Fréiseng<s n="np"/></r></p></e>
+    <e><p><l>Garnich<s n="np"/></l><r>Garnech<s n="np"/></r></p></e>
+    <e><p><l>Goesdorf<s n="np"/></l><r>Géisdref<s n="np"/></r></p></e>
+    <e><p><l>Grevenmacher<s n="np"/></l><r>Gréiwemaacher<s n="np"/></r></p></e>
+    <e><p><l>Grosbous<s n="np"/></l><r>Groussbus<s n="np"/></r></p></e>
+    <e><p><l>Heffingen<s n="np"/></l><r>Hiefenech<s n="np"/></r></p></e>
+    <e><p><l>Hesperingen<s n="np"/></l><r>Hesper<s n="np"/></r></p></e>
+    <e><p><l>Hobscheid<s n="np"/></l><r>Habscht<s n="np"/></r></p></e>
+    <e><p><l>Junglinster<s n="np"/></l><r>Jonglënster<s n="np"/></r></p></e>
+    <e><p><l>Kayl<s n="np"/></l><r>Keel<s n="np"/></r></p></e>
+    <e><p><l>Kehlen<s n="np"/></l><r>Kielen<s n="np"/></r></p></e>
+    <e><p><l>Koerich<s n="np"/></l><r>Käerch<s n="np"/></r></p></e>
+    <e><p><l>Konsdorf<s n="np"/></l><r>Konsdref<s n="np"/></r></p></e>
+    <e><p><l>Kopstal<s n="np"/></l><r>Koplescht<s n="np"/></r></p></e>
+    <e><p><l>Lenningen<s n="np"/></l><r>Lenneng<s n="np"/></r></p></e>
+    <e><p><l>Leudelingen<s n="np"/></l><r>Leideleng<s n="np"/></r></p></e>
+    <e><p><l>Lintgen<s n="np"/></l><r>Lëntgen<s n="np"/></r></p></e>
+    <e><p><l>Lorentzweiler<s n="np"/></l><r>Luerenzweiler<s n="np"/></r></p></e>
+    <e><p><l>Manternach<s n="np"/></l><r>Manternach<s n="np"/></r></p></e>
+    <e><p><l>Medernach<s n="np"/></l><r>Miedernach<s n="np"/></r></p></e>
+    <e><p><l>Mersch<s n="np"/></l><r>Miersch<s n="np"/></r></p></e>
+    <e><p><l>Mertert<s n="np"/></l><r>Mäertert<s n="np"/></r></p></e>
+    <e><p><l>Mompach<s n="np"/></l><r>Mompech<s n="np"/></r></p></e>
+    <e><p><l>Monnerich<s n="np"/></l><r>Monnerech<s n="np"/></r></p></e>
+    <e><p><l>Moskau<s n="np"/></l><r>Moskau<s n="np"/></r></p></e>
+    <e><p><l>Niederanven<s n="np"/></l><r>Nidderaanwen<s n="np"/></r></p></e>
+    <e><p><l>Nocher<s n="np"/></l><r>Nacher<s n="np"/></r></p></e>
+    <e><p><l>Nommern<s n="np"/></l><r>Noumer<s n="np"/></r></p></e>
+    <e><p><l>Österreich<s n="np"/></l><r>Éisträich<s n="np"/></r></p></e>
+    <e><p><l>Peking<s n="np"/></l><r>Peking<s n="np"/></r></p></e>
+    <e><p><l>Petingen<s n="np"/></l><r>Péiteng<s n="np"/><s n="nt"/></r></p></e>
+    <e><p><l>Préizerdaul<s n="np"/></l><r>Préizerdaul<s n="np"/></r></p></e>
+    <e><p><l>Putscheid<s n="np"/></l><r>Pëtscht<s n="np"/></r></p></e>
+    <e><p><l>Rambruch<s n="np"/></l><r>Rammerech<s n="np"/></r></p></e>
+    <e><p><l>Remich<s n="np"/></l><r>Réimech<s n="np"/></r></p></e>
+    <e><p><l>Rümelingen<s n="np"/></l><r>Rëmeleng<s n="np"/></r></p></e>
+    <e><p><l>Slowenien<s n="np"/></l><r>Slowenien<s n="np"/></r></p></e>
+    <e><p><l>Südamerika<s n="np"/></l><r>Südamerika<s n="np"/></r></p></e>
+    <e><p><l>Tallinn<s n="np"/></l><r>Tallinn<s n="np"/></r></p></e>
+    <e><p><l>Tokio<s n="np"/></l><r>Tokio<s n="np"/></r></p></e>
+    <e><p><l>Ulflingen<s n="np"/></l><r>Ëlwen<s n="np"/></r></p></e>
+    <e><p><l>Vianden<s n="np"/></l><r>Veianen<s n="np"/></r></p></e>
+    <e><p><l>Wiltz<s n="np"/></l><r>Wolz<s n="np"/></r></p></e>
+
+
+<!-- SECTION: Interjections -->
+
+    <e><p><l>auf<b/>Wiedersehen<s n="ij"/></l><r>Salut<s n="ij"/></r></p></e>
+    <e><p><l>auf<b/>Wiedersehen<s n="ij"/></l><r>Awuer<s n="ij"/></r></p></e>
+    <e><p><l>auf<b/>Wiedersehen<s n="ij"/></l><r>Awar<s n="ij"/></r></p></e>
+    <e><p><l>auf<b/>Wiedersehen<s n="ij"/></l><r>Äddi<s n="ij"/></r></p></e>
+    <e><p><l>guten<b/>Morgen<s n="ij"/></l><r>Bonjour<s n="ij"/></r></p></e>
+    <e><p><l>guten<b/>Morgen<s n="ij"/></l><r>Moien<s n="ij"/></r></p></e>
+    <e><p><l>tschüs<s n="ij"/></l><r>Äddi<s n="ij"/></r></p></e>
+    <e><p><l>tschüs<s n="ij"/></l><r>Awar<s n="ij"/></r></p></e>
+    <e><p><l>tschüs<s n="ij"/></l><r>Awuer<s n="ij"/></r></p></e>
+    <e><p><l>tschüs<s n="ij"/></l><r>Salut<s n="ij"/></r></p></e>
 
 
 <!-- SECTION: Abbreviations -->
