@@ -1,0 +1,20 @@
+[0DUCxD10owuT#0] ^coma<CM>{^,<cm>$}$
+[/0DUCxD10owuT]
+[6JqeIe9F78vS#0] ^default<default>{^„<lquot>$}$
+[/6JqeIe9F78vS]
+[JLayeQnQRzSm#0] ^Pr<PR>{^mit<pr><dat>$}$ ^det<DET>{^der<det><def><m><sg><dat>$}$
+[/JLayeQnQRzSm]
+[KJyQ3s9AyOwV#0] ^Pr<PR>{^an<pr><dat>$}$ ^det<DET>{^der<det><def><m><sg><dat>$}$
+[/KJyQ3s9AyOwV]
+[L1iK_hSmE8tE#0] ^Pr<PR>{^nach<pr><dat>$}$ ^det<DET>{^der<det><def><m><sg><dat>$}$
+[/L1iK_hSmE8tE]
+[PSha32VuAfFI#0] ^Pr<PR>{^vor<pr><dat>$}$ ^det<DET>{^der<det><def><m><sg><dat>$}$
+[/PSha32VuAfFI]
+[RXWdQBLaGl1r#0] ^Det<DET>{^der<det><def><f><sg><nom>$}$
+[/RXWdQBLaGl1r]
+[RcqEVAly0MGc#0] ^default<default>{^“<rquot>$}$
+[/RcqEVAly0MGc]
+[X4OgWfsm7YN_#0] ^Pr<PR>{^bei<pr><dat>$}$ ^det<DET>{^der<det><def><m><sg><dat>$}$
+[/X4OgWfsm7YN_]
+[io3oI9XtPhJ0#0] ^Sent<SENT>{^?<sent>$}$
+[/io3oI9XtPhJ0]

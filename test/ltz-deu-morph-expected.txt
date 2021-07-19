@@ -1,0 +1,20 @@
+[0DUCxD10owuT#0] ^,/,<cm>$
+[/0DUCxD10owuT]
+[6JqeIe9F78vS#0] ^„/„<lquot>$
+[/6JqeIe9F78vS]
+[JLayeQnQRzSm#0] ^mam/mat<pr><dat>+den<det><def><m><sg><dat>/mat<pr><dat>+den<det><def><nt><sg><dat>$
+[/JLayeQnQRzSm]
+[KJyQ3s9AyOwV#0] ^um/un<pr><dat>+den<det><def><m><sg><dat>/un<pr><dat>+den<det><def><nt><sg><dat>$
+[/KJyQ3s9AyOwV]
+[L1iK_hSmE8tE#0] ^nom/no<pr><dat>+den<det><def><m><sg><dat>/no<pr><dat>+den<det><def><nt><sg><dat>$
+[/L1iK_hSmE8tE]
+[PSha32VuAfFI#0] ^virum/virun<pr><dat>+den<det><def><m><sg><dat>/virun<pr><dat>+den<det><def><nt><sg><dat>$
+[/PSha32VuAfFI]
+[RXWdQBLaGl1r#0] ^d'/den<det><def><f><sg><nom>/den<det><def><f><sg><acc>/den<det><def><nt><sg><nom>/den<det><def><nt><sg><acc>/den<det><def><mfn><pl><nom>/den<det><def><mfn><pl><acc>$
+[/RXWdQBLaGl1r]
+[RcqEVAly0MGc#0] ^“/“<rquot>$
+[/RcqEVAly0MGc]
+[X4OgWfsm7YN_#0] ^beim/bei<pr><dat>+den<det><def><m><sg><dat>/bei<pr><dat>+den<det><def><nt><sg><dat>$
+[/X4OgWfsm7YN_]
+[io3oI9XtPhJ0#0] ^?/?<sent>$
+[/io3oI9XtPhJ0]

@@ -1,0 +1,10 @@
+{
+    "deu-ltz": {
+        "input": "deu-ltz-input.txt",
+        "mode": "deu-ltz"
+    },
+    "ltz-deu": {
+        "input": "ltz-deu-input.txt",
+        "mode": "ltz-deu"
+    }
+}

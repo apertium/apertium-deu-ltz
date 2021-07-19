@@ -1,0 +1,18 @@
+[0DUCxD10owuT#0] ^default<default>{^,<cm>$}$
+[/0DUCxD10owuT]
+[5b8fA8rP9q3w#0] ^default<default>{^an<pr><acc>$}$ ^default<default>{^den<det><def><nt><sg><acc>$}$
+[/5b8fA8rP9q3w]
+[6JqeIe9F78vS#0] ^default<default>{^„<lquot>$}$
+[/6JqeIe9F78vS]
+[MkR1m8qErGLQ#0] ^default<default>{^7359<num><ord>$}$
+[/MkR1m8qErGLQ]
+[RcqEVAly0MGc#0] ^default<default>{^“<rquot>$}$
+[/RcqEVAly0MGc]
+[UEJ2Ka6YeOww#0] ^default<default>{^du<prn><pers><p2><mf><sg><nom>$}$ ^default<default>{^hatt<prn><pers><p3><nt><sg><nom>$}$
+[/UEJ2Ka6YeOww]
+[cRufnV_IhrRc#0] ^default<default>{^iwwer<pr><acc>$}$ ^default<default>{^den<det><def><nt><sg><acc>$}$
+[/cRufnV_IhrRc]
+[ouCkzB8iHH8q#0] ^default<default>{^un<pr><acc>$}$ ^default<default>{^den<det><def><nt><sg><acc>$}$
+[/ouCkzB8iHH8q]
+[pFnsXHKSWgQw#0] ^default<default>{^op<pr><acc>$}$ ^default<default>{^den<det><def><nt><sg><acc>$}$
+[/pFnsXHKSWgQw]

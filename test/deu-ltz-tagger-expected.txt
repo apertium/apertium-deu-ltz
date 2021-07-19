@@ -1,0 +1,18 @@
+[0DUCxD10owuT#0] ^,<cm>$
+[/0DUCxD10owuT]
+[5b8fA8rP9q3w#0] ^in<pr><acc>+der<det><def><nt><sg><acc>$
+[/5b8fA8rP9q3w]
+[6JqeIe9F78vS#0] ^„<lquot>$
+[/6JqeIe9F78vS]
+[MkR1m8qErGLQ#0] ^7359<num><ord>$
+[/MkR1m8qErGLQ]
+[RcqEVAly0MGc#0] ^“<rquot>$
+[/RcqEVAly0MGc]
+[UEJ2Ka6YeOww#0] ^du<prn><pers><p2><mf><sg><nom>+es<prn><pers><p3><nt><sg><nom>$
+[/UEJ2Ka6YeOww]
+[cRufnV_IhrRc#0] ^über<pr><acc>+der<det><def><nt><sg><acc>$
+[/cRufnV_IhrRc]
+[ouCkzB8iHH8q#0] ^an<pr><acc>+der<det><def><nt><sg><acc>$
+[/ouCkzB8iHH8q]
+[pFnsXHKSWgQw#0] ^auf<pr><acc>+der<det><def><nt><sg><acc>$
+[/pFnsXHKSWgQw]

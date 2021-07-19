@@ -1,0 +1,20 @@
+[0DUCxD10owuT#0] ^,<cm>$
+[/0DUCxD10owuT]
+[6JqeIe9F78vS#0] ^„<lquot>$
+[/6JqeIe9F78vS]
+[JLayeQnQRzSm#0] ^mat<pr><dat>+den<det><def><m><sg><dat>$
+[/JLayeQnQRzSm]
+[KJyQ3s9AyOwV#0] ^un<pr><dat>+den<det><def><m><sg><dat>$
+[/KJyQ3s9AyOwV]
+[L1iK_hSmE8tE#0] ^no<pr><dat>+den<det><def><m><sg><dat>$
+[/L1iK_hSmE8tE]
+[PSha32VuAfFI#0] ^virun<pr><dat>+den<det><def><m><sg><dat>$
+[/PSha32VuAfFI]
+[RXWdQBLaGl1r#0] ^den<det><def><f><sg><nom>$
+[/RXWdQBLaGl1r]
+[RcqEVAly0MGc#0] ^“<rquot>$
+[/RcqEVAly0MGc]
+[X4OgWfsm7YN_#0] ^bei<pr><dat>+den<det><def><m><sg><dat>$
+[/X4OgWfsm7YN_]
+[io3oI9XtPhJ0#0] ^?<sent>$
+[/io3oI9XtPhJ0]
